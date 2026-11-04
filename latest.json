@@ -1,8 +1,8 @@
 {
-  "version": "1.9.19",
+  "version": "1.9.20",
   "date": "2026-11-04",
-  "notes": "- 앱 이름이 'Total Calendar'로 바뀌었어요 (일정·설정은 그대로)\n- 설정 > 기타, 트레이 메뉴에 '문제 신고 · 의견 보내기' 추가\n- 업데이트 확인 위치 이전 준비",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.19.zip",
-  "sha256": "0ac428ff0ef244a283509a9de1a424c72237b7608a1c2cd45361afdf8486a8c1",
-  "size": 27083924
+  "notes": "- 새로 설치한 PC의 첫 화면을 위젯 모드 기본 꾸미기로 맞췄어요\n- 작은 화면에서는 첫 위젯 크기를 화면에 맞게 줄여요\n- 이미 쓰던 PC의 설정은 그대로예요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.20.zip",
+  "sha256": "46e7be5baffdbd684c0e2022cdc53cd70c3ce5ebe1c8b9e24e91a9a445b0bdd7",
+  "size": 27084527
 }
