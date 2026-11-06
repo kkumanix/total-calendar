@@ -1,8 +1,8 @@
 {
-  "version": "1.9.22",
+  "version": "1.9.23",
   "date": "2026-11-06",
-  "notes": "- 캘린더 연결 목록(Outlook·Google 등)도 PC↔휴대폰으로 맞춰요\n- 비밀번호는 서버에 올리지 않아요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.22.zip",
-  "sha256": "57482fc8f8761bdd19e06a643a2d13bcfda806d01e6bf4b0fbe0cfdbba2ef222",
-  "size": 27093829
+  "notes": "- 설정 저장 때 다른 기기에서 넘어온 캘린더 연결이 지워지던 문제 수정\n- 캘린더 연결은 직접 지운 것만 다른 기기에서도 지워져요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.23.zip",
+  "sha256": "024b912bb80566b0e536ea3f9122dc9fd24ec640ada68b4c013479c2c6ef3cf2",
+  "size": 27094492
 }
