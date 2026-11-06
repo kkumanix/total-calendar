@@ -1,8 +1,8 @@
 {
-  "version": "1.9.24",
+  "version": "1.9.25",
   "date": "2026-11-06",
-  "notes": "- Total Calendar 소개 · 무료/프리미엄 안내 화면 (트레이 > 'Total Calendar 소개 · 프리미엄')\n- 지금은 베타 기간이라 프리미엄 꾸미기도 모두 무료",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.24.zip",
-  "sha256": "1630cc6e38cc2a747a7fd28e138885b79637ceba1722de70a9fa70698f2e57bb",
-  "size": 27151492
+  "notes": "- Total Calendar 소개 화면을 강점 위주로 새로 구성 (트레이 > 'Total Calendar 소개 · 프리미엄')",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.25.zip",
+  "sha256": "073ddb37ac63519587c3e632bcbb8bd1464658dd74d524437f94d20f4f9d77b2",
+  "size": 27151726
 }
