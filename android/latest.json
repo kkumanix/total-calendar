@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "minNative": 5,
   "date": "2026-11-06",
-  "notes": "- 휴대폰 앱 업데이트가 안 되던 문제를 고쳤어요\n- ⋯ 메뉴 > 업데이트 확인으로 바로 업데이트할 수 있어요\n- 새 버전을 받으면 '지금 적용할까요?'를 물어봐요\n- 캘린더 연결 목록(Outlook 등)도 PC와 맞춰져요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.0.0.zip",
-  "sha256": "f661ed13b107bef0216ec97ace1a557c1efce03c82aa73bfe8c51b999c022259",
-  "size": 329828
+  "notes": "- 휴대폰·태블릿·가로 화면에 맞게 전체 정리했어요\n- 세로 화면: 달력 아래에 오늘·내일 일정 목록, 달력 칸에 일정 제목\n- 설정 메뉴가 화면을 덜 차지해요\n- 새 홈 화면 위젯 3종은 새 앱(APK) 설치가 필요해요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.1.0.zip",
+  "sha256": "3abad2a184b7fd2ac5e7a2c0c65668a72f9dec2c4da29eae75b4cac85315176b",
+  "size": 331750
 }
