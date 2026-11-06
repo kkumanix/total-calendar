@@ -1,9 +1,9 @@
 {
-  "version": "2.2.0",
-  "minNative": 13,
+  "version": "2.2.1",
+  "minNative": 14,
   "date": "2026-11-06",
-  "notes": "홈 화면 위젯 새 모양: 투명·라이트·다크, 현재 시각·오늘 날짜 크게, 캐릭터 켜기/끄기, 오늘 일정 간단히. 위젯은 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.2.0.zip",
-  "sha256": "330f76479bcea22812dad87747016bfb5a833c1c3e896767b702b55ad3ec3a5d",
-  "size": 333079
+  "notes": "위젯이 '추가할 수 없음'으로 나오던 문제 수정. 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.2.1.zip",
+  "sha256": "83415c12fe8cbe962e7fc4d5002c6348129f363a58ccba79b8b2c41eb49b5df4",
+  "size": 333082
 }
