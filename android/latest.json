@@ -1,9 +1,9 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.2",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "소개 화면에 기능별 자세한 설명 추가",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.6.1.zip",
-  "sha256": "3453c11bde84df24cc819b50cf58857f10398927a6dd06e590b076c2adac3c16",
-  "size": 395421
+  "notes": "소개 화면 디자인 새로 정리",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.6.2.zip",
+  "sha256": "3675f2204e26eeed3256e87768fbd9851a4adc9916692afc413a894923327afe",
+  "size": 395491
 }
