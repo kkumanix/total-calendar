@@ -1,9 +1,9 @@
 {
-  "version": "2.2.1",
-  "minNative": 14,
+  "version": "2.3.0",
+  "minNative": 15,
   "date": "2026-11-06",
-  "notes": "위젯이 '추가할 수 없음'으로 나오던 문제 수정. 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.2.1.zip",
-  "sha256": "83415c12fe8cbe962e7fc4d5002c6348129f363a58ccba79b8b2c41eb49b5df4",
-  "size": 333082
+  "notes": "위젯 새 디자인(날짜·요일 위, 큰 시각), 현재 기온, 캐릭터 표시, 중요한 일정만 보기. 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.3.0.zip",
+  "sha256": "8f6ded07fdc39592b05e9b9013824ed3ea422495a751e532b332f0add83d6b2d",
+  "size": 334978
 }
