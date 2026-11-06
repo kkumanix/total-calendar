@@ -1,9 +1,9 @@
 {
-  "version": "2.8.0",
+  "version": "2.8.1",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "알람: 달력에 넣지 않는 알림 (설정 > 7. 알림 · 알람). 기본 알람 매일 9시·18시",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.8.0.zip",
-  "sha256": "aafdc7733e424d9197bf436421a93b7811b11abf86a98419d25362e740efbe98",
-  "size": 406968
+  "notes": "달력 맨 아래 알람 표시 글씨를 크게",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.8.1.zip",
+  "sha256": "808c748e8cfa14548376bdcc5659a9df2a7d719cfa735b0acafdbc268fe16ec0",
+  "size": 406982
 }
