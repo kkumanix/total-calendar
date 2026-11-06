@@ -1,9 +1,9 @@
 {
-  "version": "2.5.3",
-  "minNative": 20,
+  "version": "2.6.0",
+  "minNative": 22,
   "date": "2026-11-06",
-  "notes": "소개 화면을 강점 위주로 새로 구성 (⋯ 메뉴 > 'Total Calendar 소개 · 프리미엄')",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.5.3.zip",
-  "sha256": "b244a0da5e02ae2365d686317c064cb5e2259ae90167024b3c4058da8885dce2",
-  "size": 392205
+  "notes": "위젯 배치 직접 설정(사진 위치·크기, 글자 크기, 날짜·날씨 위치). 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.6.0.zip",
+  "sha256": "423612440cc10cd6209890f5ab3915fa1cfe512eec56c5d62d894ee7392403dd",
+  "size": 394361
 }
