@@ -1,8 +1,8 @@
 {
-  "version": "1.9.25",
+  "version": "1.9.26",
   "date": "2026-11-06",
-  "notes": "- Total Calendar 소개 화면을 강점 위주로 새로 구성 (트레이 > 'Total Calendar 소개 · 프리미엄')",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.25.zip",
-  "sha256": "073ddb37ac63519587c3e632bcbb8bd1464658dd74d524437f94d20f4f9d77b2",
-  "size": 27151726
+  "notes": "- 소개 화면에 기능별로 '무엇을 할 수 있는지' 자세히 추가",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.26.zip",
+  "sha256": "15403ebe5fc764ccd099d73359d5792aa06028a5cdf6f806b70cee23be093e81",
+  "size": 27154906
 }

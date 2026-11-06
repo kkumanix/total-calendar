@@ -1,9 +1,9 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "위젯 배치 직접 설정(사진 위치·크기, 글자 크기, 날짜·날씨 위치). 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.6.0.zip",
-  "sha256": "423612440cc10cd6209890f5ab3915fa1cfe512eec56c5d62d894ee7392403dd",
-  "size": 394361
+  "notes": "소개 화면에 기능별 자세한 설명 추가",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.6.1.zip",
+  "sha256": "3453c11bde84df24cc819b50cf58857f10398927a6dd06e590b076c2adac3c16",
+  "size": 395421
 }
