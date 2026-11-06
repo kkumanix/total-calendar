@@ -1,9 +1,9 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "말로 일정 등록: ⋯ 메뉴 > '말로 일정 등록'에서 평소 말투로 적으면 알아서 정리해요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.7.0.zip",
-  "sha256": "8a35cb8399d2ef2aa2dd8ea832a008a2b7fc62a8ffc4bb688db56cf00833c6f7",
-  "size": 400681
+  "notes": "소개 화면: 바탕화면 달력 특징과 장점 추가",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.7.1.zip",
+  "sha256": "801162c90e6b6596677c278f3cf3da1aeaf407b3d3358bc159bb898f5f98127a",
+  "size": 401727
 }

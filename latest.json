@@ -1,8 +1,8 @@
 {
-  "version": "1.9.29",
+  "version": "1.9.30",
   "date": "2026-11-06",
-  "notes": "- 말로 일정 등록: AI 모델이 없어도 날짜·시간·장소·반복·알림을 더 정확하게 찾아요\n- 안내 메일(일시·장소·주제)도 한 번에 정리",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.29.zip",
-  "sha256": "be2e77f5765560aa56f74fd9705999f65eddb6731dd83f60c3c1945c29e75196",
-  "size": 27159405
+  "notes": "- 소개 화면: '바탕화면이 곧 달력' 핵심 특징과 그 밖의 장점 추가",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.30.zip",
+  "sha256": "0dbc8057f4b83f7f0777b28a0dd188f035567e323e214a05fe90b96fd9f55a9f",
+  "size": 27160442
 }
