@@ -1,9 +1,9 @@
 {
-  "version": "2.7.2",
+  "version": "2.8.0",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "설정 > 기타에 '홈페이지 보기' 버튼",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.7.2.zip",
-  "sha256": "678cdb4f6f78bd4ba111928c159459a93b6fa84e30926272381211f17b5cd064",
-  "size": 402021
+  "notes": "알람: 달력에 넣지 않는 알림 (설정 > 7. 알림 · 알람). 기본 알람 매일 9시·18시",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.8.0.zip",
+  "sha256": "aafdc7733e424d9197bf436421a93b7811b11abf86a98419d25362e740efbe98",
+  "size": 406968
 }

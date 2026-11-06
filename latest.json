@@ -1,8 +1,8 @@
 {
-  "version": "1.9.31",
+  "version": "1.9.32",
   "date": "2026-11-06",
-  "notes": "- 설정 > 기타에 '홈페이지 보기' 버튼",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.31.zip",
-  "sha256": "135f9004cb793fe5074327e06abba13dbc522ab40d64248cbad1d5989f6ca5fd",
-  "size": 27160645
+  "notes": "- 알람: 달력에 넣지 않고 정한 시각에 알려 줘요 (매일·평일·요일·매달·한 번, 켜고 끄기)\n- 기본 알람: 매일 9시 하루 시작, 18시 하루 마무리\n- 달력 맨 아래에 켜 둔 알람이 짧게 보여요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.32.zip",
+  "sha256": "f23e9e3c5aa82f8ff22b8b55992956339a5928262c485ce9f1202be4030824e4",
+  "size": 27166065
 }
