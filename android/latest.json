@@ -1,9 +1,9 @@
 {
-  "version": "2.9.0",
+  "version": "2.9.1",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "관리자 화면(관리자 계정만) · 익명 사용 통계(설정 > 기타에서 끌 수 있어요)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.9.0.zip",
-  "sha256": "daccef98ab5dba165907a2c73b9d5eba9cd4d2a4808dac6314eb800a849f05e9",
-  "size": 411709
+  "notes": "알림 응원 한마디 · 프리미엄 이용권 상태 표시 · 관리자 이용권 주기",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.9.1.zip",
+  "sha256": "724048e0f8b15f8a460d355beacf50fab55aecc603e1d92f23ca48e748f916cc",
+  "size": 417706
 }
