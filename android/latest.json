@@ -1,9 +1,9 @@
 {
-  "version": "2.4.1",
-  "minNative": 17,
+  "version": "2.5.0",
+  "minNative": 18,
   "date": "2026-11-06",
-  "notes": "위젯 사진 열기 오류 수정, 사진 편집 기능. 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.4.1.zip",
-  "sha256": "029f420b387835cadc86d57150eb267c8c338710276ef27863e4385d3d298afc",
-  "size": 338921
+  "notes": "위젯: 사진 크게·여러 장 무작위, 정렬 정리, 월간 위젯 가독성, 날짜 누르면 그 날 일정. 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.5.0.zip",
+  "sha256": "03fb97a2229d7f93f9343b782e1fc40af919282ddd534b1f2d8f71a6823f0090",
+  "size": 339325
 }
