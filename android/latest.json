@@ -1,9 +1,9 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "minNative": 18,
   "date": "2026-11-06",
-  "notes": "위젯: 사진 크게·여러 장 무작위, 정렬 정리, 월간 위젯 가독성, 날짜 누르면 그 날 일정. 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.5.0.zip",
-  "sha256": "03fb97a2229d7f93f9343b782e1fc40af919282ddd534b1f2d8f71a6823f0090",
-  "size": 339325
+  "notes": "Total Calendar 소개 · 무료/프리미엄 안내 화면 (⋯ 메뉴 > 'Total Calendar 소개 · 프리미엄')",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.5.1.zip",
+  "sha256": "e509f4ae41732a3f600cba1441a7832bb54846d8529ec2b198f3d6282507b2ad",
+  "size": 391940
 }

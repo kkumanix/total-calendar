@@ -1,8 +1,8 @@
 {
-  "version": "1.9.23",
+  "version": "1.9.24",
   "date": "2026-11-06",
-  "notes": "- 설정 저장 때 다른 기기에서 넘어온 캘린더 연결이 지워지던 문제 수정\n- 캘린더 연결은 직접 지운 것만 다른 기기에서도 지워져요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.23.zip",
-  "sha256": "024b912bb80566b0e536ea3f9122dc9fd24ec640ada68b4c013479c2c6ef3cf2",
-  "size": 27094492
+  "notes": "- Total Calendar 소개 · 무료/프리미엄 안내 화면 (트레이 > 'Total Calendar 소개 · 프리미엄')\n- 지금은 베타 기간이라 프리미엄 꾸미기도 모두 무료",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.24.zip",
+  "sha256": "1630cc6e38cc2a747a7fd28e138885b79637ceba1722de70a9fa70698f2e57bb",
+  "size": 27151492
 }
