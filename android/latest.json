@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
-  "minNative": 5,
+  "version": "2.2.0",
+  "minNative": 13,
   "date": "2026-11-06",
-  "notes": "- 동기화 안전장치: 설정 저장 때 다른 기기에서 넘어온 캘린더 연결이 지워지던 문제를 고쳤어요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.1.1.zip",
-  "sha256": "10e1d7f2c3562571b86cdfb339106150c6ade48e0d1a80c2b2cdc2860c0d1d87",
-  "size": 332104
+  "notes": "홈 화면 위젯 새 모양: 투명·라이트·다크, 현재 시각·오늘 날짜 크게, 캐릭터 켜기/끄기, 오늘 일정 간단히. 위젯은 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.2.0.zip",
+  "sha256": "330f76479bcea22812dad87747016bfb5a833c1c3e896767b702b55ad3ec3a5d",
+  "size": 333079
 }
