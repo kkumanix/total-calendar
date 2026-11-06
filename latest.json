@@ -1,8 +1,8 @@
 {
-  "version": "1.9.27",
+  "version": "1.9.28",
   "date": "2026-11-06",
-  "notes": "- 소개 화면 디자인 새로 정리",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.27.zip",
-  "sha256": "ada94cd28d5d18e4a719b7bfb186cdd872b8c1ea795e382825613cb76bd4f385",
-  "size": 27155001
+  "notes": "- 소개 화면을 이전 디자인으로 되돌리고 문구 다듬기",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.28.zip",
+  "sha256": "3a26dfbe9696f1faec834e94638dc1420a1166efc1a22a8ad48e26cefc986df9",
+  "size": 27154901
 }
