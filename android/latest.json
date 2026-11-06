@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minNative": 5,
   "date": "2026-11-06",
-  "notes": "- 상태 표시줄·뒤로가기 버튼과 겹치지 않게 화면을 맞췄어요\n- 앱 안에서 바로 업데이트돼요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-0.1.1.zip",
-  "sha256": "991ef1b3d710b4749a7a438f2b5c152a514a90d785fc976c4341a1c078a83614",
-  "size": 321432
+  "notes": "- 로그인 · PC↔휴대폰 동기화 (설정 > 11. 계정)\n- 내 일정·메모·꾸미기 설정이 같은 계정의 PC와 맞춰져요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-0.1.2.zip",
+  "sha256": "29294ce79458b3126f2aaa78e00422de42d2986e311374b8e623ab9152b7830c",
+  "size": 328778
 }
