@@ -1,9 +1,9 @@
 {
-  "version": "2.3.0",
-  "minNative": 15,
+  "version": "2.4.0",
+  "minNative": 16,
   "date": "2026-11-06",
-  "notes": "위젯 새 디자인(날짜·요일 위, 큰 시각), 현재 기온, 캐릭터 표시, 중요한 일정만 보기. 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.3.0.zip",
-  "sha256": "8f6ded07fdc39592b05e9b9013824ed3ea422495a751e532b332f0add83d6b2d",
-  "size": 334978
+  "notes": "위젯 캐릭터 고르기(2시간마다·날마다·고정)와 내 사진 넣기. 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.4.0.zip",
+  "sha256": "f846aeb177d79e920475f2d8fe0fa4d0aa326ee9becc5c26f5d8cc63f8d78de4",
+  "size": 336284
 }
