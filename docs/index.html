@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Total Calendar · 창을 열지 않아도 늘 보이는 달력</title>
+<meta name="description" content="바탕화면 그 자체가 달력이 돼요. Google·Outlook·네이버 캘린더를 한 곳에, PC와 휴대폰에서. 기본 기능은 완전 무료.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Total Calendar · 창을 열지 않아도 늘 보이는 달력">
+<meta property="og:description" content="바탕화면 그 자체가 달력이 돼요. Google·Outlook·네이버 캘린더를 한 곳에. 기본 기능 완전 무료.">
+<meta property="og:image" content="https://kkumanix.github.io/total-calendar/img/og.png">
+<meta property="og:url" content="https://kkumanix.github.io/total-calendar/">
+<link rel="icon" href="img/icon.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{
+  --bg:#FFF8F0;--card:#FFFFFF;--soft:#FBEFE3;--ink:#2E241F;--sub:#7A6A60;--line:#EEDFD1;
+  --accent:#D9612C;--pink:#E06A8E;--mint:#2FA077;--sky:#3D8BD9;--gold:#E9A23B;--violet:#8B67D1;
+  --shadow:0 10px 30px rgba(120,70,30,.10);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1C1A1F;--card:#26232A;--soft:#2D2930;--ink:#F3EEE9;--sub:#B4A9A0;--line:#3A353D;--shadow:0 10px 30px rgba(0,0,0,.35)}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:"Pretendard Variable",Pretendard,"Malgun Gothic",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body{overflow-x:hidden}
+img{display:block;max-width:100%}
+h1,h2,h3,p{margin:0}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+.x{position:fixed;top:calc(env(safe-area-inset-top,0px) + 12px);right:14px;z-index:5;width:38px;height:38px;border-radius:50%;border:0;background:rgba(0,0,0,.06);color:var(--ink);font-size:18px;cursor:pointer;backdrop-filter:blur(8px)}
+section{padding:30px 0}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border-radius:999px;font-size:13px;font-weight:800;background:color-mix(in srgb,var(--mint) 14%,transparent);color:var(--mint)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:13px 20px;border-radius:14px;border:0;font:inherit;font-size:15px;font-weight:700;cursor:pointer}
+.btn:active{transform:scale(.97)}
+.btn.main{background:var(--accent);color:#fff;box-shadow:0 6px 16px color-mix(in srgb,var(--accent) 35%,transparent)}
+.btn.ghost{background:var(--card);color:var(--ink);border:1.5px solid var(--line)}
+.cta{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:20px}
+
+/* 첫 화면 */
+.hero{padding-top:calc(env(safe-area-inset-top,0px) + 46px);text-align:center}
+.hero h1{font-size:clamp(28px,7.4vw,42px);line-height:1.22;letter-spacing:-.025em;margin:14px 0 10px;font-weight:800}
+.hero h1 em{font-style:normal;background:linear-gradient(transparent 62%,color-mix(in srgb,var(--gold) 45%,transparent) 0)}
+.hero .intro{color:var(--sub);font-size:16px;line-height:1.55}
+.stage{position:relative;margin:26px auto 4px;max-width:620px;padding-bottom:30px}
+.pc{border-radius:14px;overflow:hidden;box-shadow:var(--shadow);border:6px solid #2B2622;border-bottom-width:10px;background:#2B2622}
+.pc img{border-radius:6px}
+.stand{width:26%;height:16px;margin:0 auto;background:linear-gradient(#cfc4ba,#b8ab9f);border-radius:0 0 10px 10px}
+.phone{position:absolute;right:-6px;bottom:0;width:27%;border-radius:20px;border:5px solid #2B2622;overflow:hidden;box-shadow:var(--shadow);background:#2B2622}
+.phone img{border-radius:14px}
+.buddy{position:absolute;left:-10px;bottom:4px;width:21%;filter:drop-shadow(0 6px 8px rgba(0,0,0,.15));animation:bob 3.2s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-6px) rotate(-3deg)}}
+
+/* 이런 분께 */
+.who{display:flex;flex-direction:column;gap:9px}
+.who div{display:flex;align-items:center;gap:12px;background:var(--card);border-radius:16px;padding:13px 16px;box-shadow:var(--shadow);font-size:15px;font-weight:700}
+.who span{font-size:24px;flex:none;width:30px;text-align:center}
+.who small{display:block;font-size:13px;font-weight:500;color:var(--sub);margin-top:2px}
+
+/* 강점 카드: 번호 + 그림 + 한 줄 */
+.h2{text-align:center;margin-bottom:18px}
+.h2 h2{font-size:clamp(22px,5.6vw,28px);font-weight:800;letter-spacing:-.02em;line-height:1.3}
+.h2 p{color:var(--sub);margin-top:6px;font-size:15px}
+.feat{background:var(--card);border-radius:22px;box-shadow:var(--shadow);overflow:hidden;margin-bottom:14px}
+.feat .vis{background:var(--soft);padding:18px 16px;display:flex;align-items:center;justify-content:center;min-height:130px;position:relative;overflow:hidden}
+.feat .txt{padding:15px 18px 17px}
+.feat .no{font-size:12px;font-weight:800;color:var(--accent);letter-spacing:.04em}
+.feat h3{font-size:18px;font-weight:800;letter-spacing:-.015em;margin-top:3px}
+.feat p{font-size:14px;color:var(--sub);line-height:1.5;margin-top:5px}
+.feat .note{margin-top:9px;font-size:12.5px;line-height:1.55;color:var(--sub);background:var(--soft);border-radius:10px;padding:8px 10px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.two .feat{margin-bottom:0}
+.two .feat .vis{min-height:118px;padding:12px}
+.two .feat h3{font-size:16px}
+.two .feat p{font-size:13px}
+
+.can{list-style:none;padding:0;margin:11px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:6px 10px}
+.can li{display:flex;align-items:flex-start;gap:6px;font-size:13px;line-height:1.4;color:var(--ink)}
+.can li span{flex:none;width:18px;text-align:center}
+.two .can{grid-template-columns:1fr}
+.modes{display:flex;gap:12px;align-items:flex-end}
+.mode{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:11.5px}
+.mode b{font-weight:700}
+.scr{width:82px;height:54px;border-radius:6px;background:linear-gradient(150deg,#8fb3d9,#c3a6d8);border:3px solid #2B2622;position:relative;display:flex;align-items:flex-start;justify-content:flex-end;padding:4px}
+.scr.full{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;padding:4px;background:#FFF3E6}
+.scr.full i{background:#F2D8C2;border-radius:2px}
+.wg{width:40px;height:30px;background:rgba(255,255,255,.92);border-radius:4px;display:grid;grid-template-columns:1fr 1fr;gap:2px;padding:3px}
+.wg i{background:#F2D8C2;border-radius:2px}
+.wg.mini{width:24px;height:20px}
+.core .vis{min-height:200px;padding:20px 14px}
+.layers{position:relative;width:100%;max-width:360px;height:178px}
+.ly{position:absolute;left:0;right:0;border-radius:12px;padding:10px 12px;display:flex;flex-direction:column;gap:2px;box-shadow:0 6px 16px rgba(80,50,20,.12)}
+.ly b{font-size:13.5px}.ly span{font-size:11.5px;opacity:.8}
+.ly1{top:0;right:18%;background:#fff;border:1px solid var(--line);z-index:3;transform:translateX(6%)}
+.ly2{top:52px;background:#FFF1E2;border:2px solid var(--accent);z-index:2;padding-right:70px}
+.ly2 b{color:var(--accent)}
+.ly2 img{position:absolute;right:8px;bottom:-4px;width:58px}
+.ly3{top:112px;left:6%;right:-2%;height:64px;background:linear-gradient(120deg,#9DB6D8,#C7B4DA);color:#fff;z-index:1;justify-content:flex-end}
+.ly3 span{opacity:.95}
+.perks{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.perks div{background:var(--card);border-radius:16px;padding:13px 14px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:2px}
+.perks span{font-size:22px}
+.perks b{font-size:14.5px}
+.perks small{font-size:12.5px;color:var(--sub);line-height:1.4}
+/* 그림 요소 */
+.merge{display:flex;align-items:center;gap:10px;width:100%;justify-content:center}
+.srcs{display:flex;flex-direction:column;gap:6px}
+.src{font-size:12.5px;font-weight:800;padding:6px 10px;border-radius:9px;color:#fff;white-space:nowrap}
+.to{font-size:22px;color:var(--sub)}
+.one{background:var(--card);border-radius:12px;padding:8px 10px;box-shadow:0 4px 12px rgba(0,0,0,.08);font-size:12px;min-width:132px}
+.one b{display:block;font-size:12px;margin-bottom:5px}
+.one i{display:flex;align-items:center;gap:6px;font-style:normal;padding:2px 0;white-space:nowrap}
+.one i:before{content:"";width:4px;height:13px;border-radius:2px;background:var(--c)}
+.chat{display:flex;flex-direction:column;gap:8px;width:100%;max-width:340px}
+.chat .q{align-self:flex-start;background:var(--card);border-radius:14px 14px 14px 4px;padding:9px 12px;font-size:14px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.chat .a{align-self:flex-end;background:var(--accent);color:#fff;border-radius:14px 14px 4px 14px;padding:9px 12px;font-size:14px;font-weight:700}
+.toast{display:flex;gap:10px;align-items:center;background:var(--card);border-radius:16px;padding:10px 14px 10px 10px;box-shadow:0 6px 16px rgba(0,0,0,.10);max-width:330px}
+.toast img{width:52px;flex:none}
+.toast b{display:block;font-size:14px}
+.toast span{font-size:12.5px;color:var(--sub)}
+.bubble{position:absolute;top:12px;left:50%;transform:translateX(-50%);background:var(--card);border-radius:12px;padding:6px 10px;font-size:12px;font-weight:700;box-shadow:0 3px 8px rgba(0,0,0,.08);white-space:nowrap}
+.chips{display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+.chips span{font-size:12px;font-weight:700;padding:6px 10px;border-radius:999px;background:var(--card);border:1px solid var(--line)}
+.bell{display:flex;flex-direction:column;gap:6px}
+.bell span{font-size:12px;font-weight:700;padding:6px 10px;border-radius:10px;background:var(--card);box-shadow:0 2px 6px rgba(0,0,0,.06);white-space:nowrap}
+.sync{display:flex;align-items:center;gap:10px;font-size:34px}
+.sync i{font-style:normal;font-size:20px;color:var(--mint);animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+.skins{display:flex;gap:7px}
+.skin{width:44px;height:60px;border-radius:9px;padding:5px;display:grid;grid-template-columns:repeat(3,1fr);gap:3px;align-content:start;box-shadow:0 3px 8px rgba(0,0,0,.12)}
+.skin i{display:block;height:7px;border-radius:2px}
+.skin b{grid-column:1/-1;height:12px;border-radius:4px;margin-bottom:2px}
+.chars{display:grid;grid-template-columns:repeat(6,1fr);gap:2px;width:100%}
+.chars img{width:100%;aspect-ratio:1;object-fit:contain}
+.homew{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:16px;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.4);background:linear-gradient(160deg,#1E2A44,#3B3570);width:100%;max-width:340px}
+.homew .t{flex:1;min-width:0}
+.homew .d{font-size:12px;font-weight:700;white-space:nowrap}.homew .d b{color:#FFC79A}
+.homew .c{font-size:32px;font-weight:800;line-height:1.05}
+.homew .w{font-size:11.5px;font-weight:600;margin-top:3px}
+.homew .e{font-size:11.5px;margin-top:6px;border-top:1px solid rgba(255,255,255,.3);padding-top:5px;white-space:nowrap}
+.homew img{width:92px;height:92px;border-radius:20px;object-fit:cover;flex:none}
+
+/* 마무리 */
+.end{text-align:center;background:var(--card);border-radius:24px;padding:26px 18px;box-shadow:var(--shadow)}
+.end h2{font-size:22px;font-weight:800}
+.end p{color:var(--sub);margin-top:6px;font-size:14.5px}
+.stores{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:14px}
+.store{display:flex;align-items:center;gap:8px;padding:9px 14px;border-radius:12px;background:var(--ink);color:var(--bg);font-size:12px;line-height:1.2;text-align:left}
+.store b{display:block;font-size:14px}
+.store .ico{font-size:20px}
+.plus{margin-top:14px;border:1.5px dashed var(--line);border-radius:18px;padding:14px 16px;font-size:13.5px;color:var(--sub);line-height:1.6;text-align:center}
+.plus b{color:var(--ink)}
+footer{text-align:center;padding:18px 0 calc(env(safe-area-inset-bottom,0px) + 36px);color:var(--sub);font-size:13px}
+
+.rv{opacity:0;transform:translateY(14px);transition:opacity .5s ease,transform .5s ease}
+.rv.in{opacity:1;transform:none}
+@media (max-width:430px){ .can{grid-template-columns:1fr;gap:5px} }
+@media (max-width:340px){ .two{grid-template-columns:1fr} }
+@media (prefers-reduced-motion:reduce){ .buddy,.sync i{animation:none} .rv{opacity:1;transform:none;transition:none} }
+html{scroll-behavior:smooth;scroll-padding-top:64px}
+a.btn{text-decoration:none}
+.nav{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid color-mix(in srgb,var(--line) 70%,transparent)}
+.navin{max-width:1080px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;gap:18px;font-size:14.5px;font-weight:700}
+.navin a{color:var(--ink);text-decoration:none}
+.logo{display:flex;align-items:center;gap:8px;font-weight:800;font-size:16px}
+.logo img{width:26px;height:26px;border-radius:7px}
+.navin .sp{flex:1}
+.navcta{background:var(--accent);color:#fff!important;padding:8px 14px;border-radius:10px}
+.hero{padding-top:40px}
+.beta-note{margin-top:12px;font-size:13.5px;color:var(--sub)}
+@media (max-width:520px){ .navin a:not(.logo):not(.navcta){display:none} }
+@media (min-width:960px){
+  .wrap{max-width:1040px}
+  .hero{display:grid;grid-template-columns:1fr 1.15fr;grid-template-areas:"pill stage" "h1 stage" "intro stage" "cta stage" "note stage";column-gap:40px;text-align:left;align-items:start;padding-top:70px;padding-bottom:40px}
+  .hero .pill{grid-area:pill;justify-self:start;align-self:end}
+  .hero h1{grid-area:h1;font-size:52px}
+  .hero .intro{grid-area:intro}
+  .hero .stage{grid-area:stage;margin:0}
+  .hero .cta{grid-area:cta;justify-content:flex-start}
+  .hero .beta-note{grid-area:note}
+  .who{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  #feat .feat{display:grid;grid-template-columns:1fr 1fr}
+  #feat .feat .vis{min-height:100%}
+  #feat .two .feat{display:block}
+  #feat .two .feat .vis{min-height:118px}
+  .core{display:grid;grid-template-columns:1fr 1.1fr}
+  .perks{grid-template-columns:repeat(3,1fr)}
+  .end,.plus{max-width:720px;margin-left:auto;margin-right:auto}
+}
+</style>
+</head>
+<body>
+<nav class="nav"><div class="navin"><a class="logo" href="#top"><img src="img/icon.png" alt="">Total Calendar</a><span class="sp"></span><a href="#desk">특징</a><a href="#feat">기능</a><a class="navcta" href="mailto:flskalsn@gmail.com?subject=%5BTotal%20Calendar%5D%20%EB%B2%A0%ED%83%80%20%EC%B0%B8%EC%97%AC%20%EC%8B%A0%EC%B2%AD&body=%EC%93%B0%EC%8B%9C%EB%8A%94%20%EA%B8%B0%EA%B8%B0(PC%20%2F%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)%3A%0A">베타 참여</a></div></nav>
+
+<div class="wrap">
+  <!-- 1·2. 무료 + 어디에도 없던 캘린더 -->
+  <section class="hero" id="top">
+    <span class="pill">🎉 기본 기능 완전 무료</span>
+    <h1>창을 열지 않아도<br><em>늘 보이는 달력</em></h1>
+    <p class="intro">아이콘을 누를 필요도, 창을 띄울 필요도 없어요.<br>바탕화면 그 자체가 내 달력이 돼요.</p>
+    <div class="stage">
+      <div class="pc"><img src="img/pc.webp" alt="PC 바탕화면 달력"></div>
+      <div class="stand"></div>
+      <div class="phone"><img src="img/phone.webp" alt="휴대폰 앱"></div>
+      <img class="buddy" src="img/char/rabbit.png" alt="">
+    </div>
+    <div class="cta"><a class="btn main" href="mailto:flskalsn@gmail.com?subject=%5BTotal%20Calendar%5D%20%EB%B2%A0%ED%83%80%20%EC%B0%B8%EC%97%AC%20%EC%8B%A0%EC%B2%AD&body=%EC%93%B0%EC%8B%9C%EB%8A%94%20%EA%B8%B0%EA%B8%B0(PC%20%2F%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)%3A%0A">베타 참여 신청하기</a><a class="btn ghost" href="#desk">어떻게 다른가요?</a></div>
+    <p class="beta-note">지금은 베타 테스트 중이에요. 신청 메일을 보내 주시면 설치 파일을 보내 드려요.</p>
+  </section>
+
+  <!-- 가장 큰 특징: 바탕화면과 프로그램 사이 -->
+  <section id="desk">
+    <div class="h2 rv"><h2>바탕화면과 프로그램 사이,<br>그 자리에 달력이 있어요</h2><p>Total Calendar를 만든 가장 큰 이유예요</p></div>
+    <div class="feat rv core">
+      <div class="vis"><div class="layers">
+        <div class="ly ly1"><b>엑셀·메일·인터넷 창</b><span>일하는 창은 늘 맨 위에</span></div>
+        <div class="ly ly2"><b>Total Calendar</b><span>창 뒤, 바탕화면 위에 딱 붙어 있어요</span><img src="img/char/rabbit.png" alt=""></div>
+        <div class="ly ly3"><b>바탕화면 그림</b><span>아이콘은 그대로 달력 위에</span></div>
+      </div></div>
+      <div class="txt"><h3>켜 두기만 하면, 하루 종일 눈앞에</h3><p>창을 최소화하거나 바탕화면을 볼 때마다 오늘 일정이 자연스럽게 보여요. 따로 열어 볼 필요가 없으니 놓칠 일도 줄어요.</p>
+        <ul class="can"><li><span>🪟</span>일하는 창을 가리지 않아요</li><li><span>📌</span>작업 표시줄·Alt+Tab을 차지하지 않아요</li><li><span>👆</span>빈 곳을 누르면 바로 수정, 다른 창을 누르면 다시 바탕화면으로</li><li><span>⌨️</span>Ctrl+Alt+Space 새 일정 · Ctrl+Alt+E 편집</li><li><span>🖥️</span>바탕화면 전체 또는 원하는 크기 위젯</li><li><span>🗂️</span>바탕화면 아이콘은 그대로, 아이콘 자리 비워 두기</li><li><span>🖥️</span>모니터가 여러 개면 원하는 화면에</li><li><span>⚡</span>PC를 켜면 저절로 시작 (설정에서 선택)</li></ul></div>
+    </div>
+  </section>
+
+  <!-- 3·4·5. 이런 분께 -->
+  <section>
+    <div class="h2 rv"><h2>이런 분을 위해 만들었어요</h2></div>
+    <div class="who">
+      <div class="rv"><span>📚</span><p>일정이 많아 관리가 꼭 필요한 분</p></div>
+      <div class="rv"><span>🙈</span><p>자꾸 깜빡해서 일정을 놓치는 분<small>바탕화면에 늘 떠 있으니 안 볼 수가 없어요</small></p></div>
+      <div class="rv"><span>😮‍💨</span><p>일정 정리가 귀찮은 분<small>말하듯 적으면 AI가 대신 등록해요</small></p></div>
+      <div class="rv"><span>⚙️</span><p>캘린더가 알아서 돌아가길 원하는 분<small>연결해 두면 자동으로 모으고, 맞추고, 알려 줘요</small></p></div>
+      <div class="rv"><span>🏢</span><p>회사·팀 공유 달력을 빼먹기 싫은 분<small>팀 일정도 내 달력 옆에 같이 보여요</small></p></div>
+    </div>
+  </section>
+
+  <!-- 강점 -->
+  <section id="feat">
+    <div class="h2 rv"><h2>Total Calendar만의 강점</h2><p>쓰면서 실제로 할 수 있는 것들이에요</p></div>
+    <div class="feat rv">
+      <div class="vis"><div class="merge"><div class="srcs"><span class="src" style="background:#4285F4">Google</span><span class="src" style="background:#0F6CBD">Outlook</span><span class="src" style="background:#03C75A">네이버</span><span class="src" style="background:#8A8680">회사·팀 공유</span></div><div class="to">➜</div><div class="one"><b>오늘 · 11/6 금</b><i style="--c:#4285F4">10:00 팀 주간회의</i><i style="--c:#03C75A">14:00 신입 면접</i><i style="--c:#0F6CBD">17:00 거래처 통화</i></div></div></div>
+      <div class="txt"><h3>여러 캘린더를 하나로</h3><p>쓰던 캘린더는 그대로, 보는 곳만 하나로 모아요</p>
+        <ul class="can"><li><span>🔗</span>Google·Outlook·네이버 연결</li><li><span>🏢</span>회사·팀 공유 달력 (iCal 주소)</li><li><span>🎨</span>일정 종류별 색 자동 구분</li><li><span>✍️</span>새 일정은 원하는 캘린더에 저장</li><li><span>🔄</span>정해 둔 주기마다 자동 동기화</li><li><span>🌙</span>음력 일정 · 공휴일 표시</li></ul></div>
+    </div>
+    <div class="feat rv">
+      <div class="vis"><div class="chat"><div class="q">내일 14시에 병원 진료 등록해줘</div><div class="a">📅 11/7 (토) 14:00 병원 진료 ✓</div></div></div>
+      <div class="txt"><h3>말하듯 적으면 AI가 등록</h3><p>날짜 고르지 말고, 평소 말투로 그냥 적으세요</p>
+        <ul class="can"><li><span>💬</span>한 줄로 말하듯 입력</li><li><span>📧</span>메일·메시지 통째로 붙여 넣기</li><li><span>📋</span>한 번에 여러 일정도 정리</li><li><span>🗒️</span>바탕화면 메모에서 바로 일정으로</li></ul><div class="note">📱 휴대폰: 내려받기 없이 바로 써요 (⋯ 메뉴 > 말로 일정 등록, 키보드 마이크로 말해도 OK)<br>💻 PC: AI 파일(약 1.1~2.5GB)을 받으면 긴 메일도 더 똑똑하게, 안 받아도 기본 정리는 돼요<br>🔒 글은 기기 밖으로 나가지 않아요 · ✅ 등록 전에 한 번 확인해 주세요</div></div>
+    </div>
+    <div class="feat rv">
+      <div class="vis"><div class="toast"><img src="img/char/dog.png" alt=""><div><b>10분 뒤 '신입 면접'이에요</b><span>멍! 오늘도 잘하고 있어요 🐾</span></div></div></div>
+      <div class="txt"><h3>내 설정대로 알림</h3><p>늘 눈앞에 있고, 정해 둔 때에 한 번 더 알려 줘요</p>
+        <ul class="can"><li><span>📆</span>한 달 전 · 일주일 전 · 하루 전</li><li><span>☀️</span>당일 아침에 오늘 일정 안내</li><li><span>⏰</span>5분 ~ 1시간 전 시작 알림</li><li><span>🔁</span>"10분 뒤 다시" 미루기</li><li><span>🐶</span>종류마다 알려 주는 캐릭터</li><li><span>📱</span>휴대폰 알림도 함께</li></ul></div>
+    </div>
+    <div class="feat rv">
+      <div class="vis"><div class="modes"><div class="mode"><div class="scr full"><i></i><i></i><i></i><i></i><i></i><i></i></div><b>바탕화면 모드</b></div><div class="mode"><div class="scr"><div class="wg"><i></i><i></i><i></i><i></i></div></div><b>위젯 모드</b></div><div class="mode"><div class="scr"><div class="wg mini"><i></i><i></i></div></div><b>미니 달력</b></div></div></div>
+      <div class="txt"><h3>입맛대로 화면</h3><p>바탕화면 전체로 쓰거나, 필요한 크기만큼 띄우거나</p>
+        <ul class="can"><li><span>🖥️</span>바탕화면 전체 / 원하는 크기 위젯</li><li><span>🗓️</span>월간 · 주간 · 목록 보기</li><li><span>🧩</span>필요한 칸만 켜기 (오늘 일정만 등)</li><li><span>🌫️</span>투명도 · 위치 잠금</li><li><span>🔤</span>글꼴 · 글자 크기 · 굵기</li><li><span>🎨</span>강조색 · 배경색 · 글자색</li><li><span>🕐</span>24/12시간 · 주 시작 요일</li><li><span>🌏</span>세계 시간 최대 4개 함께</li></ul></div>
+    </div>
+    <div class="two">
+    <div class="feat rv">
+      <div class="vis"><div class="sync">💻<i>⇄</i>📱</div></div>
+      <div class="txt"><h3>PC ↔ 휴대폰 동기화</h3><p>로그인 한 번이면 양쪽이 똑같이</p>
+        <ul class="can"><li><span>📅</span>일정 · 메모</li><li><span>🎨</span>꾸미기 설정</li><li><span>🔗</span>캘린더 연결 목록</li><li><span>🔒</span>비밀번호는 제외</li></ul></div>
+    </div>
+    <div class="feat rv">
+      <div class="vis"><div class="skins" id="skins"></div></div>
+      <div class="txt"><h3>40가지 넘는 스킨</h3><p>기분 따라 달력 옷 갈아입기</p>
+        <ul class="can"><li><span>🌈</span>파스텔·모노·별밤 등</li><li><span>🍂</span>계절·명절 자동 변신</li><li><span>🧱</span>칸 모양 12가지</li><li><span>👀</span>바꾸면 바로 미리보기</li></ul></div>
+    </div>
+    </div>
+    <div class="feat rv">
+      <div class="vis"><div class="bubble">오늘 일정 2개! 차근차근 해 봐요</div><div class="chars" id="chars" style="margin-top:28px"></div></div>
+      <div class="txt"><h3>살아 있는 캐릭터 친구</h3><p>달력 한쪽에 앉아서 하루를 같이 보내요</p>
+        <ul class="can"><li><span>🍁</span>계절마다 새 옷 (봄·여름·가을·겨울)</li><li><span>👆</span>누르면 폴짝 반응하고 응원</li><li><span>💬</span>5분~2시간마다 먼저 말 걸기</li><li><span>🏷️</span>메모 완료하면 스티커 모으기</li><li><span>🎂</span>생일엔 나이·띠 알려 주기</li><li><span>🎉</span>새해·설날·추석 인사</li></ul></div>
+    </div>
+    <div class="feat rv">
+      <div class="vis"><div class="homew"><div class="t"><div class="d">11월 6일 <b>금요일</b></div><div class="c">15:52</div><div class="w">☀️ 8° 맑음</div><div class="e">▎14:00 신입 면접</div></div><img src="img/season/autumn-dog.webp" alt=""></div></div>
+      <div class="txt"><h3>휴대폰 위젯에 내 사진</h3><p>휴대폰을 켤 때마다 보고 싶은 얼굴로</p>
+        <ul class="can"><li><span>🖼️</span>사진 최대 10장, 1~30분마다 바뀜</li><li><span>✂️</span>위치·크기·밝기·모양 편집</li><li><span>📐</span>사진 위치·크기·글자 크기 선택</li><li><span>⛅</span>시계 · 날씨 · 오늘 중요 일정</li><li><span>🌗</span>투명 · 라이트 · 다크</li><li><span>👆</span>달력 날짜 누르면 그날 일정</li></ul></div>
+    </div>
+  </section>
+
+  <!-- 그 밖에 좋은 점 -->
+  <section style="padding-top:4px">
+    <div class="h2 rv"><h2>그리고, 이런 점도 좋아요</h2></div>
+    <div class="perks">
+      <div class="rv"><span>🚫</span><b>광고 없음</b><small>달력에 광고를 띄우지 않아요</small></div>
+      <div class="rv"><span>🔒</span><b>비밀번호는 내 기기에만</b><small>캘린더 비밀번호는 서버에 안 올려요</small></div>
+      <div class="rv"><span>🗒️</span><b>바탕화면 메모지</b><small>포스트잇처럼 떼어 붙이는 메모</small></div>
+      <div class="rv"><span>🔄</span><b>알아서 업데이트</b><small>새 기능이 나오면 바로 받아요</small></div>
+      <div class="rv"><span>🌏</span><b>세계 시간</b><small>해외 현장·출장 시간도 함께</small></div>
+      <div class="rv"><span>🌙</span><b>음력·공휴일</b><small>부모님 생신도 매년 자동으로</small></div>
+    </div>
+  </section>
+
+  <!-- 마무리 -->
+  <section style="padding-top:6px">
+    <div class="end rv">
+      <h2 id="start">쓰던 캘린더는 그대로 두세요</h2>
+      <p>설치하면 바로 바탕화면이 달력이 돼요. 로그인하면 휴대폰까지 이어져요.</p>
+      <div class="cta" style="margin-top:14px">
+        <a class="btn main" href="mailto:flskalsn@gmail.com?subject=%5BTotal%20Calendar%5D%20%EB%B2%A0%ED%83%80%20%EC%B0%B8%EC%97%AC%20%EC%8B%A0%EC%B2%AD&body=%EC%93%B0%EC%8B%9C%EB%8A%94%20%EA%B8%B0%EA%B8%B0(PC%20%2F%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)%3A%0A">베타 참여 신청하기</a>
+      </div>
+      <div class="stores">
+        <div class="store"><span class="ico">🪟</span><span>곧 출시<b>Microsoft Store</b></span></div>
+        <div class="store"><span class="ico">▶</span><span>곧 출시<b>Google Play</b></span></div>
+      </div>
+    </div>
+    <div class="plus rv">더 꾸미고 싶다면 <b>프리미엄</b>도 있어요 (선택)<br>캐릭터·스킨·위젯 사진·AI 등록 · 월 2,900원 / 연 31,000원<br>지금은 베타 기간이라 모두 무료예요 🎁</div>
+  </section>
+
+  <footer>궁금한 점·의견: <a href="mailto:flskalsn@gmail.com" style="color:inherit">flskalsn@gmail.com</a></footer>
+</div>
+
+<script>
+const IDS = ["rat","ox","tiger","rabbit","dragon","snake","horse","goat","monkey","rooster","dog","pig"];
+document.getElementById("chars").innerHTML = IDS.map(id=>`<img src="img/char/${id}.png" alt="">`).join("");
+const SK = [["#FFF3E6","#D9612C","#F2D8C2"],["#EAF4EC","#2FA077","#CFE6D5"],["#23212B","#9B8CFF","#3A3646"]];
+document.getElementById("skins").innerHTML = SK.map(([bg,ac,c])=>`<div class="skin" style="background:${bg}"><b style="background:${ac}"></b>${('<i style="background:'+c+'"></i>').repeat(9)}</div>`).join("");
+const io = "IntersectionObserver" in window ? new IntersectionObserver((es)=>es.forEach(e=>{ if (e.isIntersecting){ e.target.classList.add("in"); io.unobserve(e.target); } }), { threshold: .12 }) : null;
+document.querySelectorAll(".rv").forEach(el=> io ? io.observe(el) : el.classList.add("in"));
+</script>
+</body>
+</html>
