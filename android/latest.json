@@ -1,9 +1,9 @@
 {
-  "version": "2.4.0",
-  "minNative": 16,
+  "version": "2.4.1",
+  "minNative": 17,
   "date": "2026-11-06",
-  "notes": "위젯 캐릭터 고르기(2시간마다·날마다·고정)와 내 사진 넣기. 새 APK 설치가 필요해요.",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.4.0.zip",
-  "sha256": "f846aeb177d79e920475f2d8fe0fa4d0aa326ee9becc5c26f5d8cc63f8d78de4",
-  "size": 336284
+  "notes": "위젯 사진 열기 오류 수정, 사진 편집 기능. 새 APK 설치가 필요해요.",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.4.1.zip",
+  "sha256": "029f420b387835cadc86d57150eb267c8c338710276ef27863e4385d3d298afc",
+  "size": 338921
 }
