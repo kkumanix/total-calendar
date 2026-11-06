@@ -1,0 +1,9 @@
+{
+  "version": "0.1.1",
+  "minNative": 5,
+  "date": "2026-11-06",
+  "notes": "- 상태 표시줄·뒤로가기 버튼과 겹치지 않게 화면을 맞췄어요\n- 앱 안에서 바로 업데이트돼요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-0.1.1.zip",
+  "sha256": "991ef1b3d710b4749a7a438f2b5c152a514a90d785fc976c4341a1c078a83614",
+  "size": 321432
+}
