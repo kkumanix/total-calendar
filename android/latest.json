@@ -1,9 +1,9 @@
 {
-  "version": "2.7.1",
+  "version": "2.7.2",
   "minNative": 22,
   "date": "2026-11-06",
-  "notes": "소개 화면: 바탕화면 달력 특징과 장점 추가",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.7.1.zip",
-  "sha256": "801162c90e6b6596677c278f3cf3da1aeaf407b3d3358bc159bb898f5f98127a",
-  "size": 401727
+  "notes": "설정 > 기타에 '홈페이지 보기' 버튼",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-2.7.2.zip",
+  "sha256": "678cdb4f6f78bd4ba111928c159459a93b6fa84e30926272381211f17b5cd064",
+  "size": 402021
 }

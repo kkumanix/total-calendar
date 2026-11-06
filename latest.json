@@ -1,8 +1,8 @@
 {
-  "version": "1.9.30",
+  "version": "1.9.31",
   "date": "2026-11-06",
-  "notes": "- 소개 화면: '바탕화면이 곧 달력' 핵심 특징과 그 밖의 장점 추가",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.30.zip",
-  "sha256": "0dbc8057f4b83f7f0777b28a0dd188f035567e323e214a05fe90b96fd9f55a9f",
-  "size": 27160442
+  "notes": "- 설정 > 기타에 '홈페이지 보기' 버튼",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.31.zip",
+  "sha256": "135f9004cb793fe5074327e06abba13dbc522ab40d64248cbad1d5989f6ca5fd",
+  "size": 27160645
 }
