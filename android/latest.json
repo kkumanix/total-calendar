@@ -1,9 +1,9 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minNative": 5,
   "date": "2026-11-06",
-  "notes": "- 로그인 · PC↔휴대폰 동기화 (설정 > 11. 계정)\n- 내 일정·메모·꾸미기 설정이 같은 계정의 PC와 맞춰져요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-0.1.2.zip",
-  "sha256": "29294ce79458b3126f2aaa78e00422de42d2986e311374b8e623ab9152b7830c",
-  "size": 328778
+  "notes": "- PC에서 연결한 Outlook·Google 캘린더가 휴대폰에도 저절로 보여요\n- 네이버는 휴대폰에서 비밀번호만 한 번 넣어 주세요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-0.1.3.zip",
+  "sha256": "86d72851ee12906e719929495290ab4f837038d7373090862bc9abe841bbe20b",
+  "size": 329303
 }

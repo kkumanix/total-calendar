@@ -1,8 +1,8 @@
 {
-  "version": "1.9.21",
+  "version": "1.9.22",
   "date": "2026-11-06",
-  "notes": "- 로그인 · PC↔휴대폰 동기화 (설정 > 11. 계정 · 동기화)\n- 내 일정·메모·꾸미기 설정이 같은 계정의 PC·휴대폰에 맞춰져요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.21.zip",
-  "sha256": "9b9f943f0c1ca00a5b91a87216e6e4f882cf8764c05546fe367dc1449d0573bb",
-  "size": 27093303
+  "notes": "- 캘린더 연결 목록(Outlook·Google 등)도 PC↔휴대폰으로 맞춰요\n- 비밀번호는 서버에 올리지 않아요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.22.zip",
+  "sha256": "57482fc8f8761bdd19e06a643a2d13bcfda806d01e6bf4b0fbe0cfdbba2ef222",
+  "size": 27093829
 }
