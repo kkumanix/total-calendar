@@ -1,8 +1,8 @@
 {
-  "version": "1.9.35",
-  "date": "2026-11-06",
-  "notes": "- 알림 팝업: '○○이 알려 드려요' 대신 일정에 맞춘 응원 한마디\n- 프리미엄 이용권: 설정 > 계정에서 내 상태 확인, 관리자는 이메일로 N일 이용권 주기",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.35.zip",
-  "sha256": "5b9fe26457c61188382df85df77dddc95375dc61f3cb62666abcfe11e9fd8ab6",
-  "size": 27179128
+  "version": "1.9.36",
+  "date": "2026-11-09",
+  "notes": "- 다국어: 설정 > 꾸미기 맨 위에서 한국어 · English · 日本語 · 简体中文 · Español 선택\n- 영어로 적어도 '말로 일정 등록'이 일정을 정리해요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.36.zip",
+  "sha256": "ea3904b721705196ba1aaaabe507c1d19bcb8a6f75ee031bb7b6ddd88f1f0dfc",
+  "size": 27337336
 }
