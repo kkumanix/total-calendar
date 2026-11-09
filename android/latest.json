@@ -1,9 +1,9 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "minNative": 22,
-  "date": "2026-11-09",
-  "notes": "다국어 지원 (한국어·English·日本語·简体中文·Español) · 영어로 말로 일정 등록",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.0.0.zip",
-  "sha256": "fcdbbc2b4ba83efdbff38ca0eedbd14398a86eca2d56c2aea1bbc9b0f2761350",
-  "size": 742595
+  "date": "2026-11-10",
+  "notes": "새 아이콘 (토끼 귀 + T)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.0.1.zip",
+  "sha256": "710f5115cf8c53c63e5cfd83b6147347df06e0395ebd923e079f2772f2efb746",
+  "size": 760400
 }

@@ -1,8 +1,8 @@
 {
-  "version": "1.9.36",
-  "date": "2026-11-09",
-  "notes": "- 다국어: 설정 > 꾸미기 맨 위에서 한국어 · English · 日本語 · 简体中文 · Español 선택\n- 영어로 적어도 '말로 일정 등록'이 일정을 정리해요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.36.zip",
-  "sha256": "ea3904b721705196ba1aaaabe507c1d19bcb8a6f75ee031bb7b6ddd88f1f0dfc",
-  "size": 27337336
+  "version": "1.9.37",
+  "date": "2026-11-10",
+  "notes": "- 새 아이콘: 토끼 귀 + T 달력 (창·작업표시줄·트레이·알림)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.37.zip",
+  "sha256": "7f255eb2c4b0eb841ee45bea7306ad8650ea0b3280d7db95e49ecb75cacd40ae",
+  "size": 27355206
 }
