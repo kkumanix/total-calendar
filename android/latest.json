@@ -1,9 +1,9 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "minNative": 22,
   "date": "2026-11-10",
-  "notes": "새 아이콘 (토끼 귀 + T)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.0.1.zip",
-  "sha256": "710f5115cf8c53c63e5cfd83b6147347df06e0395ebd923e079f2772f2efb746",
-  "size": 760400
+  "notes": "새 아이콘 (주황 달력)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.0.2.zip",
+  "sha256": "1b39ff4f33ba0ec13c95378c61575c2e456941abe4aa79e22c26acb5c14d0101",
+  "size": 761349
 }
