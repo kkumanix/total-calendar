@@ -1,8 +1,8 @@
 {
-  "version": "1.9.38",
+  "version": "1.9.39",
   "date": "2026-11-10",
-  "notes": "- 새 아이콘: 주황 달력 (창·작업표시줄·트레이·알림)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.38.zip",
-  "sha256": "049c8ee5f4aa6df990466fc40f432a452ed596fa11df0aa97cb906f9f20a1881",
-  "size": 27356159
+  "notes": "- 개인정보 처리방침·이용약관 연결, 가입 시 만 14세·동의 확인\n- 계정 삭제 기능, 구독은 언제든 해지(위약금 없음)\n- 익명 통계 기본 꺼짐, iCal 주소는 서버에 올리지 않음",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.39.zip",
+  "sha256": "5f7d5ba607ca0dccac3d11a661b43d5167d3eeeb1ff9d4e450dc201831d8e22a",
+  "size": 27363803
 }
