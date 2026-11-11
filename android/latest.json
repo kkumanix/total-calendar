@@ -1,9 +1,9 @@
 {
-  "version": "3.1.5",
+  "version": "3.1.6",
   "minNative": 22,
   "date": "2026-11-11",
-  "notes": "설정 > 10. 업데이트에서 지난 업데이트 내역을 모두 볼 수 있어요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.5.zip",
-  "sha256": "d1dd924d9108bf826684e8cc1ac3b734b2b076dbbce0e25dc901187528514a29",
-  "size": 824007
+  "notes": "휴대폰 화면 흰 줄 없앰 · 설정 메뉴·스킨 카드·카테고리 정렬 수정",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.6.zip",
+  "sha256": "0460112dee4725e2a394e8eed16016c36e911c0f5982ffb2076c37a156c82f8b",
+  "size": 827422
 }
