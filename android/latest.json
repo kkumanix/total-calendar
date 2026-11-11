@@ -1,9 +1,9 @@
 {
-  "version": "3.1.7",
+  "version": "3.1.8",
   "minNative": 22,
   "date": "2026-11-11",
-  "notes": "휴대폰에서도 AI 모델을 내려받아 쓸 수 있어요 (새 앱 설치 필요)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.7.zip",
-  "sha256": "6e0040669b3ea638e5e5d807fd40d9dcf1dd0a644f9725a50b4a3f5835e107b5",
-  "size": 848700
+  "notes": "AI 고르기(휴대폰 내장 AI·내려받는 모델), 장소 인식 개선",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.8.zip",
+  "sha256": "9702958e03f308dd2ce9529b46144a5dac5104e166a36eb89c50b81393a050ab",
+  "size": 852097
 }
