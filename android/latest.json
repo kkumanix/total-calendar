@@ -1,9 +1,9 @@
 {
-  "version": "3.1.1",
+  "version": "3.1.2",
   "minNative": 22,
   "date": "2026-11-11",
-  "notes": "캘린더 주소도 내 계정으로 동기화 (선택)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.1.zip",
-  "sha256": "149011d7de08ca34f0bf574203244ef3a5e7a5da352b70c6dc6bfe336d8cc1bf",
-  "size": 776431
+  "notes": "캘린더 연결에서 '내 계정으로 동기화' 선택",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.2.zip",
+  "sha256": "c517dcc3c3603f67f4fe4854be5ef9982d4ba58e74773e836a04bdc8d4062369",
+  "size": 777762
 }

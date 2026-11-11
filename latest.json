@@ -1,8 +1,8 @@
 {
-  "version": "1.9.40",
+  "version": "1.9.41",
   "date": "2026-11-11",
-  "notes": "- 설정 > 계정: '캘린더 주소도 내 계정으로 동기화' 켜면 PC에서 연결한 Outlook·Google 캘린더가 휴대폰에도 떠요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.40.zip",
-  "sha256": "c6a947be3da6b94e2ec3455b23c7b9130217495b753d210aea68d5b4a5d77250",
-  "size": 27364911
+  "notes": "- 설정 > 4. 캘린더 연결: '내 계정으로 동기화'를 켜면 PC에서 연결한 Outlook·Google 캘린더가 휴대폰에도 떠요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.41.zip",
+  "sha256": "895417bda30914ed052591db5cae31012d61d236c9928c5342c9bfeadae10b4b",
+  "size": 27365474
 }
