@@ -1,9 +1,9 @@
 {
-  "version": "3.1.4",
+  "version": "3.1.5",
   "minNative": 22,
   "date": "2026-11-11",
-  "notes": "설정 순서 정리(1. 기본 설정 · 2. 꾸미기 …) · 처음 설치 시 4단계 시작 안내 추가",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.4.zip",
-  "sha256": "79fb4482c3337dd0b33bb2aa51e4527108ceeebcc53ae3b9fa63576aac984771",
-  "size": 821340
+  "notes": "설정 > 10. 업데이트에서 지난 업데이트 내역을 모두 볼 수 있어요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.5.zip",
+  "sha256": "d1dd924d9108bf826684e8cc1ac3b734b2b076dbbce0e25dc901187528514a29",
+  "size": 824007
 }

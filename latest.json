@@ -1,8 +1,8 @@
 {
-  "version": "1.9.43",
+  "version": "1.9.44",
   "date": "2026-11-11",
-  "notes": "- 설정 순서 정리: 1. 기본 설정(언어·화면 방식·시간대 등) → 2. 꾸미기(테마·모양·색·글꼴) → 3. 캘린더 스킨 …\n- 처음 설치한 분께 '시작 안내' 4단계: 언어 → 쓰는 캘린더 고르기 → 휴대폰과 같이 쓰기 → 사용법\n- 설정 메뉴 번호가 PC·휴대폰 모두 제목 번호와 같게 나와요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.43.zip",
-  "sha256": "46fb8cb79d7915fa3415eb95274a6214d25fa896c3814f9f1f16210067ae5ae1",
-  "size": 27397024
+  "notes": "- 설정 > 10. 업데이트에서 지난 업데이트 내역을 모두 볼 수 있어요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.44.zip",
+  "sha256": "aad58b76601ac80864d1bc6b14b9e677eaff13670529092970b4e8ab28fb4761",
+  "size": 27399532
 }
