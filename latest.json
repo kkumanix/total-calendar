@@ -1,8 +1,8 @@
 {
-  "version": "1.9.42",
+  "version": "1.9.43",
   "date": "2026-11-11",
-  "notes": "- 자동 백업: 매일 처음 켤 때 일정·메모·설정·캘린더 연결을 이 PC 안에 저장해요 (최근 7일)\n- 설정 > 12. 백업 · 되돌리기에서 '어제로 되돌리기' 한 번으로 복구할 수 있어요\n- 다른 기기 내용으로 바뀌기 직전에도 자동 백업 · 확인 창 문구도 선택한 언어로 나와요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.42.zip",
-  "sha256": "3e1f42b2918f813539fea1d4e87cd2ebd2adc1afe05e45ce519fe371225c33f6",
-  "size": 27372838
+  "notes": "- 설정 순서 정리: 1. 기본 설정(언어·화면 방식·시간대 등) → 2. 꾸미기(테마·모양·색·글꼴) → 3. 캘린더 스킨 …\n- 처음 설치한 분께 '시작 안내' 4단계: 언어 → 쓰는 캘린더 고르기 → 휴대폰과 같이 쓰기 → 사용법\n- 설정 메뉴 번호가 PC·휴대폰 모두 제목 번호와 같게 나와요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.43.zip",
+  "sha256": "46fb8cb79d7915fa3415eb95274a6214d25fa896c3814f9f1f16210067ae5ae1",
+  "size": 27397024
 }
