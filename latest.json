@@ -1,8 +1,8 @@
 {
-  "version": "1.9.41",
+  "version": "1.9.42",
   "date": "2026-11-11",
-  "notes": "- 설정 > 4. 캘린더 연결: '내 계정으로 동기화'를 켜면 PC에서 연결한 Outlook·Google 캘린더가 휴대폰에도 떠요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.41.zip",
-  "sha256": "895417bda30914ed052591db5cae31012d61d236c9928c5342c9bfeadae10b4b",
-  "size": 27365474
+  "notes": "- 자동 백업: 매일 처음 켤 때 일정·메모·설정·캘린더 연결을 이 PC 안에 저장해요 (최근 7일)\n- 설정 > 12. 백업 · 되돌리기에서 '어제로 되돌리기' 한 번으로 복구할 수 있어요\n- 다른 기기 내용으로 바뀌기 직전에도 자동 백업 · 확인 창 문구도 선택한 언어로 나와요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.42.zip",
+  "sha256": "3e1f42b2918f813539fea1d4e87cd2ebd2adc1afe05e45ce519fe371225c33f6",
+  "size": 27372838
 }
