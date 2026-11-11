@@ -1,9 +1,9 @@
 {
-  "version": "3.1.6",
+  "version": "3.1.7",
   "minNative": 22,
   "date": "2026-11-11",
-  "notes": "휴대폰 화면 흰 줄 없앰 · 설정 메뉴·스킨 카드·카테고리 정렬 수정",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.6.zip",
-  "sha256": "0460112dee4725e2a394e8eed16016c36e911c0f5982ffb2076c37a156c82f8b",
-  "size": 827422
+  "notes": "휴대폰에서도 AI 모델을 내려받아 쓸 수 있어요 (새 앱 설치 필요)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.7.zip",
+  "sha256": "6e0040669b3ea638e5e5d807fd40d9dcf1dd0a644f9725a50b4a3f5835e107b5",
+  "size": 848700
 }
