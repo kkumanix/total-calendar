@@ -1,8 +1,8 @@
 {
-  "version": "1.9.44",
+  "version": "1.9.45",
   "date": "2026-11-11",
-  "notes": "- 설정 > 10. 업데이트에서 지난 업데이트 내역을 모두 볼 수 있어요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.44.zip",
-  "sha256": "aad58b76601ac80864d1bc6b14b9e677eaff13670529092970b4e8ab28fb4761",
-  "size": 27399532
+  "notes": "- 설정 메뉴 정렬 정리 (프리미엄 표시 ✦를 번호 옆으로)\n- 스킨 카드 제목·배지 줄바꿈, 카테고리 삭제 버튼 글자 깨짐 수정\n- 소개 화면 문구 새로 바꿈",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.45.zip",
+  "sha256": "c1ebd8fe95c54ce0c2e5c18e7a0d58e73533a6b75a0370941a07cf262d8678f5",
+  "size": 27401974
 }
