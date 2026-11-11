@@ -1,9 +1,9 @@
 {
-  "version": "3.1.8",
+  "version": "3.1.9",
   "minNative": 22,
-  "date": "2026-11-11",
-  "notes": "AI 고르기(휴대폰 내장 AI·내려받는 모델), 장소 인식 개선",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.8.zip",
-  "sha256": "9702958e03f308dd2ce9529b46144a5dac5104e166a36eb89c50b81393a050ab",
-  "size": 852097
+  "date": "2026-11-12",
+  "notes": "업데이트 후 앱이 꺼지던 문제 대비, 앱 시작 가볍게",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.9.zip",
+  "sha256": "456a33f1a016642551a7d85d6ea2f5cfb5ae6033843596212b8fc965cefae2bc",
+  "size": 854127
 }
