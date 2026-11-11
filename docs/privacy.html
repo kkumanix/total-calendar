@@ -22,7 +22,7 @@
 <ul>
 <li>로그인하지 않으면 운영자 서버로 가는 개인정보는 <b>없습니다</b>. 일정·메모는 모두 내 기기 안에만 있어요.</li>
 <li>로그인(선택)하면 PC·휴대폰을 맞추기 위해 내가 앱에서 만든 일정·메모·설정이 서버(Google Firebase)에 저장돼요.</li>
-<li>캘린더 연결 비밀번호, iCal 비공개 주소, 사진, 위치는 서버로 보내지 않아요.</li>
+<li>캘린더 연결 비밀번호, 사진, 위치는 서버로 보내지 않아요. iCal 비공개 주소도 직접 켜지 않으면 보내지 않아요.</li>
 <li>익명 사용 통계는 <b>직접 켠 경우에만</b> 보내요 (기본은 꺼짐).</li>
 <li>광고와 광고 추적은 없고, 개인정보를 남에게 팔거나 넘기지 않아요.</li>
 <li>앱 안 <b>설정 › 계정 · 동기화 › 계정 삭제</b>에서 언제든 계정과 서버 자료를 바로 지울 수 있어요.</li>
@@ -34,7 +34,7 @@
 <thead><tr><th>구분</th><th>항목</th><th>목적</th><th>보관 기간</th></tr></thead>
 <tbody>
 <tr><td data-h="구분">계정 (선택)</td><td data-h="항목">이메일 주소, 비밀번호(암호화되어 Google이 보관하며 운영자도 볼 수 없음), 가입·로그인 시각</td><td data-h="목적">로그인, PC·휴대폰 동기화, 비밀번호 찾기</td><td data-h="보관 기간">계정 삭제 시 즉시 삭제</td></tr>
-<tr><td data-h="구분">동기화 자료 (로그인한 경우)</td><td data-h="항목">앱에서 직접 만든 일정·메모·메모장, 일정별 알림·카테고리, 태어난 해, 스티커, 꾸미기·카테고리·알람 설정, 캘린더 연결 목록(이름·색·종류, 네이버 연결의 서버 주소와 아이디 — <b>비밀번호와 iCal 주소는 제외</b>)</td><td data-h="목적">여러 기기에서 같은 내용을 보기</td><td data-h="보관 기간">계정 삭제 시 즉시 삭제</td></tr>
+<tr><td data-h="구분">동기화 자료 (로그인한 경우)</td><td data-h="항목">앱에서 직접 만든 일정·메모·메모장, 일정별 알림·카테고리, 태어난 해, 스티커, 꾸미기·카테고리·알람 설정, 캘린더 연결 목록(이름·색·종류, 네이버 연결의 서버 주소와 아이디 — <b>비밀번호는 제외</b>, iCal 주소는 '캘린더 주소도 내 계정으로 동기화'를 직접 켠 경우에만 포함)</td><td data-h="목적">여러 기기에서 같은 내용을 보기</td><td data-h="보관 기간">계정 삭제 시 즉시 삭제</td></tr>
 <tr><td data-h="구분">익명 사용 통계 (직접 켠 경우만)</td><td data-h="항목">앱이 만든 무작위 기기 번호, PC/휴대폰 구분, 앱 버전, 처음·마지막 사용 날짜, 날짜별 사용 여부, 켜 둔 기능(로그인 여부, 연결한 캘린더 종류, 알람 개수 등)</td><td data-h="목적">사용자 수 파악, 오류·불편 개선</td><td data-h="보관 기간">마지막 사용일로부터 2년 뒤 삭제, 끄면 그 뒤로는 보내지 않음</td></tr>
 <tr><td data-h="구분">프리미엄 이용권 (받은 경우)</td><td data-h="항목">받는 사람 이메일, 이용 기간, 지급 메모</td><td data-h="목적">이벤트·감사 이용권 제공</td><td data-h="보관 기간">기간이 끝나고 1년 뒤 또는 계정 삭제 시 삭제</td></tr>
 <tr><td data-h="구분">문의 메일 (보낸 경우)</td><td data-h="항목">보낸 사람 이메일, 내용, 메일에 자동으로 붙는 앱 버전·운영체제·화면 크기·연결한 캘린더 개수</td><td data-h="목적">답변, 오류 수정</td><td data-h="보관 기간">처리 완료 후 1년 뒤 삭제</td></tr>
@@ -44,7 +44,7 @@
 <h2>2. 서버로 보내지 않는 정보 (내 기기 안에만)</h2>
 <ul>
 <li>네이버 등 캘린더 연결 비밀번호 — 기기 안에서 암호화해 보관</li>
-<li>Google·Outlook iCal 비공개 주소 — 그 주소만 알면 일정을 볼 수 있어서 서버에 올리지 않아요 (기기마다 한 번씩 넣어요)</li>
+<li>Google·Outlook iCal 비공개 주소 — 그 주소만 알면 일정을 볼 수 있어서 기본으로는 서버에 올리지 않아요. 설정에서 '캘린더 주소도 내 계정으로 동기화'를 켠 경우에만 내 계정(본인만 읽기 가능)에 저장돼요</li>
 <li>위젯에 넣은 사진</li>
 <li>'현재 위치' 날씨를 고른 경우의 위치 — 약 10km 단위(소수 첫째 자리)로 줄여서 기기 안에만 저장</li>
 <li>'AI로 일정 등록'에 붙여넣은 글 — PC 안에서만 처리, 인터넷으로 보내지 않음</li>
@@ -121,7 +121,7 @@
 <ul>
 <li>If you don't sign in, <b>no</b> personal data is sent to the operator's server. Your events and notes stay on your device.</li>
 <li>If you sign in (optional), the events, notes and settings you create in the app are stored on Google Firebase to sync your PC and phone.</li>
-<li>Calendar passwords, secret iCal addresses, photos and your location are never sent to the server.</li>
+<li>Calendar passwords, photos and your location are never sent to the server; secret iCal addresses only if you turn that on.</li>
 <li>Anonymous usage stats are sent <b>only if you turn them on</b> (off by default).</li>
 <li>No ads, no ad tracking. We never sell or hand over personal data.</li>
 <li>You can delete your account and server data instantly in <b>Settings › Account · Sync › Delete account</b>.</li>
@@ -133,7 +133,7 @@
 <thead><tr><th>Type</th><th>Items</th><th>Purpose</th><th>Retention</th></tr></thead>
 <tbody>
 <tr><td data-h="Type">Account (optional)</td><td data-h="Items">Email address, password (hashed and held by Google; the operator cannot see it), sign-up/sign-in time</td><td data-h="Purpose">Sign-in, PC/phone sync, password reset</td><td data-h="Retention">Deleted immediately when you delete your account</td></tr>
-<tr><td data-h="Type">Sync data (if signed in)</td><td data-h="Items">Events, notes and notepads you create in the app, per-event reminders/categories, birth years, stickers, appearance/category/alarm settings, list of connected calendars (name, color, type, Naver server address and ID — <b>passwords and iCal addresses excluded</b>)</td><td data-h="Purpose">Show the same content on all your devices</td><td data-h="Retention">Deleted immediately when you delete your account</td></tr>
+<tr><td data-h="Type">Sync data (if signed in)</td><td data-h="Items">Events, notes and notepads you create in the app, per-event reminders/categories, birth years, stickers, appearance/category/alarm settings, list of connected calendars (name, color, type, Naver server address and ID — <b>passwords excluded</b>; iCal addresses only if you turn on "Also sync calendar addresses")</td><td data-h="Purpose">Show the same content on all your devices</td><td data-h="Retention">Deleted immediately when you delete your account</td></tr>
 <tr><td data-h="Type">Anonymous usage stats (only if turned on)</td><td data-h="Items">Random device number created by the app, PC/phone, app version, first/last use date, daily use flag, features in use</td><td data-h="Purpose">Count users, fix bugs and pain points</td><td data-h="Retention">Deleted 2 years after last use; nothing more is sent once turned off</td></tr>
 <tr><td data-h="Type">Premium pass (if given)</td><td data-h="Items">Recipient email, period, note</td><td data-h="Purpose">Gift or thank-you passes</td><td data-h="Retention">1 year after the pass ends, or on account deletion</td></tr>
 <tr><td data-h="Type">Support email (if you write)</td><td data-h="Items">Your email, message, and the app version, OS, screen size and number of connected calendars attached to the email</td><td data-h="Purpose">Reply, fix issues</td><td data-h="Retention">1 year after the request is handled</td></tr>
@@ -143,7 +143,7 @@
 <h2>2. Kept only on your device</h2>
 <ul>
 <li>Calendar passwords (encrypted on the device)</li>
-<li>Secret iCal addresses of Google/Outlook calendars</li>
+<li>Secret iCal addresses of Google/Outlook calendars — unless you turn on "Also sync calendar addresses to my account" (then stored in your account, readable only by you)</li>
 <li>Photos you add to the widget</li>
 <li>Location for "Current location" weather — rounded to about 10 km and stored only on the phone</li>
 <li>Text pasted into "Add events with AI" — processed on your PC, never sent online</li>

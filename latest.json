@@ -1,8 +1,8 @@
 {
-  "version": "1.9.39",
-  "date": "2026-11-10",
-  "notes": "- 개인정보 처리방침·이용약관 연결, 가입 시 만 14세·동의 확인\n- 계정 삭제 기능, 구독은 언제든 해지(위약금 없음)\n- 익명 통계 기본 꺼짐, iCal 주소는 서버에 올리지 않음",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.39.zip",
-  "sha256": "5f7d5ba607ca0dccac3d11a661b43d5167d3eeeb1ff9d4e450dc201831d8e22a",
-  "size": 27363803
+  "version": "1.9.40",
+  "date": "2026-11-11",
+  "notes": "- 설정 > 계정: '캘린더 주소도 내 계정으로 동기화' 켜면 PC에서 연결한 Outlook·Google 캘린더가 휴대폰에도 떠요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.40.zip",
+  "sha256": "c6a947be3da6b94e2ec3455b23c7b9130217495b753d210aea68d5b4a5d77250",
+  "size": 27364911
 }

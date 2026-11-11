@@ -1,9 +1,9 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "minNative": 22,
-  "date": "2026-11-10",
-  "notes": "개인정보·약관 정리, 계정 삭제, 쉬운 해지, 통계 기본 꺼짐",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.0.zip",
-  "sha256": "804a49d2deaa0639505fde3a64419c7e3fbfcf82822b783e76e0823aa12f3aa3",
-  "size": 774764
+  "date": "2026-11-11",
+  "notes": "캘린더 주소도 내 계정으로 동기화 (선택)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.1.zip",
+  "sha256": "149011d7de08ca34f0bf574203244ef3a5e7a5da352b70c6dc6bfe336d8cc1bf",
+  "size": 776431
 }
