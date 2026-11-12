@@ -1,9 +1,9 @@
 {
-  "version": "3.1.9",
+  "version": "3.1.10",
   "minNative": 22,
   "date": "2026-11-12",
-  "notes": "업데이트 후 앱이 꺼지던 문제 대비, 앱 시작 가볍게",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.9.zip",
-  "sha256": "456a33f1a016642551a7d85d6ea2f5cfb5ae6033843596212b8fc965cefae2bc",
-  "size": 854127
+  "notes": "🎤 말하기(음성 입력, 새 앱 필요), 예시에 장소",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.10.zip",
+  "sha256": "d20b70628e0b0631d3b833fa5ef3bf20862a408716a9d57d4e7c6fb253cb2e97",
+  "size": 862987
 }
