@@ -1,9 +1,9 @@
 {
-  "version": "3.1.12",
+  "version": "3.1.13",
   "minNative": 22,
   "date": "2026-11-12",
-  "notes": "키보드가 떠도 화면이 줄지 않게 (새 앱 설치 필요)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.12.zip",
-  "sha256": "496292d1581dafd5db00b0bc90439bb3c8534a0e891ca7e976c5f132c32b35f6",
-  "size": 864263
+  "notes": "글을 입력할 때 화면이 좁아지던 문제 해결",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.13.zip",
+  "sha256": "9e654263fcce10f003a65cd46cd562737e03b7475a9926a2794bca58807f0b45",
+  "size": 864716
 }
