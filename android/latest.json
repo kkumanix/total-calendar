@@ -1,9 +1,9 @@
 {
-  "version": "3.1.10",
+  "version": "3.1.11",
   "minNative": 22,
   "date": "2026-11-12",
-  "notes": "🎤 말하기(음성 입력, 새 앱 필요), 예시에 장소",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.10.zip",
-  "sha256": "d20b70628e0b0631d3b833fa5ef3bf20862a408716a9d57d4e7c6fb253cb2e97",
-  "size": 862987
+  "notes": "프리미엄 표시를 보라색 P 배지로",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.11.zip",
+  "sha256": "34172fb512a96a7d522e4d181c316ee00b741b730b925a33673cedb4bd52d32a",
+  "size": 864134
 }
