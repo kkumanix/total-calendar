@@ -1,8 +1,8 @@
 {
-  "version": "1.9.45",
-  "date": "2026-11-11",
-  "notes": "- 설정 메뉴 정렬 정리 (프리미엄 표시 ✦를 번호 옆으로)\n- 스킨 카드 제목·배지 줄바꿈, 카테고리 삭제 버튼 글자 깨짐 수정\n- 소개 화면 문구 새로 바꿈",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.45.zip",
-  "sha256": "c1ebd8fe95c54ce0c2e5c18e7a0d58e73533a6b75a0370941a07cf262d8678f5",
-  "size": 27401974
+  "version": "1.9.46",
+  "date": "2026-11-12",
+  "notes": "- 말로 일정 등록: '장소는 ○○'을 장소로 넣어요 · '7시 저녁 약속'은 저녁 7시로\n- 예시 문장에 장소 추가 · 🎤 말하기 버튼 (윈도우 받아쓰기 안내)\n- 프리미엄 표시를 보라색 P 배지로",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.46.zip",
+  "sha256": "11016c7fa559c98f4c519aec9de80a810a0ce64669f2adb4929e254218330ea8",
+  "size": 27413535
 }
