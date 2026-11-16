@@ -1,8 +1,8 @@
 {
-  "version": "1.9.46",
-  "date": "2026-11-12",
-  "notes": "- 말로 일정 등록: '장소는 ○○'을 장소로 넣어요 · '7시 저녁 약속'은 저녁 7시로\n- 예시 문장에 장소 추가 · 🎤 말하기 버튼 (윈도우 받아쓰기 안내)\n- 프리미엄 표시를 보라색 P 배지로",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.46.zip",
-  "sha256": "11016c7fa559c98f4c519aec9de80a810a0ce64669f2adb4929e254218330ea8",
-  "size": 27413535
+  "version": "1.9.47",
+  "date": "2026-11-17",
+  "notes": "- 연결 오류를 알기 쉬운 말로 보여 줘요 (예: 인터넷 연결을 확인해 주세요)\n- 캘린더 연결 화면이 좁을 때 이름 칸이 찌그러지지 않게\n- 휴대폰 3.1.14와 같은 화면 구성으로 맞춤",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.47.zip",
+  "sha256": "063f4bda92f82b8310428e7607a4536eb4bcec7e2d8946d1f4de779c3226f51d",
+  "size": 27414527
 }
