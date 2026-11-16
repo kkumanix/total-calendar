@@ -1,0 +1,69 @@
+name: PC installer
+# Windows 설치 파일 만들기: 이 저장소의 최신 앱 파일(DeskCal-app-<버전>.zip)로 설치 파일을 만들고, 실행 시험 뒤 릴리스에 올림
+on:
+  workflow_dispatch:
+    inputs:
+      electron:
+        description: Electron version
+        default: "45.3.3"
+      publish:
+        description: Publish release (yes/no)
+        default: "yes"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Unpack app
+        shell: bash
+        run: |
+          V=$(node -p "require('./latest.json').version")
+          echo "APPV=$V" >> $GITHUB_ENV
+          mkdir -p build/app && cd build/app && unzip -q ../../DeskCal-app-$V.zip
+          npm install --omit=dev --no-audit --no-fund
+          ls
+      - name: Build installer
+        shell: bash
+        run: |
+          cd build
+          cat > builder.json <<JSON
+          {
+            "appId": "com.deskcal.app",
+            "productName": "Total Calendar",
+            "executableName": "TotalCalendar",
+            "electronVersion": "${{ inputs.electron }}",
+            "asar": false,
+            "npmRebuild": false,
+            "directories": { "app": "app", "output": "out" },
+            "win": { "target": [{ "target": "nsis", "arch": ["x64"] }], "icon": "app/assets/icon.ico", "artifactName": "TotalCalendar-Setup.exe" },
+            "nsis": { "oneClick": true, "perMachine": false, "createDesktopShortcut": true, "createStartMenuShortcut": true, "shortcutName": "Total Calendar", "runAfterFinish": true, "deleteAppDataOnUninstall": false },
+            "publish": null
+          }
+          JSON
+          npx --yes electron-builder@26 --win --x64 --config builder.json
+          ls -la out
+      - name: Smoke test
+        shell: bash
+        run: node tools/smoke.mjs "build/out/win-unpacked/TotalCalendar.exe"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: smoke
+          path: |
+            smoke-*.png
+      - name: Publish release
+        if: inputs.publish == 'yes'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd build/out
+          SHA=$(sha256sum TotalCalendar-Setup.exe | cut -d' ' -f1)
+          gh release delete "pc-v$APPV" --yes --cleanup-tag 2>/dev/null || true
+          gh release create "pc-v$APPV" TotalCalendar-Setup.exe --title "Total Calendar $APPV (Windows)" --notes "Windows 10·11 (64비트) 설치 파일입니다. 설치 후에는 앱 안에서 자동으로 업데이트됩니다.
+
+          SHA-256: $SHA" --latest
