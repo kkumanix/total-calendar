@@ -1,9 +1,9 @@
 {
-  "version": "3.1.14",
+  "version": "3.1.15",
   "minNative": 22,
   "date": "2026-11-17",
-  "notes": "날짜 칸을 한 번 누르면 바로 적기 · 버튼을 누르기 좋게 · 캘린더 연결 화면 정리",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.14.zip",
-  "sha256": "1c8c40fcbd4933197f5aa5fadeee969c744d1025a90ff6d092ad1bd28c9eaaa2",
-  "size": 866073
+  "notes": "메인 화면 정리: 달 제목·알람을 한 줄로, 날짜를 누르면 아래에 그날 일정이 크게 보여요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.15.zip",
+  "sha256": "6042382b96107d5a0c13f48416c794eb1275e6961cfe4092890dab9805473b3b",
+  "size": 868057
 }
