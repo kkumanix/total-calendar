@@ -1,9 +1,9 @@
 {
-  "version": "3.1.13",
+  "version": "3.1.14",
   "minNative": 22,
-  "date": "2026-11-12",
-  "notes": "글을 입력할 때 화면이 좁아지던 문제 해결",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.13.zip",
-  "sha256": "9e654263fcce10f003a65cd46cd562737e03b7475a9926a2794bca58807f0b45",
-  "size": 864716
+  "date": "2026-11-17",
+  "notes": "날짜 칸을 한 번 누르면 바로 적기 · 버튼을 누르기 좋게 · 캘린더 연결 화면 정리",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.14.zip",
+  "sha256": "1c8c40fcbd4933197f5aa5fadeee969c744d1025a90ff6d092ad1bd28c9eaaa2",
+  "size": 866073
 }
