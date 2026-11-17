@@ -1,8 +1,8 @@
 {
-  "version": "1.9.49",
+  "version": "1.9.50",
   "date": "2026-11-17",
-  "notes": "- 날짜를 어떻게 적어도 알아들어요: 20261120 · 2026.11.20 · 26.11.20 · 11/20 · 11-20 · 12/3(목)\n- 연도를 안 적으면 올해 그 날짜로 넣어요\n- '3-4시', '10~12시' 같은 시간 범위도 인식",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.49.zip",
-  "sha256": "bcd9010b7732521393d3e0eff1d71c80f77fe58b3cbb89f7020e1678e4a2d4a8",
-  "size": 27425084
+  "notes": "- 설정 정리: 비슷한 항목을 묶고 자주 안 쓰는 것은 접어 두었어요\n- 설정 찾기: 맨 위 칸에 단어를 적으면 그 설정으로 바로 가요\n- 긴 설명글은 한 줄만 보이고 누르면 펼쳐져요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.50.zip",
+  "sha256": "4c3fe88d4b837cac0ba3ba8a13d34360977224ddb404d4171b056a0192d10196",
+  "size": 27430095
 }
