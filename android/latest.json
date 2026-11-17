@@ -1,9 +1,9 @@
 {
-  "version": "3.1.15",
+  "version": "3.1.16",
   "minNative": 22,
   "date": "2026-11-17",
-  "notes": "메인 화면 정리: 달 제목·알람을 한 줄로, 날짜를 누르면 아래에 그날 일정이 크게 보여요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.15.zip",
-  "sha256": "6042382b96107d5a0c13f48416c794eb1275e6961cfe4092890dab9805473b3b",
-  "size": 868057
+  "notes": "날짜를 어떻게 적어도 인식(20261120·11/20 등) · 달력을 밀어서 달 넘기기",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.16.zip",
+  "sha256": "0bbf09b43e43de2d50ed0e232089b1006e4e3f7bb63612f5fed82cc190df7fa3",
+  "size": 869955
 }
