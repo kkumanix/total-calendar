@@ -1,8 +1,8 @@
 {
-  "version": "1.9.47",
+  "version": "1.9.48",
   "date": "2026-11-17",
-  "notes": "- 연결 오류를 알기 쉬운 말로 보여 줘요 (예: 인터넷 연결을 확인해 주세요)\n- 캘린더 연결 화면이 좁을 때 이름 칸이 찌그러지지 않게\n- 휴대폰 3.1.14와 같은 화면 구성으로 맞춤",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.47.zip",
-  "sha256": "063f4bda92f82b8310428e7607a4536eb4bcec7e2d8946d1f4de779c3226f51d",
-  "size": 27414527
+  "notes": "- Windows 설치 파일로 설치할 수 있어요 (홈페이지에서 내려받기)\n- Google 계정 연결 준비: 비밀값을 앱에 넣지 않는 안전한 방식으로 변경 (기능은 곧 켜져요)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.48.zip",
+  "sha256": "96117ee54324e8d0cc1e67db381ff908506848a5ae6c30efb7efab3366268e8a",
+  "size": 27423700
 }

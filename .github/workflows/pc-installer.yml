@@ -25,7 +25,10 @@ jobs:
           echo "APPV=$V" >> $GITHUB_ENV
           mkdir -p build/app && cd build/app && unzip -q ../../DeskCal-app-$V.zip
           npm install --omit=dev --no-audit --no-fund
-          ls
+          # 다른 운영체제용 부품은 빼서 설치 파일을 가볍게
+          if [ -d node_modules/koffi/build/koffi ]; then find node_modules/koffi/build/koffi -mindepth 1 -maxdepth 1 ! -name 'win32_x64' -exec rm -rf {} +; fi
+          rm -rf node_modules/koffi/src node_modules/koffi/vendor node_modules/koffi/doc 2>/dev/null || true
+          du -sh node_modules | tail -1
       - name: Build installer
         shell: bash
         run: |
@@ -37,10 +40,12 @@ jobs:
             "executableName": "TotalCalendar",
             "electronVersion": "${{ inputs.electron }}",
             "asar": false,
+            "compression": "maximum",
+            "electronLanguages": ["ko", "en-US", "ja", "zh-CN", "es"],
             "npmRebuild": false,
             "directories": { "app": "app", "output": "out" },
             "win": { "target": [{ "target": "nsis", "arch": ["x64"] }], "icon": "app/assets/icon.ico", "artifactName": "TotalCalendar-Setup.exe" },
-            "nsis": { "oneClick": true, "perMachine": false, "createDesktopShortcut": true, "createStartMenuShortcut": true, "shortcutName": "Total Calendar", "runAfterFinish": true, "deleteAppDataOnUninstall": false },
+            "nsis": { "oneClick": true, "perMachine": false, "createDesktopShortcut": true, "createStartMenuShortcut": true, "shortcutName": "Total Calendar", "runAfterFinish": true, "differentialPackage": false, "deleteAppDataOnUninstall": false },
             "publish": null
           }
           JSON
@@ -49,12 +54,14 @@ jobs:
       - name: Smoke test
         shell: bash
         run: node tools/smoke.mjs "build/out/win-unpacked/TotalCalendar.exe"
-      - uses: actions/upload-artifact@v4
+      - name: Save smoke screenshots
         if: always()
-        with:
-          name: smoke
-          path: |
-            smoke-*.png
+        shell: bash
+        run: |
+          mkdir -p shots && cp smoke-*.png shots/ 2>/dev/null || true
+          cd shots && git init -q -b smoke && git config user.name ci && git config user.email ci@users.noreply.github.com
+          git add -A && git commit -q -m "smoke screenshots" || true
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" smoke || true
       - name: Publish release
         if: inputs.publish == 'yes'
         shell: bash
