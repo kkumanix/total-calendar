@@ -1,9 +1,9 @@
 {
-  "version": "3.1.17",
+  "version": "3.1.18",
   "minNative": 22,
   "date": "2026-11-17",
-  "notes": "설정 정리: 묶기·접기·설정 찾기",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.17.zip",
-  "sha256": "ae60a5ce7bc22c579e9cf5d5ab3f22da7c0054f81725d08d285928984f2d93af",
-  "size": 876091
+  "notes": "설정 탭 줄이기 · 설정 창 색 고정 · 파일(.ics)에서 일정 가져오기 · 응원 친구가 오늘 일정·날씨에 맞춰 말해요 · 자동 동기화 끄기",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.18.zip",
+  "sha256": "6ed56f3d51eee3ad8928d3d3cf77957b91395deb8e569f2e33cc80775df1afeb",
+  "size": 904342
 }
