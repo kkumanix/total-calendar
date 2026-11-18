@@ -1,8 +1,8 @@
 {
-  "version": "1.9.57",
+  "version": "1.9.58",
   "date": "2026-11-18",
-  "notes": "- 24절기·기념일·업무 일정 같은 달력을 Google 캘린더에도 보이게 (설정 > 캘린더 연결)\n- 토탈캘린더에 저장하면 연결한 캘린더에도 같이 들어가요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.57.zip",
-  "sha256": "91165c41a82217557b4a67528c0a1813a3dba4cb2ee95f03c10c06378bdd43b4",
-  "size": 27482262
+  "notes": "- Google에 추가한 달력은 설정에서 바로 뺄 수 있어요 (Google 계정 연결 · 한 번 다시 로그인)\n- 공휴일은 버튼 한 번으로 Google 캘린더에 추가",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.58.zip",
+  "sha256": "1708d7e41514e5948d52a0ac7fcd930d2c6f4b4d11406f512f875f31907e9316",
+  "size": 27484223
 }
