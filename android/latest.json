@@ -1,9 +1,9 @@
 {
-  "version": "3.1.20",
+  "version": "3.1.21",
   "minNative": 22,
   "date": "2026-11-18",
-  "notes": "더 넣을 수 있는 달력 8가지 추가: 개인사업자 세무·안전보건·IT·공공예산, 생활 세금·금융증시·쇼핑 대목·입시",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.20.zip",
-  "sha256": "bd94cd783ebe6cc443a93ad424005da4d8afed042554d99ca15f6553d9460948",
-  "size": 939929
+  "notes": "토탈캘린더에 저장하면 연결한 Google·Outlook·네이버에도 같이 들어가고, 고치거나 지우면 같이 바뀌어요 · 휴대폰 Google 로그인(새 APK 필요)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.21.zip",
+  "sha256": "5a1fc992de69fd951fcc1bcd747ccf5011737b609176bc257ca9bee1c73c3ed4",
+  "size": 951808
 }
