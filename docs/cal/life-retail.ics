@@ -1,0 +1,943 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 쇼핑·마케팅 대목
+X-WR-CALDESC:명절 선물 시즌\, 가정의 달\, 블랙프라이데이\
+ , 광군제\, 연말 시즌 · Total Calendar가 만든 참고용 달력 
+ (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wMS0wOHzshKQg7ISg66y8IOyLnOymjCDsi5zsnpE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+SUMMARY:설 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:설 3주 전 무렵 · 선물 세트 예약 판매\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wMi0xNHzrsLjrn7Dtg4DsnbjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:밸런타인데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wMi0xNXzsi6DtlZnquLAg7KSA67mEIOyLnOymjA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250216
+SUMMARY:신학기 준비 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:입학·개학 선물\, 문구·전자기기\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wMy0xNHztmZTsnbTtirjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:화이트데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wNC0yMHzqsIDsoJXsnZgg64usIOykgOu5hA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:가정의 달 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:어린이날·어버이날·스승의 날 기획전\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wNi0yNXzsl6zrpoTtnLTqsIAg7Iuc7KaMIOykgOu5hA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250625
+DTEND;VALUE=DATE:20250626
+SUMMARY:여름휴가 시즌 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:7~8월 여행·바캉스 기획\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0wOS0xNXzstpTshJ0g7ISg66y8IOyLnOymjCDsi5zsnpE@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:추석 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:추석 3주 전 무렵\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0xMC0zMXztlbzrn6zsnIg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:핼러윈
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0xMS0xMXzqtJHqtbDsoJzCt-u5vOu5vOuhnOuNsOydtA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:광군제·빼빼로데이
+TRANSP:TRANSPARENT
+DESCRIPTION:중국 최대 쇼핑 행사와 같은 날\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0xMS0yOHzruJTrnpntlITrnbzsnbTrjbDsnbQ@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:블랙프라이데이
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 추수감사절(11월 넷째 목요일) 다음 날 · 
+ 해외 직구\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0xMi0wMXzsgqzsnbTrsoTrqLzrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:사이버먼데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0xMi0wMXzsl7Drp5Ag7ISg66y8wrfshqHrhYTtmowg7Iuc7K
+ aM@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:연말 선물·송년회 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNS0xMi0yNnzsl7Drp5Ag7J6s6rOgIOygleumrMK37IOI7ZW0IO
+ unnuydtCDshLjsnbw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:연말 재고 정리·새해 맞이 세일
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wMS0yN3zshKQg7ISg66y8IOyLnOymjCDsi5zsnpE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:설 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:설 3주 전 무렵 · 선물 세트 예약 판매\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wMi0xNHzrsLjrn7Dtg4DsnbjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:밸런타인데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wMi0xNXzsi6DtlZnquLAg7KSA67mEIOyLnOymjA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:신학기 준비 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:입학·개학 선물\, 문구·전자기기\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wMy0xNHztmZTsnbTtirjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:화이트데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wNC0yMHzqsIDsoJXsnZgg64usIOykgOu5hA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:가정의 달 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:어린이날·어버이날·스승의 날 기획전\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wNi0yNXzsl6zrpoTtnLTqsIAg7Iuc7KaMIOykgOu5hA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:여름휴가 시즌 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:7~8월 여행·바캉스 기획\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0wOS0wNHzstpTshJ0g7ISg66y8IOyLnOymjCDsi5zsnpE@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:추석 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:추석 3주 전 무렵\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0xMC0zMXztlbzrn6zsnIg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:핼러윈
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0xMS0xMXzqtJHqtbDsoJzCt-u5vOu5vOuhnOuNsOydtA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:광군제·빼빼로데이
+TRANSP:TRANSPARENT
+DESCRIPTION:중국 최대 쇼핑 행사와 같은 날\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0xMS0yN3zruJTrnpntlITrnbzsnbTrjbDsnbQ@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:블랙프라이데이
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 추수감사절(11월 넷째 목요일) 다음 날 · 
+ 해외 직구\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0xMS0zMHzsgqzsnbTrsoTrqLzrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:사이버먼데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0xMi0wMXzsl7Drp5Ag7ISg66y8wrfshqHrhYTtmowg7Iuc7K
+ aM@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:연말 선물·송년회 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNi0xMi0yNnzsl7Drp5Ag7J6s6rOgIOygleumrMK37IOI7ZW0IO
+ unnuydtCDshLjsnbw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:연말 재고 정리·새해 맞이 세일
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wMS0xN3zshKQg7ISg66y8IOyLnOymjCDsi5zsnpE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:설 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:설 3주 전 무렵 · 선물 세트 예약 판매\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wMi0xNHzrsLjrn7Dtg4DsnbjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:밸런타인데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wMi0xNXzsi6DtlZnquLAg7KSA67mEIOyLnOymjA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:신학기 준비 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:입학·개학 선물\, 문구·전자기기\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wMy0xNHztmZTsnbTtirjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:화이트데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wNC0yMHzqsIDsoJXsnZgg64usIOykgOu5hA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:가정의 달 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:어린이날·어버이날·스승의 날 기획전\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wNi0yNXzsl6zrpoTtnLTqsIAg7Iuc7KaMIOykgOu5hA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:여름휴가 시즌 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:7~8월 여행·바캉스 기획\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0wOC0yNXzstpTshJ0g7ISg66y8IOyLnOymjCDsi5zsnpE@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:추석 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:추석 3주 전 무렵\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0xMC0zMXztlbzrn6zsnIg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:핼러윈
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0xMS0xMXzqtJHqtbDsoJzCt-u5vOu5vOuhnOuNsOydtA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:광군제·빼빼로데이
+TRANSP:TRANSPARENT
+DESCRIPTION:중국 최대 쇼핑 행사와 같은 날\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0xMS0yNnzruJTrnpntlITrnbzsnbTrjbDsnbQ@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+SUMMARY:블랙프라이데이
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 추수감사절(11월 넷째 목요일) 다음 날 · 
+ 해외 직구\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0xMS0yOXzsgqzsnbTrsoTrqLzrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+SUMMARY:사이버먼데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0xMi0wMXzsl7Drp5Ag7ISg66y8wrfshqHrhYTtmowg7Iuc7K
+ aM@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:연말 선물·송년회 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyNy0xMi0yNnzsl7Drp5Ag7J6s6rOgIOygleumrMK37IOI7ZW0IO
+ unnuydtCDshLjsnbw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:연말 재고 정리·새해 맞이 세일
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wMS0wNnzshKQg7ISg66y8IOyLnOymjCDsi5zsnpE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:설 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:설 3주 전 무렵 · 선물 세트 예약 판매\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wMi0xNHzrsLjrn7Dtg4DsnbjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280214
+DTEND;VALUE=DATE:20280215
+SUMMARY:밸런타인데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wMi0xNXzsi6DtlZnquLAg7KSA67mEIOyLnOymjA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:신학기 준비 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:입학·개학 선물\, 문구·전자기기\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wMy0xNHztmZTsnbTtirjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280314
+DTEND;VALUE=DATE:20280315
+SUMMARY:화이트데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wNC0yMHzqsIDsoJXsnZgg64usIOykgOu5hA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:가정의 달 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:어린이날·어버이날·스승의 날 기획전\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wNi0yNXzsl6zrpoTtnLTqsIAg7Iuc7KaMIOykgOu5hA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280625
+DTEND;VALUE=DATE:20280626
+SUMMARY:여름휴가 시즌 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:7~8월 여행·바캉스 기획\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0wOS0xMnzstpTshJ0g7ISg66y8IOyLnOymjCDsi5zsnpE@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280912
+DTEND;VALUE=DATE:20280913
+SUMMARY:추석 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:추석 3주 전 무렵\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0xMC0zMXztlbzrn6zsnIg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:핼러윈
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0xMS0xMXzqtJHqtbDsoJzCt-u5vOu5vOuhnOuNsOydtA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:광군제·빼빼로데이
+TRANSP:TRANSPARENT
+DESCRIPTION:중국 최대 쇼핑 행사와 같은 날\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0xMS0yNHzruJTrnpntlITrnbzsnbTrjbDsnbQ@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+SUMMARY:블랙프라이데이
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 추수감사절(11월 넷째 목요일) 다음 날 · 
+ 해외 직구\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0xMS0yN3zsgqzsnbTrsoTrqLzrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281127
+DTEND;VALUE=DATE:20281128
+SUMMARY:사이버먼데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0xMi0wMXzsl7Drp5Ag7ISg66y8wrfshqHrhYTtmowg7Iuc7K
+ aM@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:연말 선물·송년회 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOC0xMi0yNnzsl7Drp5Ag7J6s6rOgIOygleumrMK37IOI7ZW0IO
+ unnuydtCDshLjsnbw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:연말 재고 정리·새해 맞이 세일
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wMS0yM3zshKQg7ISg66y8IOyLnOymjCDsi5zsnpE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290123
+DTEND;VALUE=DATE:20290124
+SUMMARY:설 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:설 3주 전 무렵 · 선물 세트 예약 판매\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wMi0xNHzrsLjrn7Dtg4DsnbjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:밸런타인데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wMi0xNXzsi6DtlZnquLAg7KSA67mEIOyLnOymjA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:신학기 준비 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:입학·개학 선물\, 문구·전자기기\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wMy0xNHztmZTsnbTtirjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290314
+DTEND;VALUE=DATE:20290315
+SUMMARY:화이트데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wNC0yMHzqsIDsoJXsnZgg64usIOykgOu5hA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:가정의 달 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:어린이날·어버이날·스승의 날 기획전\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wNi0yNXzsl6zrpoTtnLTqsIAg7Iuc7KaMIOykgOu5hA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290625
+DTEND;VALUE=DATE:20290626
+SUMMARY:여름휴가 시즌 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:7~8월 여행·바캉스 기획\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0wOS0wMXzstpTshJ0g7ISg66y8IOyLnOymjCDsi5zsnpE@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290901
+DTEND;VALUE=DATE:20290902
+SUMMARY:추석 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:추석 3주 전 무렵\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0xMC0zMXztlbzrn6zsnIg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:핼러윈
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0xMS0xMXzqtJHqtbDsoJzCt-u5vOu5vOuhnOuNsOydtA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291111
+DTEND;VALUE=DATE:20291112
+SUMMARY:광군제·빼빼로데이
+TRANSP:TRANSPARENT
+DESCRIPTION:중국 최대 쇼핑 행사와 같은 날\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0xMS0yM3zruJTrnpntlITrnbzsnbTrjbDsnbQ@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291123
+DTEND;VALUE=DATE:20291124
+SUMMARY:블랙프라이데이
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 추수감사절(11월 넷째 목요일) 다음 날 · 
+ 해외 직구\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0xMS0yNnzsgqzsnbTrsoTrqLzrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291126
+DTEND;VALUE=DATE:20291127
+SUMMARY:사이버먼데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0xMi0wMXzsl7Drp5Ag7ISg66y8wrfshqHrhYTtmowg7Iuc7K
+ aM@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291201
+DTEND;VALUE=DATE:20291202
+SUMMARY:연말 선물·송년회 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAyOS0xMi0yNnzsl7Drp5Ag7J6s6rOgIOygleumrMK37IOI7ZW0IO
+ unnuydtCDshLjsnbw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291226
+DTEND;VALUE=DATE:20291227
+SUMMARY:연말 재고 정리·새해 맞이 세일
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wMS0xM3zshKQg7ISg66y8IOyLnOymjCDsi5zsnpE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300113
+DTEND;VALUE=DATE:20300114
+SUMMARY:설 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:설 3주 전 무렵 · 선물 세트 예약 판매\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wMi0xNHzrsLjrn7Dtg4DsnbjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300214
+DTEND;VALUE=DATE:20300215
+SUMMARY:밸런타인데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wMi0xNXzsi6DtlZnquLAg7KSA67mEIOyLnOymjA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:신학기 준비 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:입학·개학 선물\, 문구·전자기기\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wMy0xNHztmZTsnbTtirjrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300314
+DTEND;VALUE=DATE:20300315
+SUMMARY:화이트데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wNC0yMHzqsIDsoJXsnZgg64usIOykgOu5hA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300420
+DTEND;VALUE=DATE:20300421
+SUMMARY:가정의 달 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:어린이날·어버이날·스승의 날 기획전\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wNi0yNXzsl6zrpoTtnLTqsIAg7Iuc7KaMIOykgOu5hA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300625
+DTEND;VALUE=DATE:20300626
+SUMMARY:여름휴가 시즌 준비
+TRANSP:TRANSPARENT
+DESCRIPTION:7~8월 여행·바캉스 기획\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0wOC0yMnzstpTshJ0g7ISg66y8IOyLnOymjCDsi5zsnpE@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300822
+DTEND;VALUE=DATE:20300823
+SUMMARY:추석 선물 시즌 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:추석 3주 전 무렵\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0xMC0zMXztlbzrn6zsnIg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:핼러윈
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0xMS0xMXzqtJHqtbDsoJzCt-u5vOu5vOuhnOuNsOydtA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:광군제·빼빼로데이
+TRANSP:TRANSPARENT
+DESCRIPTION:중국 최대 쇼핑 행사와 같은 날\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0xMS0yOXzruJTrnpntlITrnbzsnbTrjbDsnbQ@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301129
+DTEND;VALUE=DATE:20301130
+SUMMARY:블랙프라이데이
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 추수감사절(11월 넷째 목요일) 다음 날 · 
+ 해외 직구\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0xMi0wMnzsgqzsnbTrsoTrqLzrjbDsnbQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:사이버먼데이
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0xMi0wMXzsl7Drp5Ag7ISg66y8wrfshqHrhYTtmowg7Iuc7K
+ aM@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301201
+DTEND;VALUE=DATE:20301202
+SUMMARY:연말 선물·송년회 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1yZXRhaWw6MjAzMC0xMi0yNnzsl7Drp5Ag7J6s6rOgIOygleumrMK37IOI7ZW0IO
+ unnuydtCDshLjsnbw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:연말 재고 정리·새해 맞이 세일
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

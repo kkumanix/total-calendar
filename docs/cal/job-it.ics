@@ -1,0 +1,1173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · IT·정보보호
+X-WR-CALDESC:마이크로소프트 정기 보안 업데이트\, 정보보
+ 호 공시\, 정보보호의 날 · Total Calendar가 만든 참고용 
+ 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDEtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 1월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDItMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 2월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDMtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250312
+DTEND;VALUE=DATE:20250313
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 3월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDQtMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250409
+DTEND;VALUE=DATE:20250410
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 4월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDUtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250514
+DTEND;VALUE=DATE:20250515
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 5월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDYtMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250612
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 6월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDctMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250710
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 7월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDgtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 8월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDktMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 9월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMTAtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 10월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMTEtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 11월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMTItMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 12월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDYtMzB87KCV67O067O07Zi4IOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:정보보호 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:매출·이용자 수 기준 해당 기업\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMDctMDl87KCV67O067O07Zi47J2YIOuCoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250710
+SUMMARY:정보보호의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 둘째 수요일\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjUtMTItMDF87Jew66eQIOqzhOyglcK36raM7ZWcIOygleumrA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:연말 계정·권한 정리
+TRANSP:TRANSPARENT
+DESCRIPTION:퇴사자 계정\, 오래된 권한\, 비밀번호 바꾸기 
+ 점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDEtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 1월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDItMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 2월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDMtMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 3월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDQtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 4월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDUtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 5월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDYtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 6월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDctMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 7월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDgtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 8월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDktMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 9월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMTAtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 10월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMTEtMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 11월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMTItMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 12월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDYtMzB87KCV67O067O07Zi4IOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:정보보호 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:매출·이용자 수 기준 해당 기업\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMDctMDh87KCV67O067O07Zi47J2YIOuCoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:정보보호의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 둘째 수요일\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjYtMTItMDF87Jew66eQIOqzhOyglcK36raM7ZWcIOygleumrA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:연말 계정·권한 정리
+TRANSP:TRANSPARENT
+DESCRIPTION:퇴사자 계정\, 오래된 권한\, 비밀번호 바꾸기 
+ 점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDEtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 1월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDItMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 2월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDMtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 3월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDQtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 4월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDUtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 5월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDYtMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 6월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDctMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 7월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDgtMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 8월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDktMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 9월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMTAtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 10월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMTEtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 11월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMTItMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 12월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDYtMzB87KCV67O067O07Zi4IOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:정보보호 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년부터 모든 상장회사·ISMS 의무 대상 등으
+ 로 넓어져요 (중소기업은 2029년부터)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMDctMTR87KCV67O067O07Zi47J2YIOuCoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:정보보호의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 둘째 수요일\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjctMTItMDF87Jew66eQIOqzhOyglcK36raM7ZWcIOygleumrA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:연말 계정·권한 정리
+TRANSP:TRANSPARENT
+DESCRIPTION:퇴사자 계정\, 오래된 권한\, 비밀번호 바꾸기 
+ 점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDEtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 1월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDItMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 2월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDMtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 3월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDQtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280412
+DTEND;VALUE=DATE:20280413
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 4월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDUtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 5월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDYtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280615
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 6월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDctMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 7월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDgtMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280809
+DTEND;VALUE=DATE:20280810
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 8월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDktMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280913
+DTEND;VALUE=DATE:20280914
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 9월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMTAtMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281011
+DTEND;VALUE=DATE:20281012
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 10월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMTEtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 11월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMTItMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281214
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 12월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDYtMzB87KCV67O067O07Zi4IOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:정보보호 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년부터 모든 상장회사·ISMS 의무 대상 등으
+ 로 넓어져요 (중소기업은 2029년부터)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMDctMTJ87KCV67O067O07Zi47J2YIOuCoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:정보보호의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 둘째 수요일\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjgtMTItMDF87Jew66eQIOqzhOyglcK36raM7ZWcIOygleumrA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:연말 계정·권한 정리
+TRANSP:TRANSPARENT
+DESCRIPTION:퇴사자 계정\, 오래된 권한\, 비밀번호 바꾸기 
+ 점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDEtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 1월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDItMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 2월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDMtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290314
+DTEND;VALUE=DATE:20290315
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 3월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDQtMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290411
+DTEND;VALUE=DATE:20290412
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 4월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDUtMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290509
+DTEND;VALUE=DATE:20290510
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 5월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDYtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290613
+DTEND;VALUE=DATE:20290614
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 6월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDctMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 7월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDgtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 8월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDktMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290912
+DTEND;VALUE=DATE:20290913
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 9월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMTAtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 10월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMTEtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291114
+DTEND;VALUE=DATE:20291115
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 11월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMTItMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291212
+DTEND;VALUE=DATE:20291213
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 12월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDYtMzB87KCV67O067O07Zi4IOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:정보보호 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년부터 모든 상장회사·ISMS 의무 대상 등으
+ 로 넓어져요 (중소기업은 2029년부터)\n원래 기한은 6월 3
+ 0일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로
+  옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMDctMTF87KCV67O067O07Zi47J2YIOuCoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:정보보호의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 둘째 수요일\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMjktMTItMDF87Jew66eQIOqzhOyglcK36raM7ZWcIOygleumrA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291201
+DTEND;VALUE=DATE:20291202
+SUMMARY:연말 계정·권한 정리
+TRANSP:TRANSPARENT
+DESCRIPTION:퇴사자 계정\, 오래된 권한\, 비밀번호 바꾸기 
+ 점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDEtMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300109
+DTEND;VALUE=DATE:20300110
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 1월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDItMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300213
+DTEND;VALUE=DATE:20300214
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 2월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDMtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300313
+DTEND;VALUE=DATE:20300314
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 3월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDQtMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 4월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDUtMTV866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 5월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDYtMTJ866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300612
+DTEND;VALUE=DATE:20300613
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 6월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDctMTB866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 7월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDgtMTR866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300814
+DTEND;VALUE=DATE:20300815
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 8월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDktMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300911
+DTEND;VALUE=DATE:20300912
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 9월 둘째 화요일 발표 · 한국은 수요
+ 일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMTAtMDl866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301009
+DTEND;VALUE=DATE:20301010
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 10월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMTEtMTN866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301113
+DTEND;VALUE=DATE:20301114
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 11월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMTItMTF866eI7J207YGs66Gc7IaM7ZSE7Yq4IOygleq4sCDrs7TslY
+ gg7JeF642w7J207Yq4@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301211
+DTEND;VALUE=DATE:20301212
+SUMMARY:마이크로소프트 정기 보안 업데이트
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 12월 둘째 화요일 발표 · 한국은 수
+ 요일 새벽 · Windows·Office 업데이트 확인\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDYtMzB87KCV67O067O07Zi4IOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:정보보호 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년부터 모든 상장회사·ISMS 의무 대상 등으
+ 로 넓어져요 (중소기업은 2029년부터)\n원래 기한은 6월 3
+ 0일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로
+  옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMDctMTB87KCV67O067O07Zi47J2YIOuCoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:정보보호의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 둘째 수요일\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWl0OjIwMzAtMTItMDF87Jew66eQIOqzhOyglcK36raM7ZWcIOygleumrA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301201
+DTEND;VALUE=DATE:20301202
+SUMMARY:연말 계정·권한 정리
+TRANSP:TRANSPARENT
+DESCRIPTION:퇴사자 계정\, 오래된 권한\, 비밀번호 바꾸기 
+ 점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

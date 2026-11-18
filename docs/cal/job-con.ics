@@ -1,0 +1,2339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 건설 일정
+X-WR-CALDESC:안전점검의 날\, 퇴직공제 신고\, 공사실적·경
+ 영상태 신고\, 시공능력평가\, 계절별 안전관리 · Total C
+ alendar가 만든 참고용 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAxLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAzLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA0LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA1LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250504
+DTEND;VALUE=DATE:20250505
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA2LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250604
+DTEND;VALUE=DATE:20250605
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA3LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA4LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250805
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA5LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250905
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTEwLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTExLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTEyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAxLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 2월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAzLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 3월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA0LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA1LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA2LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 6월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA3LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250716
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA4LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 8월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA5LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTEwLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTExLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 11월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTEyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAyLTAxfO2VtOu5meq4sCDslYjsoITqtIDrpqwgKDJ-M-yblCk@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+SUMMARY:해빙기 안전관리 (2~3월)
+TRANSP:TRANSPARENT
+DESCRIPTION:땅이 녹으며 지반·옹벽·굴착면이 약해지는 때
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAyLTE1fOqxtOyEpOqzteyCrCDsi6TsoIHCt-q4sOyIoOyduCDsi6
+ Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:건설공사 실적·기술인 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 공사실적 · 대한건설협회 등 · 해마다 
+ 접수 기간을 공지해요\n원래 기한은 2월 15일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTAzLTMxfOqzoOyaqcK37IKw7J6s67O07ZeYIO2ZleyglcK36rCc7I
+ Kw67O07ZeY66OMIOyLoOqzoCAo6rG07ISk7JeFKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:고용·산재보험 확정·개산보험료 신고 (건설업)
+TRANSP:TRANSPARENT
+DESCRIPTION:자진신고 사업장\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA0LTE1fOqxtOyEpOyXhSDqsr3smIHsg4Htg5wo7J6s66y07KCc7Z
+ GcKSDsi6Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:건설업 경영상태(재무제표) 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:법인 기준 · 개인은 보통 6월\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA2LTAxfOyepeuniOyyoMK37Y-t7Je8IOuMgOu5hCDslYjsoITqtI
+ Drpqwg7Iuc7J6R@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:장마철·폭염 대비 안전관리 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:배수·토사 붕괴·감전 점검\, 폭염 때 물·그늘
+ ·휴식\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTA3LTMxfOyLnOqzteuKpeugpe2PieqwgCDqs7Xsi5w@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:시공능력평가 공시
+TRANSP:TRANSPARENT
+DESCRIPTION:국토교통부 · 매년 7월 말 · 8월 1일부터 적용\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI1LTExLTE1fOuPmeygiOq4sCDslYjsoITqtIDrpqwg7Iuc7J6RICh-M-
+ yblCAxNeydvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:동절기 안전관리 시작 (~3월 15일)
+TRANSP:TRANSPARENT
+DESCRIPTION:콘크리트 보온 양생\, 질식·화재\, 결빙 미끄럼
+  점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAxLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAzLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA0LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA1LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA2LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA3LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA4LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA5LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTEwLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTExLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTEyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAxLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 2월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAzLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 3월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA0LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA1LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA2LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA3LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA4LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 8월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA5LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTEwLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTExLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 11월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTEyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAyLTAxfO2VtOu5meq4sCDslYjsoITqtIDrpqwgKDJ-M-yblCk@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:해빙기 안전관리 (2~3월)
+TRANSP:TRANSPARENT
+DESCRIPTION:땅이 녹으며 지반·옹벽·굴착면이 약해지는 때
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAyLTE1fOqxtOyEpOqzteyCrCDsi6TsoIHCt-q4sOyIoOyduCDsi6
+ Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:건설공사 실적·기술인 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 공사실적 · 대한건설협회 등 · 해마다 
+ 접수 기간을 공지해요\n원래 기한은 2월 15일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTAzLTMxfOqzoOyaqcK37IKw7J6s67O07ZeYIO2ZleyglcK36rCc7I
+ Kw67O07ZeY66OMIOyLoOqzoCAo6rG07ISk7JeFKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:고용·산재보험 확정·개산보험료 신고 (건설업)
+TRANSP:TRANSPARENT
+DESCRIPTION:자진신고 사업장\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA0LTE1fOqxtOyEpOyXhSDqsr3smIHsg4Htg5wo7J6s66y07KCc7Z
+ GcKSDsi6Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:건설업 경영상태(재무제표) 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:법인 기준 · 개인은 보통 6월\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA2LTAxfOyepeuniOyyoMK37Y-t7Je8IOuMgOu5hCDslYjsoITqtI
+ Drpqwg7Iuc7J6R@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:장마철·폭염 대비 안전관리 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:배수·토사 붕괴·감전 점검\, 폭염 때 물·그늘
+ ·휴식\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTA3LTMxfOyLnOqzteuKpeugpe2PieqwgCDqs7Xsi5w@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:시공능력평가 공시
+TRANSP:TRANSPARENT
+DESCRIPTION:국토교통부 · 매년 7월 말 · 8월 1일부터 적용\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI2LTExLTE1fOuPmeygiOq4sCDslYjsoITqtIDrpqwg7Iuc7J6RICh-M-
+ yblCAxNeydvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:동절기 안전관리 시작 (~3월 15일)
+TRANSP:TRANSPARENT
+DESCRIPTION:콘크리트 보온 양생\, 질식·화재\, 결빙 미끄럼
+  점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAxLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAzLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA0LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA1LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA2LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA3LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA4LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA5LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTEwLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTExLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTEyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAxLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAzLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA0LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA1LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 5월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA2LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA3LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA4LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 8월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA5LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 9월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTEwLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTExLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTEyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAyLTAxfO2VtOu5meq4sCDslYjsoITqtIDrpqwgKDJ-M-yblCk@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:해빙기 안전관리 (2~3월)
+TRANSP:TRANSPARENT
+DESCRIPTION:땅이 녹으며 지반·옹벽·굴착면이 약해지는 때
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAyLTE1fOqxtOyEpOqzteyCrCDsi6TsoIHCt-q4sOyIoOyduCDsi6
+ Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:건설공사 실적·기술인 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 공사실적 · 대한건설협회 등 · 해마다 
+ 접수 기간을 공지해요\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTAzLTMxfOqzoOyaqcK37IKw7J6s67O07ZeYIO2ZleyglcK36rCc7I
+ Kw67O07ZeY66OMIOyLoOqzoCAo6rG07ISk7JeFKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:고용·산재보험 확정·개산보험료 신고 (건설업)
+TRANSP:TRANSPARENT
+DESCRIPTION:자진신고 사업장\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA0LTE1fOqxtOyEpOyXhSDqsr3smIHsg4Htg5wo7J6s66y07KCc7Z
+ GcKSDsi6Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:건설업 경영상태(재무제표) 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:법인 기준 · 개인은 보통 6월\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA2LTAxfOyepeuniOyyoMK37Y-t7Je8IOuMgOu5hCDslYjsoITqtI
+ Drpqwg7Iuc7J6R@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:장마철·폭염 대비 안전관리 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:배수·토사 붕괴·감전 점검\, 폭염 때 물·그늘
+ ·휴식\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTA3LTMxfOyLnOqzteuKpeugpe2PieqwgCDqs7Xsi5w@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:시공능력평가 공시
+TRANSP:TRANSPARENT
+DESCRIPTION:국토교통부 · 매년 7월 말 · 8월 1일부터 적용\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI3LTExLTE1fOuPmeygiOq4sCDslYjsoITqtIDrpqwg7Iuc7J6RICh-M-
+ yblCAxNeydvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:동절기 안전관리 시작 (~3월 15일)
+TRANSP:TRANSPARENT
+DESCRIPTION:콘크리트 보온 양생\, 질식·화재\, 결빙 미끄럼
+  점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAxLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280104
+DTEND;VALUE=DATE:20280105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAzLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280304
+DTEND;VALUE=DATE:20280305
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA0LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA1LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA2LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA3LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA4LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280804
+DTEND;VALUE=DATE:20280805
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA5LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTEwLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTExLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281104
+DTEND;VALUE=DATE:20281105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTEyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281204
+DTEND;VALUE=DATE:20281205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAxLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 1월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAzLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA0LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 4월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA1LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA2LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA3LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 7월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA4LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280816
+DTEND;VALUE=DATE:20280817
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 8월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA5LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTEwLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 10월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTExLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTEyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAyLTAxfO2VtOu5meq4sCDslYjsoITqtIDrpqwgKDJ-M-yblCk@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280201
+DTEND;VALUE=DATE:20280202
+SUMMARY:해빙기 안전관리 (2~3월)
+TRANSP:TRANSPARENT
+DESCRIPTION:땅이 녹으며 지반·옹벽·굴착면이 약해지는 때
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAyLTE1fOqxtOyEpOqzteyCrCDsi6TsoIHCt-q4sOyIoOyduCDsi6
+ Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:건설공사 실적·기술인 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 공사실적 · 대한건설협회 등 · 해마다 
+ 접수 기간을 공지해요\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTAzLTMxfOqzoOyaqcK37IKw7J6s67O07ZeYIO2ZleyglcK36rCc7I
+ Kw67O07ZeY66OMIOyLoOqzoCAo6rG07ISk7JeFKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:고용·산재보험 확정·개산보험료 신고 (건설업)
+TRANSP:TRANSPARENT
+DESCRIPTION:자진신고 사업장\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA0LTE1fOqxtOyEpOyXhSDqsr3smIHsg4Htg5wo7J6s66y07KCc7Z
+ GcKSDsi6Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:건설업 경영상태(재무제표) 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:법인 기준 · 개인은 보통 6월\n원래 기한은 4월 
+ 15일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA2LTAxfOyepeuniOyyoMK37Y-t7Je8IOuMgOu5hCDslYjsoITqtI
+ Drpqwg7Iuc7J6R@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:장마철·폭염 대비 안전관리 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:배수·토사 붕괴·감전 점검\, 폭염 때 물·그늘
+ ·휴식\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTA3LTMxfOyLnOqzteuKpeugpe2PieqwgCDqs7Xsi5w@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:시공능력평가 공시
+TRANSP:TRANSPARENT
+DESCRIPTION:국토교통부 · 매년 7월 말 · 8월 1일부터 적용\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI4LTExLTE1fOuPmeygiOq4sCDslYjsoITqtIDrpqwg7Iuc7J6RICh-M-
+ yblCAxNeydvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:동절기 안전관리 시작 (~3월 15일)
+TRANSP:TRANSPARENT
+DESCRIPTION:콘크리트 보온 양생\, 질식·화재\, 결빙 미끄럼
+  점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAxLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290104
+DTEND;VALUE=DATE:20290105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290204
+DTEND;VALUE=DATE:20290205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAzLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290304
+DTEND;VALUE=DATE:20290305
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA0LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290404
+DTEND;VALUE=DATE:20290405
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA1LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290504
+DTEND;VALUE=DATE:20290505
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA2LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290604
+DTEND;VALUE=DATE:20290605
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA3LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA4LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290804
+DTEND;VALUE=DATE:20290805
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA5LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290904
+DTEND;VALUE=DATE:20290905
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTEwLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291004
+DTEND;VALUE=DATE:20291005
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTExLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291104
+DTEND;VALUE=DATE:20291105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTEyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291204
+DTEND;VALUE=DATE:20291205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAxLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAzLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA0LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 4월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA1LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA2LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA3LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290716
+DTEND;VALUE=DATE:20290717
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 7월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA4LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290816
+DTEND;VALUE=DATE:20290817
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 8월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA5LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 9월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTEwLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTExLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTEyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291217
+DTEND;VALUE=DATE:20291218
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 12월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAyLTAxfO2VtOu5meq4sCDslYjsoITqtIDrpqwgKDJ-M-yblCk@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290201
+DTEND;VALUE=DATE:20290202
+SUMMARY:해빙기 안전관리 (2~3월)
+TRANSP:TRANSPARENT
+DESCRIPTION:땅이 녹으며 지반·옹벽·굴착면이 약해지는 때
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAyLTE1fOqxtOyEpOqzteyCrCDsi6TsoIHCt-q4sOyIoOyduCDsi6
+ Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:건설공사 실적·기술인 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 공사실적 · 대한건설협회 등 · 해마다 
+ 접수 기간을 공지해요\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTAzLTMxfOqzoOyaqcK37IKw7J6s67O07ZeYIO2ZleyglcK36rCc7I
+ Kw67O07ZeY66OMIOyLoOqzoCAo6rG07ISk7JeFKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:고용·산재보험 확정·개산보험료 신고 (건설업)
+TRANSP:TRANSPARENT
+DESCRIPTION:자진신고 사업장\n원래 기한은 3월 31일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA0LTE1fOqxtOyEpOyXhSDqsr3smIHsg4Htg5wo7J6s66y07KCc7Z
+ GcKSDsi6Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:건설업 경영상태(재무제표) 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:법인 기준 · 개인은 보통 6월\n원래 기한은 4월 
+ 15일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA2LTAxfOyepeuniOyyoMK37Y-t7Je8IOuMgOu5hCDslYjsoITqtI
+ Drpqwg7Iuc7J6R@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:장마철·폭염 대비 안전관리 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:배수·토사 붕괴·감전 점검\, 폭염 때 물·그늘
+ ·휴식\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTA3LTMxfOyLnOqzteuKpeugpe2PieqwgCDqs7Xsi5w@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:시공능력평가 공시
+TRANSP:TRANSPARENT
+DESCRIPTION:국토교통부 · 매년 7월 말 · 8월 1일부터 적용\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDI5LTExLTE1fOuPmeygiOq4sCDslYjsoITqtIDrpqwg7Iuc7J6RICh-M-
+ yblCAxNeydvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:동절기 안전관리 시작 (~3월 15일)
+TRANSP:TRANSPARENT
+DESCRIPTION:콘크리트 보온 양생\, 질식·화재\, 결빙 미끄럼
+  점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAxLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300104
+DTEND;VALUE=DATE:20300105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAzLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA0LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300404
+DTEND;VALUE=DATE:20300405
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA1LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300504
+DTEND;VALUE=DATE:20300505
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA2LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300604
+DTEND;VALUE=DATE:20300605
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA3LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300704
+DTEND;VALUE=DATE:20300705
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA4LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300804
+DTEND;VALUE=DATE:20300805
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA5LTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300904
+DTEND;VALUE=DATE:20300905
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTEwLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301004
+DTEND;VALUE=DATE:20301005
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTExLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301104
+DTEND;VALUE=DATE:20301105
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTEyLTA0fOyViOyghOygkOqygOydmCDrgqA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301204
+DTEND;VALUE=DATE:20301205
+SUMMARY:안전점검의 날
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 4일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAxLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAzLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA0LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA1LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA2LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 6월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA3LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300715
+DTEND;VALUE=DATE:20300716
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA4LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300816
+DTEND;VALUE=DATE:20300817
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 8월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA5LTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 9월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTEwLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTExLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTEyLTE1fOqxtOyEpOq3vOuhnOyekCDth7Tsp4Hqs7XsoJwg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301216
+DTEND;VALUE=DATE:20301217
+SUMMARY:건설근로자 퇴직공제 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 근로일수 (다음 달 15일까지 · 건설근로자
+ 공제회)\n원래 기한은 12월 15일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAyLTAxfO2VtOu5meq4sCDslYjsoITqtIDrpqwgKDJ-M-yblCk@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300201
+DTEND;VALUE=DATE:20300202
+SUMMARY:해빙기 안전관리 (2~3월)
+TRANSP:TRANSPARENT
+DESCRIPTION:땅이 녹으며 지반·옹벽·굴착면이 약해지는 때
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAyLTE1fOqxtOyEpOqzteyCrCDsi6TsoIHCt-q4sOyIoOyduCDsi6
+ Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:건설공사 실적·기술인 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 공사실적 · 대한건설협회 등 · 해마다 
+ 접수 기간을 공지해요\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTAzLTMxfOqzoOyaqcK37IKw7J6s67O07ZeYIO2ZleyglcK36rCc7I
+ Kw67O07ZeY66OMIOyLoOqzoCAo6rG07ISk7JeFKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:고용·산재보험 확정·개산보험료 신고 (건설업)
+TRANSP:TRANSPARENT
+DESCRIPTION:자진신고 사업장\n원래 기한은 3월 31일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA0LTE1fOqxtOyEpOyXhSDqsr3smIHsg4Htg5wo7J6s66y07KCc7Z
+ GcKSDsi6Dqs6Ag66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:건설업 경영상태(재무제표) 신고 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:법인 기준 · 개인은 보통 6월\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA2LTAxfOyepeuniOyyoMK37Y-t7Je8IOuMgOu5hCDslYjsoITqtI
+ Drpqwg7Iuc7J6R@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:장마철·폭염 대비 안전관리 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:배수·토사 붕괴·감전 점검\, 폭염 때 물·그늘
+ ·휴식\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTA3LTMxfOyLnOqzteuKpeugpe2PieqwgCDqs7Xsi5w@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:시공능력평가 공시
+TRANSP:TRANSPARENT
+DESCRIPTION:국토교통부 · 매년 7월 말 · 8월 1일부터 적용\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWNvbjoyMDMwLTExLTE1fOuPmeygiOq4sCDslYjsoITqtIDrpqwg7Iuc7J6RICh-M-
+ yblCAxNeydvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:동절기 안전관리 시작 (~3월 15일)
+TRANSP:TRANSPARENT
+DESCRIPTION:콘크리트 보온 양생\, 질식·화재\, 결빙 미끄럼
+  점검\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

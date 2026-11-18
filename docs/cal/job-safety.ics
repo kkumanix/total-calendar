@@ -1,0 +1,865 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 안전보건 (전 업종)
+X-WR-CALDESC:산업안전보건위원회\, 중대재해 예방 점검\, 
+ 작업환경측정\, 건강진단 · Total Calendar가 만든 참고용 
+ 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTAzLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAx67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:산업안전보건위원회 1분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTA2LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAy67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:산업안전보건위원회 2분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTA5LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAz67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
+SUMMARY:산업안전보건위원회 3분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTEyLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCA067
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:산업안전보건위원회 4분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTA2LTMwfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDsg4HrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:안전보건관리체계 상반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTEyLTMxfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDtlZjrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:안전보건관리체계 하반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTA2LTMwfOyekeyXhe2ZmOqyvey4oeyglSAo7IOB67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:작업환경측정 (상반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTEyLTMxfOyekeyXhe2ZmOqyvey4oeyglSAo7ZWY67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:작업환경측정 (하반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTEwLTAxfOq3vOuhnOyekCDsnbzrsJjqsbTqsJXsp4Tri6gg7J
+ ew64K0IOyZhOujjCDtmZXsnbg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:근로자 일반건강진단 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:사무직 2년에 1회\, 그 밖의 근로자 연 1회 · 연
+ 말에 몰리기 전에\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTA2LTAxfO2PreyXvCDrjIDruYQg7Jio7Je07KeI7ZmYIOyYiO
+ uwqQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:폭염 대비 온열질환 예방
+TRANSP:TRANSPARENT
+DESCRIPTION:물·그늘·휴식\, 작업 시간 조정\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI1LTExLTE1fO2VnO2MjCDrjIDruYQg7JWI7KCE6rSA66as@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:한파 대비 안전관리
+TRANSP:TRANSPARENT
+DESCRIPTION:난방 기구 화재·질식\, 빙판 미끄럼\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTAzLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAx67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:산업안전보건위원회 1분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTA2LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAy67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:산업안전보건위원회 2분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTA5LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAz67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:산업안전보건위원회 3분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTEyLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCA067
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:산업안전보건위원회 4분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTA2LTMwfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDsg4HrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:안전보건관리체계 상반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTEyLTMxfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDtlZjrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:안전보건관리체계 하반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTA2LTMwfOyekeyXhe2ZmOqyvey4oeyglSAo7IOB67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:작업환경측정 (상반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTEyLTMxfOyekeyXhe2ZmOqyvey4oeyglSAo7ZWY67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:작업환경측정 (하반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTEwLTAxfOq3vOuhnOyekCDsnbzrsJjqsbTqsJXsp4Tri6gg7J
+ ew64K0IOyZhOujjCDtmZXsnbg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:근로자 일반건강진단 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:사무직 2년에 1회\, 그 밖의 근로자 연 1회 · 연
+ 말에 몰리기 전에\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTA2LTAxfO2PreyXvCDrjIDruYQg7Jio7Je07KeI7ZmYIOyYiO
+ uwqQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:폭염 대비 온열질환 예방
+TRANSP:TRANSPARENT
+DESCRIPTION:물·그늘·휴식\, 작업 시간 조정\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI2LTExLTE1fO2VnO2MjCDrjIDruYQg7JWI7KCE6rSA66as@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:한파 대비 안전관리
+TRANSP:TRANSPARENT
+DESCRIPTION:난방 기구 화재·질식\, 빙판 미끄럼\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTAzLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAx67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:산업안전보건위원회 1분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTA2LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAy67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:산업안전보건위원회 2분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTA5LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAz67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:산업안전보건위원회 3분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTEyLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCA067
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+SUMMARY:산업안전보건위원회 4분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTA2LTMwfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDsg4HrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:안전보건관리체계 상반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTEyLTMxfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDtlZjrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:안전보건관리체계 하반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTA2LTMwfOyekeyXhe2ZmOqyvey4oeyglSAo7IOB67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:작업환경측정 (상반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTEyLTMxfOyekeyXhe2ZmOqyvey4oeyglSAo7ZWY67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:작업환경측정 (하반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTEwLTAxfOq3vOuhnOyekCDsnbzrsJjqsbTqsJXsp4Tri6gg7J
+ ew64K0IOyZhOujjCDtmZXsnbg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:근로자 일반건강진단 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:사무직 2년에 1회\, 그 밖의 근로자 연 1회 · 연
+ 말에 몰리기 전에\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTA2LTAxfO2PreyXvCDrjIDruYQg7Jio7Je07KeI7ZmYIOyYiO
+ uwqQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:폭염 대비 온열질환 예방
+TRANSP:TRANSPARENT
+DESCRIPTION:물·그늘·휴식\, 작업 시간 조정\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI3LTExLTE1fO2VnO2MjCDrjIDruYQg7JWI7KCE6rSA66as@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:한파 대비 안전관리
+TRANSP:TRANSPARENT
+DESCRIPTION:난방 기구 화재·질식\, 빙판 미끄럼\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTAzLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAx67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:산업안전보건위원회 1분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTA2LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAy67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:산업안전보건위원회 2분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTA5LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAz67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280920
+DTEND;VALUE=DATE:20280921
+SUMMARY:산업안전보건위원회 3분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTEyLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCA067
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281220
+DTEND;VALUE=DATE:20281221
+SUMMARY:산업안전보건위원회 4분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTA2LTMwfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDsg4HrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:안전보건관리체계 상반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTEyLTMxfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDtlZjrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:안전보건관리체계 하반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTA2LTMwfOyekeyXhe2ZmOqyvey4oeyglSAo7IOB67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:작업환경측정 (상반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTEyLTMxfOyekeyXhe2ZmOqyvey4oeyglSAo7ZWY67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:작업환경측정 (하반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTEwLTAxfOq3vOuhnOyekCDsnbzrsJjqsbTqsJXsp4Tri6gg7J
+ ew64K0IOyZhOujjCDtmZXsnbg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:근로자 일반건강진단 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:사무직 2년에 1회\, 그 밖의 근로자 연 1회 · 연
+ 말에 몰리기 전에\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTA2LTAxfO2PreyXvCDrjIDruYQg7Jio7Je07KeI7ZmYIOyYiO
+ uwqQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:폭염 대비 온열질환 예방
+TRANSP:TRANSPARENT
+DESCRIPTION:물·그늘·휴식\, 작업 시간 조정\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI4LTExLTE1fO2VnO2MjCDrjIDruYQg7JWI7KCE6rSA66as@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:한파 대비 안전관리
+TRANSP:TRANSPARENT
+DESCRIPTION:난방 기구 화재·질식\, 빙판 미끄럼\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTAzLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAx67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:산업안전보건위원회 1분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTA2LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAy67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290620
+DTEND;VALUE=DATE:20290621
+SUMMARY:산업안전보건위원회 2분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTA5LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAz67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290920
+DTEND;VALUE=DATE:20290921
+SUMMARY:산업안전보건위원회 3분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTEyLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCA067
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291220
+DTEND;VALUE=DATE:20291221
+SUMMARY:산업안전보건위원회 4분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTA2LTMwfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDsg4HrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:안전보건관리체계 상반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTEyLTMxfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDtlZjrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:안전보건관리체계 하반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTA2LTMwfOyekeyXhe2ZmOqyvey4oeyglSAo7IOB67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:작업환경측정 (상반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTEyLTMxfOyekeyXhe2ZmOqyvey4oeyglSAo7ZWY67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:작업환경측정 (하반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTEwLTAxfOq3vOuhnOyekCDsnbzrsJjqsbTqsJXsp4Tri6gg7J
+ ew64K0IOyZhOujjCDtmZXsnbg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:근로자 일반건강진단 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:사무직 2년에 1회\, 그 밖의 근로자 연 1회 · 연
+ 말에 몰리기 전에\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTA2LTAxfO2PreyXvCDrjIDruYQg7Jio7Je07KeI7ZmYIOyYiO
+ uwqQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:폭염 대비 온열질환 예방
+TRANSP:TRANSPARENT
+DESCRIPTION:물·그늘·휴식\, 작업 시간 조정\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDI5LTExLTE1fO2VnO2MjCDrjIDruYQg7JWI7KCE6rSA66as@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:한파 대비 안전관리
+TRANSP:TRANSPARENT
+DESCRIPTION:난방 기구 화재·질식\, 빙판 미끄럼\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTAzLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAx67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:산업안전보건위원회 1분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTA2LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAy67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300620
+DTEND;VALUE=DATE:20300621
+SUMMARY:산업안전보건위원회 2분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTA5LTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCAz67
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300920
+DTEND;VALUE=DATE:20300921
+SUMMARY:산업안전보건위원회 3분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTEyLTIwfOyCsOyXheyViOyghOuztOqxtOychOybkO2ajCA067
+ aE6riwIOygleq4sO2ajOydmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301220
+DTEND;VALUE=DATE:20301221
+SUMMARY:산업안전보건위원회 4분기 정기회의
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 100명 이상(일부 업종 50명 이상) · 
+ 분기마다 열고 회의록을 남겨요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTA2LTMwfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDsg4HrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:안전보건관리체계 상반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTEyLTMxfOyViOyghOuztOqxtOq0gOumrOyytOqzhCDtlZjrsJ
+ jquLAg7KCQ6rKA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:안전보건관리체계 하반기 점검
+TRANSP:TRANSPARENT
+DESCRIPTION:중대재해처벌법 · 반기 1회 이상 이행 점검과 
+ 경영책임자 보고\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTA2LTMwfOyekeyXhe2ZmOqyvey4oeyglSAo7IOB67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:작업환경측정 (상반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTEyLTMxfOyekeyXhe2ZmOqyvey4oeyglSAo7ZWY67CY6riwKQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:작업환경측정 (하반기)
+TRANSP:TRANSPARENT
+DESCRIPTION:소음·분진·화학물질 등을 다루는 사업장 · 반
+ 기 1회\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTEwLTAxfOq3vOuhnOyekCDsnbzrsJjqsbTqsJXsp4Tri6gg7J
+ ew64K0IOyZhOujjCDtmZXsnbg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301001
+DTEND;VALUE=DATE:20301002
+SUMMARY:근로자 일반건강진단 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:사무직 2년에 1회\, 그 밖의 근로자 연 1회 · 연
+ 말에 몰리기 전에\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTA2LTAxfO2PreyXvCDrjIDruYQg7Jio7Je07KeI7ZmYIOyYiO
+ uwqQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:폭염 대비 온열질환 예방
+TRANSP:TRANSPARENT
+DESCRIPTION:물·그늘·휴식\, 작업 시간 조정\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNhZmV0eToyMDMwLTExLTE1fO2VnO2MjCDrjIDruYQg7JWI7KCE6rSA66as@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:한파 대비 안전관리
+TRANSP:TRANSPARENT
+DESCRIPTION:난방 기구 화재·질식\, 빙판 미끄럼\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+END:VCALENDAR

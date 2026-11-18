@@ -1,0 +1,2828 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 개인사업자·소상공인 세무
+X-WR-CALDESC:부가세(일반·간이)\, 종합소득세\, 사업장현황
+ 신고\, 원천세\, 근로·자녀장려금 · Total Calendar가 만든 
+ 참고용 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMS0yNXzrtoDqsIDqsIDsuZjshLgg7ZmV7KCVIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:부가가치세 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 2024년 7~12월분 · 간이과세자는 2024
+ 년 1년치를 이때 한 번에\n원래 기한은 1월 25일인데\, 기
+ 한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시
+ 했어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMi0xMHzrqbTshLjsgqzsl4XsnpAg7IKs7JeF7J6l7ZiE7Zmp7I
+ ug6rOg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 수입금액 신고 (병의원·학원·농축수산
+ 물 판매 등)\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMy0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 하반기 근로소득분 · 3월 1~15일 (근로소
+ 득만 있는 사람)\n원래 기한은 3월 15일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 고지서 금액 납부 (사업이 어려
+ 우면 예정신고도 가능)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgwrfrgqnrtoA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:종합소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n원래 기한은 5월 31일인데\, 기한이 토·일요일이나 
+ 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n원래 기한은 5월 31일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNS0zMXzrjIDtkZzsnpAg6rG06rCV67O07ZeYIOuztOyImOy0ne
+ yVoSDsi6Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:대표자 건강보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:직원을 둔 개인사업장 대표자 · 성실신고확인 
+ 대상은 6월 30일까지\n원래 기한은 5월 31일인데\, 기한이
+  토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어
+ 요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따라
+  다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNi0zMHzsooXtlanshozrk53shLgg7Iug6rOgICjshLHsi6Tsi6
+ Dqs6DtmZXsnbgg64yA7IOBKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNy0yNXzrtoDqsIDqsIDsuZjshLggMeq4sCDtmZXsoJUg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 1~6월분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wOS0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 상반기 근로소득분 · 9월 1~15일\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251028
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 7~9월분 고지서 금액\n원래 기한
+ 은 10월 25일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMS0zMHzsooXtlanshozrk53shLgg7KSR6rCE7JiI64KpIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:고지서로 납부\n원래 기한은 11월 30일인데\, 기
+ 한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시
+ 했어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 5월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wOC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 8월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wOS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wMy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 5월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wNy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wOC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 8월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0wOS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNS0xMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMS0yNXzrtoDqsIDqsIDsuZjshLgg7ZmV7KCVIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:부가가치세 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 2025년 7~12월분 · 간이과세자는 2025
+ 년 1년치를 이때 한 번에\n원래 기한은 1월 25일인데\, 기
+ 한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시
+ 했어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMi0xMHzrqbTshLjsgqzsl4XsnpAg7IKs7JeF7J6l7ZiE7Zmp7I
+ ug6rOg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 수입금액 신고 (병의원·학원·농축수산
+ 물 판매 등)\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMy0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 하반기 근로소득분 · 3월 1~15일 (근로소
+ 득만 있는 사람)\n원래 기한은 3월 15일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 고지서 금액 납부 (사업이 어려
+ 우면 예정신고도 가능)\n원래 기한은 4월 25일인데\, 기
+ 한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시
+ 했어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgwrfrgqnrtoA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:종합소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n원래 기한은 5월 31일인데\, 기한이 토·일요일이나 
+ 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n원래 기한은 5월 31일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNS0zMXzrjIDtkZzsnpAg6rG06rCV67O07ZeYIOuztOyImOy0ne
+ yVoSDsi6Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:대표자 건강보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:직원을 둔 개인사업장 대표자 · 성실신고확인 
+ 대상은 6월 30일까지\n원래 기한은 5월 31일인데\, 기한이
+  토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어
+ 요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따라
+  다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNi0zMHzsooXtlanshozrk53shLgg7Iug6rOgICjshLHsi6Tsi6
+ Dqs6DtmZXsnbgg64yA7IOBKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNy0yNXzrtoDqsIDqsIDsuZjshLggMeq4sCDtmZXsoJUg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 1~6월분\n원래 기한은 7월 25일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wOS0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 상반기 근로소득분 · 9월 1~15일\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 7~9월분 고지서 금액\n원래 기한
+ 은 10월 25일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMS0zMHzsooXtlanshozrk53shLgg7KSR6rCE7JiI64KpIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:고지서로 납부\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n원래 기한은 1월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 5월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wOC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wOS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 10월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 1월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wMy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 5월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wNy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wOC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0wOS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 10월 10일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNi0xMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMS0yNXzrtoDqsIDqsIDsuZjshLgg7ZmV7KCVIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:부가가치세 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 2026년 7~12월분 · 간이과세자는 2026
+ 년 1년치를 이때 한 번에\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMi0xMHzrqbTshLjsgqzsl4XsnpAg7IKs7JeF7J6l7ZiE7Zmp7I
+ ug6rOg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 수입금액 신고 (병의원·학원·농축수산
+ 물 판매 등)\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMy0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 하반기 근로소득분 · 3월 1~15일 (근로소
+ 득만 있는 사람)\n참고용 일정이에요. 법 개정이나 회사
+  사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 고지서 금액 납부 (사업이 어려
+ 우면 예정신고도 가능)\n원래 기한은 4월 25일인데\, 기
+ 한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시
+ 했어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgwrfrgqnrtoA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:종합소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNS0zMXzrjIDtkZzsnpAg6rG06rCV67O07ZeYIOuztOyImOy0ne
+ yVoSDsi6Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:대표자 건강보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:직원을 둔 개인사업장 대표자 · 성실신고확인 
+ 대상은 6월 30일까지\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNi0zMHzsooXtlanshozrk53shLgg7Iug6rOgICjshLHsi6Tsi6
+ Dqs6DtmZXsnbgg64yA7IOBKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNy0yNXzrtoDqsIDqsIDsuZjshLggMeq4sCDtmZXsoJUg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 1~6월분\n원래 기한은 7월 25일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wOS0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 상반기 근로소득분 · 9월 1~15일\n원래 기
+ 한은 9월 15일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 7~9월분 고지서 금액\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMS0zMHzsooXtlanshozrk53shLgg7KSR6rCE7JiI64KpIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:고지서로 납부\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n원래 기한은 1월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 4월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 7월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wOC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wOS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 10월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 1월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wMy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 4월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wNy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 7월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wOC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0wOS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 10월 10일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyNy0xMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMS0yNXzrtoDqsIDqsIDsuZjshLgg7ZmV7KCVIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:부가가치세 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 2027년 7~12월분 · 간이과세자는 2027
+ 년 1년치를 이때 한 번에\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMi0xMHzrqbTshLjsgqzsl4XsnpAg7IKs7JeF7J6l7ZiE7Zmp7I
+ ug6rOg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 수입금액 신고 (병의원·학원·농축수산
+ 물 판매 등)\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMy0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 하반기 근로소득분 · 3월 1~15일 (근로소
+ 득만 있는 사람)\n참고용 일정이에요. 법 개정이나 회사
+  사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 고지서 금액 납부 (사업이 어려
+ 우면 예정신고도 가능)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgwrfrgqnrtoA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:종합소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNS0zMXzrjIDtkZzsnpAg6rG06rCV67O07ZeYIOuztOyImOy0ne
+ yVoSDsi6Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:대표자 건강보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:직원을 둔 개인사업장 대표자 · 성실신고확인 
+ 대상은 6월 30일까지\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNi0zMHzsooXtlanshozrk53shLgg7Iug6rOgICjshLHsi6Tsi6
+ Dqs6DtmZXsnbgg64yA7IOBKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNy0yNXzrtoDqsIDqsIDsuZjshLggMeq4sCDtmZXsoJUg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 1~6월분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wOS0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 상반기 근로소득분 · 9월 1~15일\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281025
+DTEND;VALUE=DATE:20281026
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 7~9월분 고지서 금액\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMS0zMHzsooXtlanshozrk53shLgg7KSR6rCE7JiI64KpIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:고지서로 납부\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 6월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wOC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wOS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 9월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281211
+DTEND;VALUE=DATE:20281212
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n원래 기한은 12월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wMy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 6월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wNy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wOC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0wOS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 9월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOC0xMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281211
+DTEND;VALUE=DATE:20281212
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 12월 10일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMS0yNXzrtoDqsIDqsIDsuZjshLgg7ZmV7KCVIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290125
+DTEND;VALUE=DATE:20290126
+SUMMARY:부가가치세 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 2028년 7~12월분 · 간이과세자는 2028
+ 년 1년치를 이때 한 번에\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMi0xMHzrqbTshLjsgqzsl4XsnpAg7IKs7JeF7J6l7ZiE7Zmp7I
+ ug6rOg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 수입금액 신고 (병의원·학원·농축수산
+ 물 판매 등)\n원래 기한은 2월 10일인데\, 기한이 토·일
+ 요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMy0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 하반기 근로소득분 · 3월 1~15일 (근로소
+ 득만 있는 사람)\n참고용 일정이에요. 법 개정이나 회사
+  사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290425
+DTEND;VALUE=DATE:20290426
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 고지서 금액 납부 (사업이 어려
+ 우면 예정신고도 가능)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgwrfrgqnrtoA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:종합소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNS0zMXzrjIDtkZzsnpAg6rG06rCV67O07ZeYIOuztOyImOy0ne
+ yVoSDsi6Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:대표자 건강보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:직원을 둔 개인사업장 대표자 · 성실신고확인 
+ 대상은 6월 30일까지\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNi0zMHzsooXtlanshozrk53shLgg7Iug6rOgICjshLHsi6Tsi6
+ Dqs6DtmZXsnbgg64yA7IOBKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:원래 기한은 6월 30일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNy0yNXzrtoDqsIDqsIDsuZjshLggMeq4sCDtmZXsoJUg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 1~6월분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wOS0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 상반기 근로소득분 · 9월 1~15일\n원래 기
+ 한은 9월 15일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291025
+DTEND;VALUE=DATE:20291026
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 7~9월분 고지서 금액\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMS0zMHzsooXtlanshozrk53shLgg7KSR6rCE7JiI64KpIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20291201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:고지서로 납부\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 2월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290312
+DTEND;VALUE=DATE:20290313
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 3월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290410
+DTEND;VALUE=DATE:20290411
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290611
+DTEND;VALUE=DATE:20290612
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 6월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wOC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wOS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290910
+DTEND;VALUE=DATE:20290911
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n원래 기한은 11월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291210
+DTEND;VALUE=DATE:20291211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 2월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wMy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290312
+DTEND;VALUE=DATE:20290313
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 3월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290410
+DTEND;VALUE=DATE:20290411
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290611
+DTEND;VALUE=DATE:20290612
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 6월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wNy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wOC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0wOS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290910
+DTEND;VALUE=DATE:20290911
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 11월 10일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAyOS0xMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291210
+DTEND;VALUE=DATE:20291211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMS0yNXzrtoDqsIDqsIDsuZjshLgg7ZmV7KCVIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300125
+DTEND;VALUE=DATE:20300126
+SUMMARY:부가가치세 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 2029년 7~12월분 · 간이과세자는 2029
+ 년 1년치를 이때 한 번에\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMi0xMHzrqbTshLjsgqzsl4XsnpAg7IKs7JeF7J6l7ZiE7Zmp7I
+ ug6rOg@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 수입금액 신고 (병의원·학원·농축수산
+ 물 판매 등)\n원래 기한은 2월 10일인데\, 기한이 토·일
+ 요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMy0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 하반기 근로소득분 · 3월 1~15일 (근로소
+ 득만 있는 사람)\n참고용 일정이에요. 법 개정이나 회사
+  사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300425
+DTEND;VALUE=DATE:20300426
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 고지서 금액 납부 (사업이 어려
+ 우면 예정신고도 가능)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgwrfrgqnrtoA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:종합소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNS0zMXzrjIDtkZzsnpAg6rG06rCV67O07ZeYIOuztOyImOy0ne
+ yVoSDsi6Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:대표자 건강보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:직원을 둔 개인사업장 대표자 · 성실신고확인 
+ 대상은 6월 30일까지\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNi0zMHzsooXtlanshozrk53shLgg7Iug6rOgICjshLHsi6Tsi6
+ Dqs6DtmZXsnbgg64yA7IOBKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:원래 기한은 6월 30일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNy0yNXzrtoDqsIDqsIDsuZjshLggMeq4sCDtmZXsoJUg7Iug6r
+ OgwrfrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300725
+DTEND;VALUE=DATE:20300726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 1~6월분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wOS0xNXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDrsJjquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:근로·자녀장려금 반기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:2030년 상반기 근로소득분 · 9월 1~15일\n원래 기
+ 한은 9월 15일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMC0yNXzrtoDqsIDqsIDsuZjshLgg7JiI7KCV6rOg7KeAIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301025
+DTEND;VALUE=DATE:20301026
+SUMMARY:부가가치세 예정고지 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:일반과세자 · 7~9월분 고지서 금액\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMS0zMHzsooXtlanshozrk53shLgg7KSR6rCE7JiI64KpIOuCqe
+ u2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:고지서로 납부\n원래 기한은 11월 30일인데\, 기
+ 한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시
+ 했어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300110
+DTEND;VALUE=DATE:20300111
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 2월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 3월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300510
+DTEND;VALUE=DATE:20300511
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNy0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wOC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300812
+DTEND;VALUE=DATE:20300813
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n원래 기한은 8월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wOS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300910
+DTEND;VALUE=DATE:20300911
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMC0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 반기 납부 승인이면 1월·7월에만\
+ n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMS0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n원래 기한은 11월 10일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMi0xMHzsm5DsspzshLgg7Iug6rOgwrfrgqnrtoAgKOyngeybkO
+ ydtCDsnojsnLzrqbQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301210
+DTEND;VALUE=DATE:20301211
+SUMMARY:원천세 신고·납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 반기 납부 승인이면 1월·7월에만
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300110
+DTEND;VALUE=DATE:20300111
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 2월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wMy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 3월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300510
+DTEND;VALUE=DATE:20300511
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wNy0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wOC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300812
+DTEND;VALUE=DATE:20300813
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 8월 10일인데\, 기한이 토·
+ 일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0wOS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300910
+DTEND;VALUE=DATE:20300911
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMC0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMS0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n원래 기한은 11월 10일인데\, 기한이 토
+ ·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXNvaG86MjAzMC0xMi0xMHw064yA67O07ZeY66OMIOuCqeu2gCAo7KeB7JuQ7J20IO
+ yeiOycvOuptCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301210
+DTEND;VALUE=DATE:20301211
+SUMMARY:4대보험료 납부 (직원이 있으면)
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

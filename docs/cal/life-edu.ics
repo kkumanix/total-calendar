@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 입시·학사
+X-WR-CALDESC:수능\, 성적 통지\, 새 학기 시작 · Total Calendar
+ 가 만든 참고용 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyNS0wMy0wMnzsg4gg7ZWZ6riwIOyLnOyekSAo7LSIwrfspJHCt-qzoC
+ k@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+SUMMARY:새 학기 시작 (초·중·고)
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 3월 2일 · 학교마다 다를 수 있어요\n원래 
+ 기한은 3월 2일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyNi0wMy0wMnzsg4gg7ZWZ6riwIOyLnOyekSAo7LSIwrfspJHCt-qzoC
+ k@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:새 학기 시작 (초·중·고)
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 3월 2일 · 학교마다 다를 수 있어요\n원래 
+ 기한은 3월 2일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyNi0xMS0xOXwyMDI37ZWZ64WE64-EIOuMgO2VmeyImO2VmeuKpeugpe
+ yLnO2XmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:2027학년도 대학수학능력시험
+TRANSP:TRANSPARENT
+DESCRIPTION:교육부·한국교육과정평가원 발표\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyNy0wMy0wMnzsg4gg7ZWZ6riwIOyLnOyekSAo7LSIwrfspJHCt-qzoC
+ k@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:새 학기 시작 (초·중·고)
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 3월 2일 · 학교마다 다를 수 있어요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyNy0xMS0xOHwyMDI47ZWZ64WE64-EIOuMgO2VmeyImO2VmeuKpeugpe
+ yLnO2XmA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:2028학년도 대학수학능력시험
+TRANSP:TRANSPARENT
+DESCRIPTION:교육부·한국교육과정평가원 발표\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyNy0xMi0xMHzsiJjriqUg7ISx7KCBIO2GteyngA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:수능 성적 통지
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyOC0wMy0wMnzsg4gg7ZWZ6riwIOyLnOyekSAo7LSIwrfspJHCt-qzoC
+ k@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280302
+DTEND;VALUE=DATE:20280303
+SUMMARY:새 학기 시작 (초·중·고)
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 3월 2일 · 학교마다 다를 수 있어요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAyOS0wMy0wMnzsg4gg7ZWZ6riwIOyLnOyekSAo7LSIwrfspJHCt-qzoC
+ k@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290302
+DTEND;VALUE=DATE:20290303
+SUMMARY:새 학기 시작 (초·중·고)
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 3월 2일 · 학교마다 다를 수 있어요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1lZHU6MjAzMC0wMy0wMnzsg4gg7ZWZ6riwIOyLnOyekSAo7LSIwrfspJHCt-qzoC
+ k@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:새 학기 시작 (초·중·고)
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 3월 2일 · 학교마다 다를 수 있어요\n원래 
+ 기한은 3월 2일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,661 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 경영·회계·공시 일정
+X-WR-CALDESC:분기 결산\, 정기주주총회\, 사업·분기보고서 
+ (12월 결산 상장회사 기준) · Total Calendar가 만든 참고용 
+ 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTAzLTMxfDHrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:1분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTA2LTMwfDLrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:2분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTA5LTMwfDPrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:3분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTEyLTMxfDTrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:4분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:연말 결산 · 재고 실사와 채권·채무 확인\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTAzLTMxfOygleq4sOyjvOyjvOy0ne2ajCDCtyDsgqzsl4Xrs7Tqs6
+ DshJwg7KCc7LacIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:정기주주총회 · 사업보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산 상장회사 · 사업보고서는 결산일로
+ 부터 90일 안 · 주총 일정은 정관을 확인\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTA1LTAxfOqzteyLnOuMgOyDgcK37IOB7Zi47Lac7J6Q7KCc7ZWcIO
+ q4sOyXheynkeuLqCDsp4DsoJUg67Cc7ZGc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:공시대상·상호출자제한 기업집단 지정 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:공정거래위원회 (5월 1일까지)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTA1LTE1fDHrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:1분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTA4LTE0fOuwmOq4sOuztOqzoOyEnCDsoJzstpwg66eI6rCQ@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:반기보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:반기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI1LTExLTE0fDPrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:3분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTAzLTMxfDHrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:1분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTA2LTMwfDLrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:2분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTA5LTMwfDPrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:3분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTEyLTMxfDTrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:4분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:연말 결산 · 재고 실사와 채권·채무 확인\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTAzLTMxfOygleq4sOyjvOyjvOy0ne2ajCDCtyDsgqzsl4Xrs7Tqs6
+ DshJwg7KCc7LacIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:정기주주총회 · 사업보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산 상장회사 · 사업보고서는 결산일로
+ 부터 90일 안 · 주총 일정은 정관을 확인\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTA1LTAxfOqzteyLnOuMgOyDgcK37IOB7Zi47Lac7J6Q7KCc7ZWcIO
+ q4sOyXheynkeuLqCDsp4DsoJUg67Cc7ZGc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:공시대상·상호출자제한 기업집단 지정 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:공정거래위원회 (5월 1일까지)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTA1LTE1fDHrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:1분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTA4LTE0fOuwmOq4sOuztOqzoOyEnCDsoJzstpwg66eI6rCQ@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:반기보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:반기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI2LTExLTE0fDPrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:3분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n원래 기한은 11월 14일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTAzLTMxfDHrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:1분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTA2LTMwfDLrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:2분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTA5LTMwfDPrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:3분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTEyLTMxfDTrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:4분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:연말 결산 · 재고 실사와 채권·채무 확인\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTAzLTMxfOygleq4sOyjvOyjvOy0ne2ajCDCtyDsgqzsl4Xrs7Tqs6
+ DshJwg7KCc7LacIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:정기주주총회 · 사업보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산 상장회사 · 사업보고서는 결산일로
+ 부터 90일 안 · 주총 일정은 정관을 확인\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTA1LTAxfOqzteyLnOuMgOyDgcK37IOB7Zi47Lac7J6Q7KCc7ZWcIO
+ q4sOyXheynkeuLqCDsp4DsoJUg67Cc7ZGc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:공시대상·상호출자제한 기업집단 지정 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:공정거래위원회 (5월 1일까지)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTA1LTE1fDHrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:1분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n원래 기한은 5월 15일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTA4LTE0fOuwmOq4sOuztOqzoOyEnCDsoJzstpwg66eI6rCQ@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:반기보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:반기 말로부터 45일\n원래 기한은 8월 14일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI3LTExLTE0fDPrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:3분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n원래 기한은 11월 14일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTAzLTMxfDHrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:1분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTA2LTMwfDLrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:2분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTA5LTMwfDPrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:3분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTEyLTMxfDTrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:4분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:연말 결산 · 재고 실사와 채권·채무 확인\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTAzLTMxfOygleq4sOyjvOyjvOy0ne2ajCDCtyDsgqzsl4Xrs7Tqs6
+ DshJwg7KCc7LacIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:정기주주총회 · 사업보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산 상장회사 · 사업보고서는 결산일로
+ 부터 90일 안 · 주총 일정은 정관을 확인\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTA1LTAxfOqzteyLnOuMgOyDgcK37IOB7Zi47Lac7J6Q7KCc7ZWcIO
+ q4sOyXheynkeuLqCDsp4DsoJUg67Cc7ZGc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:공시대상·상호출자제한 기업집단 지정 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:공정거래위원회 (5월 1일까지)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTA1LTE1fDHrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:1분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTA4LTE0fOuwmOq4sOuztOqzoOyEnCDsoJzstpwg66eI6rCQ@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:반기보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:반기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI4LTExLTE0fDPrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281114
+DTEND;VALUE=DATE:20281115
+SUMMARY:3분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTAzLTMxfDHrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:1분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTA2LTMwfDLrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290701
+SUMMARY:2분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTA5LTMwfDPrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290930
+DTEND;VALUE=DATE:20291001
+SUMMARY:3분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTEyLTMxfDTrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:4분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:연말 결산 · 재고 실사와 채권·채무 확인\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTAzLTMxfOygleq4sOyjvOyjvOy0ne2ajCDCtyDsgqzsl4Xrs7Tqs6
+ DshJwg7KCc7LacIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:정기주주총회 · 사업보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산 상장회사 · 사업보고서는 결산일로
+ 부터 90일 안 · 주총 일정은 정관을 확인\n원래 기한은 3
+ 월 31일인데\, 기한이 토·일요일이나 공휴일이면 다음 
+ 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTA1LTAxfOqzteyLnOuMgOyDgcK37IOB7Zi47Lac7J6Q7KCc7ZWcIO
+ q4sOyXheynkeuLqCDsp4DsoJUg67Cc7ZGc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:공시대상·상호출자제한 기업집단 지정 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:공정거래위원회 (5월 1일까지)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTA1LTE1fDHrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:1분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTA4LTE0fOuwmOq4sOuztOqzoOyEnCDsoJzstpwg66eI6rCQ@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290814
+DTEND;VALUE=DATE:20290815
+SUMMARY:반기보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:반기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDI5LTExLTE0fDPrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291114
+DTEND;VALUE=DATE:20291115
+SUMMARY:3분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTAzLTMxfDHrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300331
+DTEND;VALUE=DATE:20300401
+SUMMARY:1분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTA2LTMwfDLrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
+SUMMARY:2분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTA5LTMwfDPrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:3분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말 결산\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTEyLTMxfDTrtoTquLAg6rKw7IKw7J28@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:4분기 결산일
+TRANSP:TRANSPARENT
+DESCRIPTION:연말 결산 · 재고 실사와 채권·채무 확인\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTAzLTMxfOygleq4sOyjvOyjvOy0ne2ajCDCtyDsgqzsl4Xrs7Tqs6
+ DshJwg7KCc7LacIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:정기주주총회 · 사업보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산 상장회사 · 사업보고서는 결산일로
+ 부터 90일 안 · 주총 일정은 정관을 확인\n원래 기한은 3
+ 월 31일인데\, 기한이 토·일요일이나 공휴일이면 다음 
+ 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTA1LTAxfOqzteyLnOuMgOyDgcK37IOB7Zi47Lac7J6Q7KCc7ZWcIO
+ q4sOyXheynkeuLqCDsp4DsoJUg67Cc7ZGc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:공시대상·상호출자제한 기업집단 지정 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:공정거래위원회 (5월 1일까지)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTA1LTE1fDHrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:1분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTA4LTE0fOuwmOq4sOuztOqzoOyEnCDsoJzstpwg66eI6rCQ@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300814
+DTEND;VALUE=DATE:20300815
+SUMMARY:반기보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:반기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWJpejoyMDMwLTExLTE0fDPrtoTquLAg67O06rOg7IScIOygnOy2nCDrp4jqsJA@to
+ talcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301114
+DTEND;VALUE=DATE:20301115
+SUMMARY:3분기 보고서 제출 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:분기 말로부터 45일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

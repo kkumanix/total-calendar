@@ -1,0 +1,937 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 생활 세금·공과금
+X-WR-CALDESC:직장인·가정: 연말정산\, 자동차세 연납\, 재
+ 산세\, 종합소득세\, 연금 세액공제 · Total Calendar가 만
+ 든 참고용 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wMS0xNXzsl7Drp5DsoJXsgrAg6rCE7IaM7ZmUIOyekOujjCDqs7
+ XqsJw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스·손택스에서 공제 자료를 내려받아 회
+ 사에 내요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wMS0xNnzsnpDrj5nssKjshLgg7Jew64KpIOyLoOyyrcK364Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250201
+SUMMARY:자동차세 연납 신청·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1년치를 미리 내면 할인돼요 (3·6·9월에도 신청
+  가능\, 할인은 줄어요)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wNC0xMHzsp4HsnqXsnbgg6rG06rCV67O07ZeY66OMIOyXsOunkO
+ ygleyCsA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:직장인 건강보험료 연말정산
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수가 오른 만큼 4월 급여에서 더 떼거
+ 나 돌려받아요\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgICjrtoDsl4XCt-
+ 2UhOumrOuenOyEnMK37J6E64yAIOyGjOuTnSk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:종합소득세 신고 (부업·프리랜서·임대 소득)
+TRANSP:TRANSPARENT
+DESCRIPTION:근로소득만 있으면 보통 신고할 필요가 없어요
+ \n원래 기한은 5월 31일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달 · 안내문을 받았다면 확인\n
+ 원래 기한은 5월 31일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wNi0zMHzsnpDrj5nssKjshLggMeq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 16~30일 (연납했다면 없음)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wNy0zMXzsnqzsgrDshLggMeq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-qxtOy2leusvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:재산세 1기 납부 (주택 1/2·건축물)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wOC0zMXzso7zrr7zshLgo6rCc7J2467aEKSDrgqnrtoA@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 16~31일\n원래 기한은 8월 31일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0wOS0zMHzsnqzsgrDshLggMuq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-2GoOyngCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:재산세 2기 납부 (주택 1/2·토지)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 16~30일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0xMi0xNXzsooXtlanrtoDrj5nsgrDshLgg64Kp67aA@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일 · 해당되는 사람만\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0xMi0zMXzsnpDrj5nssKjshLggMuq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 16~31일 (연납했다면 없음)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNS0xMi0zMXzsl7DquIjsoIDstpXCt0lSUCDshLjslaHqs7XsoJwg64
+ Kp7J6FIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:연금저축·IRP 세액공제 납입 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:올해 연말정산에 넣으려면 오늘까지 납입\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wMS0xNXzsl7Drp5DsoJXsgrAg6rCE7IaM7ZmUIOyekOujjCDqs7
+ XqsJw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스·손택스에서 공제 자료를 내려받아 회
+ 사에 내요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wMS0xNnzsnpDrj5nssKjshLgg7Jew64KpIOyLoOyyrcK364Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260201
+SUMMARY:자동차세 연납 신청·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1년치를 미리 내면 할인돼요 (3·6·9월에도 신청
+  가능\, 할인은 줄어요)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wNC0xMHzsp4HsnqXsnbgg6rG06rCV67O07ZeY66OMIOyXsOunkO
+ ygleyCsA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:직장인 건강보험료 연말정산
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수가 오른 만큼 4월 급여에서 더 떼거
+ 나 돌려받아요\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgICjrtoDsl4XCt-
+ 2UhOumrOuenOyEnMK37J6E64yAIOyGjOuTnSk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:종합소득세 신고 (부업·프리랜서·임대 소득)
+TRANSP:TRANSPARENT
+DESCRIPTION:근로소득만 있으면 보통 신고할 필요가 없어요
+ \n원래 기한은 5월 31일인데\, 기한이 토·일요일이나 공
+ 휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달 · 안내문을 받았다면 확인\n
+ 원래 기한은 5월 31일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wNi0zMHzsnpDrj5nssKjshLggMeq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 16~30일 (연납했다면 없음)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wNy0zMXzsnqzsgrDshLggMeq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-qxtOy2leusvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:재산세 1기 납부 (주택 1/2·건축물)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wOC0zMXzso7zrr7zshLgo6rCc7J2467aEKSDrgqnrtoA@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0wOS0zMHzsnqzsgrDshLggMuq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-2GoOyngCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:재산세 2기 납부 (주택 1/2·토지)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 16~30일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0xMi0xNXzsooXtlanrtoDrj5nsgrDshLgg64Kp67aA@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일 · 해당되는 사람만\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0xMi0zMXzsnpDrj5nssKjshLggMuq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 16~31일 (연납했다면 없음)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNi0xMi0zMXzsl7DquIjsoIDstpXCt0lSUCDshLjslaHqs7XsoJwg64
+ Kp7J6FIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:연금저축·IRP 세액공제 납입 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:올해 연말정산에 넣으려면 오늘까지 납입\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wMS0xNXzsl7Drp5DsoJXsgrAg6rCE7IaM7ZmUIOyekOujjCDqs7
+ XqsJw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스·손택스에서 공제 자료를 내려받아 회
+ 사에 내요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wMS0xNnzsnpDrj5nssKjshLgg7Jew64KpIOyLoOyyrcK364Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270201
+SUMMARY:자동차세 연납 신청·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1년치를 미리 내면 할인돼요 (3·6·9월에도 신청
+  가능\, 할인은 줄어요)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wNC0xMHzsp4HsnqXsnbgg6rG06rCV67O07ZeY66OMIOyXsOunkO
+ ygleyCsA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:직장인 건강보험료 연말정산
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수가 오른 만큼 4월 급여에서 더 떼거
+ 나 돌려받아요\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgICjrtoDsl4XCt-
+ 2UhOumrOuenOyEnMK37J6E64yAIOyGjOuTnSk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:종합소득세 신고 (부업·프리랜서·임대 소득)
+TRANSP:TRANSPARENT
+DESCRIPTION:근로소득만 있으면 보통 신고할 필요가 없어요
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달 · 안내문을 받았다면 확인\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wNi0zMHzsnpDrj5nssKjshLggMeq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 16~30일 (연납했다면 없음)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wNy0zMXzsnqzsgrDshLggMeq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-qxtOy2leusvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:재산세 1기 납부 (주택 1/2·건축물)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 16~31일\n원래 기한은 7월 31일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wOC0zMXzso7zrr7zshLgo6rCc7J2467aEKSDrgqnrtoA@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0wOS0zMHzsnqzsgrDshLggMuq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-2GoOyngCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:재산세 2기 납부 (주택 1/2·토지)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 16~30일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0xMi0xNXzsooXtlanrtoDrj5nsgrDshLgg64Kp67aA@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일 · 해당되는 사람만\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0xMi0zMXzsnpDrj5nssKjshLggMuq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 16~31일 (연납했다면 없음)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyNy0xMi0zMXzsl7DquIjsoIDstpXCt0lSUCDshLjslaHqs7XsoJwg64
+ Kp7J6FIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:연금저축·IRP 세액공제 납입 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:올해 연말정산에 넣으려면 오늘까지 납입\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wMS0xNXzsl7Drp5DsoJXsgrAg6rCE7IaM7ZmUIOyekOujjCDqs7
+ XqsJw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스·손택스에서 공제 자료를 내려받아 회
+ 사에 내요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wMS0xNnzsnpDrj5nssKjshLgg7Jew64KpIOyLoOyyrcK364Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280116
+DTEND;VALUE=DATE:20280201
+SUMMARY:자동차세 연납 신청·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1년치를 미리 내면 할인돼요 (3·6·9월에도 신청
+  가능\, 할인은 줄어요)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wNC0xMHzsp4HsnqXsnbgg6rG06rCV67O07ZeY66OMIOyXsOunkO
+ ygleyCsA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:직장인 건강보험료 연말정산
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수가 오른 만큼 4월 급여에서 더 떼거
+ 나 돌려받아요\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgICjrtoDsl4XCt-
+ 2UhOumrOuenOyEnMK37J6E64yAIOyGjOuTnSk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:종합소득세 신고 (부업·프리랜서·임대 소득)
+TRANSP:TRANSPARENT
+DESCRIPTION:근로소득만 있으면 보통 신고할 필요가 없어요
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달 · 안내문을 받았다면 확인\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wNi0zMHzsnpDrj5nssKjshLggMeq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 16~30일 (연납했다면 없음)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wNy0zMXzsnqzsgrDshLggMeq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-qxtOy2leusvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:재산세 1기 납부 (주택 1/2·건축물)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wOC0zMXzso7zrr7zshLgo6rCc7J2467aEKSDrgqnrtoA@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0wOS0zMHzsnqzsgrDshLggMuq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-2GoOyngCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:재산세 2기 납부 (주택 1/2·토지)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 16~30일\n원래 기한은 9월 30일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0xMi0xNXzsooXtlanrtoDrj5nsgrDshLgg64Kp67aA@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일 · 해당되는 사람만\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0xMi0zMXzsnpDrj5nssKjshLggMuq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 16~31일 (연납했다면 없음)\n원래 기한은 12
+ 월 31일인데\, 기한이 토·일요일이나 공휴일이면 다음 
+ 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOC0xMi0zMXzsl7DquIjsoIDstpXCt0lSUCDshLjslaHqs7XsoJwg64
+ Kp7J6FIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:연금저축·IRP 세액공제 납입 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:올해 연말정산에 넣으려면 오늘까지 납입\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wMS0xNXzsl7Drp5DsoJXsgrAg6rCE7IaM7ZmUIOyekOujjCDqs7
+ XqsJw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스·손택스에서 공제 자료를 내려받아 회
+ 사에 내요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wMS0xNnzsnpDrj5nssKjshLgg7Jew64KpIOyLoOyyrcK364Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290201
+SUMMARY:자동차세 연납 신청·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1년치를 미리 내면 할인돼요 (3·6·9월에도 신청
+  가능\, 할인은 줄어요)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wNC0xMHzsp4HsnqXsnbgg6rG06rCV67O07ZeY66OMIOyXsOunkO
+ ygleyCsA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290410
+DTEND;VALUE=DATE:20290411
+SUMMARY:직장인 건강보험료 연말정산
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수가 오른 만큼 4월 급여에서 더 떼거
+ 나 돌려받아요\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgICjrtoDsl4XCt-
+ 2UhOumrOuenOyEnMK37J6E64yAIOyGjOuTnSk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:종합소득세 신고 (부업·프리랜서·임대 소득)
+TRANSP:TRANSPARENT
+DESCRIPTION:근로소득만 있으면 보통 신고할 필요가 없어요
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달 · 안내문을 받았다면 확인\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wNi0zMHzsnpDrj5nssKjshLggMeq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 16~30일 (연납했다면 없음)\n원래 기한은 6월 
+ 30일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wNy0zMXzsnqzsgrDshLggMeq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-qxtOy2leusvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:재산세 1기 납부 (주택 1/2·건축물)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wOC0zMXzso7zrr7zshLgo6rCc7J2467aEKSDrgqnrtoA@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0wOS0zMHzsnqzsgrDshLggMuq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-2GoOyngCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:재산세 2기 납부 (주택 1/2·토지)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 16~30일\n원래 기한은 9월 30일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0xMi0xNXzsooXtlanrtoDrj5nsgrDshLgg64Kp67aA@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291217
+DTEND;VALUE=DATE:20291218
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일 · 해당되는 사람만\n원래 기한은 12
+ 월 15일인데\, 기한이 토·일요일이나 공휴일이면 다음 
+ 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0xMi0zMXzsnpDrj5nssKjshLggMuq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 16~31일 (연납했다면 없음)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAyOS0xMi0zMXzsl7DquIjsoIDstpXCt0lSUCDshLjslaHqs7XsoJwg64
+ Kp7J6FIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:연금저축·IRP 세액공제 납입 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:올해 연말정산에 넣으려면 오늘까지 납입\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wMS0xNXzsl7Drp5DsoJXsgrAg6rCE7IaM7ZmUIOyekOujjCDqs7
+ XqsJw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스·손택스에서 공제 자료를 내려받아 회
+ 사에 내요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wMS0xNnzsnpDrj5nssKjshLgg7Jew64KpIOyLoOyyrcK364Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300116
+DTEND;VALUE=DATE:20300201
+SUMMARY:자동차세 연납 신청·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1년치를 미리 내면 할인돼요 (3·6·9월에도 신청
+  가능\, 할인은 줄어요)\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wNC0xMHzsp4HsnqXsnbgg6rG06rCV67O07ZeY66OMIOyXsOunkO
+ ygleyCsA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:직장인 건강보험료 연말정산
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수가 오른 만큼 4월 급여에서 더 떼거
+ 나 돌려받아요\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wNS0zMXzsooXtlanshozrk53shLgg7Iug6rOgICjrtoDsl4XCt-
+ 2UhOumrOuenOyEnMK37J6E64yAIOyGjOuTnSk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:종합소득세 신고 (부업·프리랜서·임대 소득)
+TRANSP:TRANSPARENT
+DESCRIPTION:근로소득만 있으면 보통 신고할 필요가 없어요
+ \n참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wNS0zMXzqt7zroZzCt-yekOuFgOyepeugpOq4iCDsoJXquLAg7I
+ ug7LKtIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달 · 안내문을 받았다면 확인\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wNi0zMHzsnpDrj5nssKjshLggMeq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 16~30일 (연납했다면 없음)\n원래 기한은 6월 
+ 30일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wNy0zMXzsnqzsgrDshLggMeq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-qxtOy2leusvCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:재산세 1기 납부 (주택 1/2·건축물)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 16~31일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wOC0zMXzso7zrr7zshLgo6rCc7J2467aEKSDrgqnrtoA@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 16~31일\n원래 기한은 8월 31일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0wOS0zMHzsnqzsgrDshLggMuq4sCDrgqnrtoAgKOyjvO2DnSAxLz
+ LCt-2GoOyngCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:재산세 2기 납부 (주택 1/2·토지)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 16~30일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0xMi0xNXzsooXtlanrtoDrj5nsgrDshLgg64Kp67aA@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301216
+DTEND;VALUE=DATE:20301217
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일 · 해당되는 사람만\n원래 기한은 12
+ 월 15일인데\, 기한이 토·일요일이나 공휴일이면 다음 
+ 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0xMi0zMXzsnpDrj5nssKjshLggMuq4sCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 16~31일 (연납했다면 없음)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS10YXg6MjAzMC0xMi0zMXzsl7DquIjsoIDstpXCt0lSUCDshLjslaHqs7XsoJwg64
+ Kp7J6FIOuniOqwkA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:연금저축·IRP 세액공제 납입 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:올해 연말정산에 넣으려면 오늘까지 납입\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+END:VCALENDAR

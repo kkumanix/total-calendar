@@ -1,0 +1,3251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 금융·증시
+X-WR-CALDESC:한국은행 기준금리 결정\, 미국 FOMC\, 옵션 만
+ 기일\, 미국 고용지표 · Total Calendar가 만든 참고용 달력
+  (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMS0wMnzsmKztlbQg6riI66asIOqysOyglSDsnbzsoJXsnYAg67
+ Cc7ZGcIOuSpCDsl4XrjbDsnbTtirjroZwg7LGE7JuM7KC47JqU@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+SUMMARY:올해 금리 결정 일정은 발표 뒤 업데이트로 채워
+ 져요
+TRANSP:TRANSPARENT
+DESCRIPTION:한국은행·미국 연준은 보통 전년도 가을에 다
+ 음 해 일정을 알려요\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMS0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMS0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMS0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMi0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMi0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMi0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMy0xM3zshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMy0yMXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wMy0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNC0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNC0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNC0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNS0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNS0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNS0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNi0xMnzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250612
+DTEND;VALUE=DATE:20250613
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNi0yMHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNi0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNy0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNy0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wNy0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wOC0xNHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wOC0xNXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wOC0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wOS0xMXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250912
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wOS0xOXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0wOS0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMC0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 원래는 10월 9일인데 휴장일이라 앞당겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMC0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMC0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMS0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMS0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMS0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMi0xMXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMi0xOXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMi0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNS0xMi0zMXztlZzqta0g7Kad7IucIOyXsOunkCDtnLTsnqU@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:한국 증시 연말 휴장
+TRANSP:TRANSPARENT
+DESCRIPTION:한국거래소 · 새해 첫 거래일은 보통 1시간 늦
+ 게 열어요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNy0xNnztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOC0yN3ztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMC0yMnztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMS0yNnztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMS0yOHzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMy0xOHzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNC0yOXzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNi0xN3zrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNy0yOXzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOS0xNnzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMC0yOHzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMi0wOXzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMS0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMS0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMS0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMi0xMnzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMi0yMHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMi0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMy0xMnzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMy0yMHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wMy0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNC0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNC0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNC0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNS0xNHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNS0xNXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNS0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNi0xMXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNi0xOXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNi0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNy0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNy0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wNy0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOC0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOC0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOC0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOS0xMHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOS0xOHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0wOS0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMC0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMC0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMC0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMS0xMnzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMS0yMHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMS0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMi0xMHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMi0xOHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMi0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNi0xMi0zMXztlZzqta0g7Kad7IucIOyXsOunkCDtnLTsnqU@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:한국 증시 연말 휴장
+TRANSP:TRANSPARENT
+DESCRIPTION:한국거래소 · 새해 첫 거래일은 보통 1시간 늦
+ 게 열어요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMS0xNHztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMi0yNXztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNC0wOXztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNS0yN3ztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNy0xNXztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOC0yNnztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMC0xNXztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMS0yNXztlZzqta3snYDtlokg6riw7KSA6riI66asIOqysOyglQ
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:한국은행 기준금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:금융통화위원회 통화정책방향 회의 · 오전 발
+ 표\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMS0yN3zrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMy0xN3zrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNC0yOHzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNi0wOXzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNy0yOHzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOS0xNXzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMC0yN3zrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMi0wOHzrr7jqta0gRk9NQyDquIjrpqwg6rKw7KCV@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:미국 FOMC 금리 결정
+TRANSP:TRANSPARENT
+DESCRIPTION:미국 시간 오후 2시 발표 · 한국은 다음 날 새
+ 벽 3~4시\n참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMS0xNHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMS0xNXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMS0wOHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMi0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMi0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMi0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMy0xMXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMy0xOXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wMy0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNC0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNC0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNC0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNS0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 원래는 5월 13일인데 휴장일이라 앞당겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNS0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNS0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNi0xMHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNi0xOHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNi0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNy0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNy0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wNy0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOC0xMnzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOC0yMHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOC0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOS0wOXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOS0xN3zrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0wOS0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMC0xNHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMC0xNXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMC0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMS0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMS0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271119
+DTEND;VALUE=DATE:20271120
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMS0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMi0wOXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMi0xN3zrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMi0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyNy0xMi0zMXztlZzqta0g7Kad7IucIOyXsOunkCDtnLTsnqU@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:한국 증시 연말 휴장
+TRANSP:TRANSPARENT
+DESCRIPTION:한국거래소 · 새해 첫 거래일은 보통 1시간 늦
+ 게 열어요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMS0wMnzsmKztlbQg6riI66asIOqysOyglSDsnbzsoJXsnYAg67
+ Cc7ZGcIOuSpCDsl4XrjbDsnbTtirjroZwg7LGE7JuM7KC47JqU@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:올해 금리 결정 일정은 발표 뒤 업데이트로 채워
+ 져요
+TRANSP:TRANSPARENT
+DESCRIPTION:한국은행·미국 연준은 보통 전년도 가을에 다
+ 음 해 일정을 알려요\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMS0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMS0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMS0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMi0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMi0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280218
+DTEND;VALUE=DATE:20280219
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMi0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMy0wOXzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280309
+DTEND;VALUE=DATE:20280310
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMy0xN3zrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wMy0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280303
+DTEND;VALUE=DATE:20280304
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNC0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNC0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280421
+DTEND;VALUE=DATE:20280422
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNC0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280408
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNS0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280511
+DTEND;VALUE=DATE:20280512
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNS0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280519
+DTEND;VALUE=DATE:20280520
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNS0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNi0wOHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280608
+DTEND;VALUE=DATE:20280609
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNi0xNnzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280616
+DTEND;VALUE=DATE:20280617
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNi0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280602
+DTEND;VALUE=DATE:20280603
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNy0xM3zsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNy0yMXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wNy0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280707
+DTEND;VALUE=DATE:20280708
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wOC0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wOC0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280818
+DTEND;VALUE=DATE:20280819
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wOC0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280804
+DTEND;VALUE=DATE:20280805
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wOS0xNHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280914
+DTEND;VALUE=DATE:20280915
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wOS0xNXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0wOS0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280901
+DTEND;VALUE=DATE:20280902
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMC0xMnzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281012
+DTEND;VALUE=DATE:20281013
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMC0yMHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMC0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281006
+DTEND;VALUE=DATE:20281007
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMS0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281109
+DTEND;VALUE=DATE:20281110
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMS0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281117
+DTEND;VALUE=DATE:20281118
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMS0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281103
+DTEND;VALUE=DATE:20281104
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMi0xNHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMi0xNXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMi0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOC0xMi0zMXztlZzqta0g7Kad7IucIOyXsOunkCDtnLTsnqU@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:한국 증시 연말 휴장
+TRANSP:TRANSPARENT
+DESCRIPTION:한국거래소 · 새해 첫 거래일은 보통 1시간 늦
+ 게 열어요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMS0wMnzsmKztlbQg6riI66asIOqysOyglSDsnbzsoJXsnYAg67
+ Cc7ZGcIOuSpCDsl4XrjbDsnbTtirjroZwg7LGE7JuM7KC47JqU@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:올해 금리 결정 일정은 발표 뒤 업데이트로 채워
+ 져요
+TRANSP:TRANSPARENT
+DESCRIPTION:한국은행·미국 연준은 보통 전년도 가을에 다
+ 음 해 일정을 알려요\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMS0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290111
+DTEND;VALUE=DATE:20290112
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMS0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290119
+DTEND;VALUE=DATE:20290120
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMS0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290105
+DTEND;VALUE=DATE:20290106
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMi0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290208
+DTEND;VALUE=DATE:20290209
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMi0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290216
+DTEND;VALUE=DATE:20290217
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMi0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290202
+DTEND;VALUE=DATE:20290203
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMy0wOHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290308
+DTEND;VALUE=DATE:20290309
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMy0xNnzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290316
+DTEND;VALUE=DATE:20290317
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wMy0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290302
+DTEND;VALUE=DATE:20290303
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNC0xMnzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290412
+DTEND;VALUE=DATE:20290413
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNC0yMHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNC0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290406
+DTEND;VALUE=DATE:20290407
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNS0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNS0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290518
+DTEND;VALUE=DATE:20290519
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNS0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290504
+DTEND;VALUE=DATE:20290505
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNi0xNHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290614
+DTEND;VALUE=DATE:20290615
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNi0xNXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNi0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNy0xMnzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290712
+DTEND;VALUE=DATE:20290713
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNy0yMHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wNy0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290706
+DTEND;VALUE=DATE:20290707
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wOC0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290809
+DTEND;VALUE=DATE:20290810
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wOC0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290817
+DTEND;VALUE=DATE:20290818
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wOC0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290803
+DTEND;VALUE=DATE:20290804
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wOS0xM3zshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290913
+DTEND;VALUE=DATE:20290914
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wOS0yMXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290921
+DTEND;VALUE=DATE:20290922
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0wOS0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290907
+DTEND;VALUE=DATE:20290908
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMC0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291011
+DTEND;VALUE=DATE:20291012
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMC0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291019
+DTEND;VALUE=DATE:20291020
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMC0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291005
+DTEND;VALUE=DATE:20291006
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMS0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291108
+DTEND;VALUE=DATE:20291109
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMS0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291116
+DTEND;VALUE=DATE:20291117
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMS0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291102
+DTEND;VALUE=DATE:20291103
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMi0xM3zshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291213
+DTEND;VALUE=DATE:20291214
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMi0yMXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMi0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291207
+DTEND;VALUE=DATE:20291208
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAyOS0xMi0zMXztlZzqta0g7Kad7IucIOyXsOunkCDtnLTsnqU@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:한국 증시 연말 휴장
+TRANSP:TRANSPARENT
+DESCRIPTION:한국거래소 · 새해 첫 거래일은 보통 1시간 늦
+ 게 열어요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMS0wMnzsmKztlbQg6riI66asIOqysOyglSDsnbzsoJXsnYAg67
+ Cc7ZGcIOuSpCDsl4XrjbDsnbTtirjroZwg7LGE7JuM7KC47JqU@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300102
+DTEND;VALUE=DATE:20300103
+SUMMARY:올해 금리 결정 일정은 발표 뒤 업데이트로 채워
+ 져요
+TRANSP:TRANSPARENT
+DESCRIPTION:한국은행·미국 연준은 보통 전년도 가을에 다
+ 음 해 일정을 알려요\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMS0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300110
+DTEND;VALUE=DATE:20300111
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMS0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300118
+DTEND;VALUE=DATE:20300119
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMS0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300104
+DTEND;VALUE=DATE:20300105
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMi0xNHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300214
+DTEND;VALUE=DATE:20300215
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMi0xNXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMi0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300201
+DTEND;VALUE=DATE:20300202
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMy0xNHzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300314
+DTEND;VALUE=DATE:20300315
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMy0xNXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wMy0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300301
+DTEND;VALUE=DATE:20300302
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNC0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300411
+DTEND;VALUE=DATE:20300412
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNC0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNC0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300405
+DTEND;VALUE=DATE:20300406
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNS0wOXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300508
+DTEND;VALUE=DATE:20300509
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 원래는 5월 9일인데 휴장일이라 앞당겨 표시했어요.\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNS0xN3zrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300517
+DTEND;VALUE=DATE:20300518
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNS0wM3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300503
+DTEND;VALUE=DATE:20300504
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNi0xM3zshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300613
+DTEND;VALUE=DATE:20300614
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNi0yMXzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNi0wN3zrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300607
+DTEND;VALUE=DATE:20300608
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNy0xMXzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300711
+DTEND;VALUE=DATE:20300712
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNy0xOXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300719
+DTEND;VALUE=DATE:20300720
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wNy0wNXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300705
+DTEND;VALUE=DATE:20300706
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wOC0wOHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300808
+DTEND;VALUE=DATE:20300809
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wOC0xNnzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300816
+DTEND;VALUE=DATE:20300817
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wOC0wMnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300802
+DTEND;VALUE=DATE:20300803
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wOS0xMnzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300910
+DTEND;VALUE=DATE:20300911
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 원래는 9월 12일인데 휴장일이라 앞당겨 표시했어요.\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wOS0yMHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300920
+DTEND;VALUE=DATE:20300921
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0wOS0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300906
+DTEND;VALUE=DATE:20300907
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMC0xMHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMC0xOHzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301018
+DTEND;VALUE=DATE:20301019
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMC0wNHzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301004
+DTEND;VALUE=DATE:20301005
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMS0xNHzsmLXshZgg66eM6riw7J28ICjtlZzqta0p@totalcale
+ ndar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301114
+DTEND;VALUE=DATE:20301115
+SUMMARY:옵션 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMS0xNXzrr7jqta0g7Ji17IWYIOunjOq4sOydvA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:미국 옵션 만기일
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMS0wMXzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMi0xMnzshKDrrLzCt-yYteyFmCDrj5nsi5wg66eM6riw7J28IC
+ jtlZzqta0p@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301212
+DTEND;VALUE=DATE:20301213
+SUMMARY:선물·옵션 동시 만기일 (한국)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 둘째 목요일 · 휴장일이면 앞당겨져요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMi0yMHzrr7jqta0g7ISg66y8wrfsmLXshZgg64-Z7IucIOunjO
+ q4sOydvCAo64SkIOuniOuFgOydmCDrgqAp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301220
+DTEND;VALUE=DATE:20301221
+SUMMARY:미국 선물·옵션 동시 만기일 (네 마녀의 날)
+TRANSP:TRANSPARENT
+DESCRIPTION:매월 셋째 금요일 (미국 시간)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMi0wNnzrr7jqta0g6rOg7Jqp67O06rOg7IScIOuwnO2RnA@tot
+ alcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301206
+DTEND;VALUE=DATE:20301207
+SUMMARY:미국 고용보고서 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 매월 첫째 금요일 · 한국 시간 밤 9시 반~1
+ 0시 반 · 사정에 따라 바뀔 수 있어요\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:bGlmZS1maW46MjAzMC0xMi0zMXztlZzqta0g7Kad7IucIOyXsOunkCDtnLTsnqU@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:한국 증시 연말 휴장
+TRANSP:TRANSPARENT
+DESCRIPTION:한국거래소 · 새해 첫 거래일은 보통 1시간 늦
+ 게 열어요\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

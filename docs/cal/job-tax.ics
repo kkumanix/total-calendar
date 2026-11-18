@@ -1,0 +1,4407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 세무 일정 (법인)
+X-WR-CALDESC:원천세·부가세·법인세·지급명세서·지방세 
+ 신고와 납부 마감 · Total Calendar가 만든 참고용 달력 (kku
+ manix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAxLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAzLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA0LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA1LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  5월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA2LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA3LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA4LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  8월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA5LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEwLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTExLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAxLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAyLTI4fOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAzLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA0LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA1LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 (매월 말일까지)\n원래 기한은 5월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA2LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA3LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA4LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 (매월 말일까지)\n원래 기한은 8월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA5LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEwLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTExLTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 (매월 말일까지)\n원래 기한은 11월 
+ 30일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEyLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAxLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjtlZjrsJjquLDrtoQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:근로소득 간이지급명세서 제출 (하반기분)
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 7~12월 지급분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA3LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsg4HrsJjquLDrtoQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:근로소득 간이지급명세서 제출 (상반기분)
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 1~6월 지급분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAxLTE1fOyXsOunkOygleyCsCDqsITshoztmZQg7J6Q66OMIOqzte
+ qwnA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스에서 근로자가 공제 자료를 내려받을 수
+  있어요 (보통 1월 15일 무렵)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAxLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:부가가치세 2기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 7~12월분\n원래 기한은 1월 25일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAxLTMxfOuTseuhneuptO2XiOyEuCjrqbTtl4jrtoQpIOuCqeu2gA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:등록면허세(면허분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 1월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAyLTEwfOuptOyEuOyCrOyXheyekCDsgqzsl4XsnqXtmITtmansi6
+ Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:부가가치세 면세 개인사업자\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAyLTI4fOydtOyekMK367Cw64u5wrfquLDtg4Dshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:이자·배당·기타소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 지급분\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAzLTEwfOq3vOuhnMK37Ye07KeBwrfsgqzsl4Xshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:근로·퇴직·사업소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 귀속 연말정산분 · 연말정산 환급·추징
+ 은 보통 2~3월 급여에 반영\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTAzLTMxfOuyleyduOyEuCDsi6Dqs6DCt-uCqeu2gCAoMTLsm5Qg6r
+ Kw7IKw67KV7J24KQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:법인세 신고·납부 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:성실신고확인 대상 법인은 4월 30일까지\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA0LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:부가가치세 1기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~3월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA0LTMwfOuyleyduCDsp4DrsKnshozrk53shLgg7Iug6rOgwrfrgq
+ nrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:법인 지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산법인\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA1LTMxfOyihe2VqeyGjOuTneyEuMK36rCc7J247KeA67Cp7IaM65
+ Od7IS4IOyLoOqzoMK364Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:종합소득세·개인지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n원래 기한은 5월 31일인데\, 기한이 토·일요일이나 
+ 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA1LTMxfOq3vOuhnMK37J6Q64WA7J6l66Ck6riIIOygleq4sCDsi6
+ Dssq0g66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n원래 기한은 5월 31일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA2LTMwfOyihe2VqeyGjOuTneyEuCDsi6Dqs6AgKOyEseyLpOyLoO
+ qzoO2ZleyduCDrjIDsg4Ep@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA2LTMwfOyekOuPmeywqOyEuCAx6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 6월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA3LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~6월분 (법인은 4~6월분)\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA3LTMxfOyerOyCsOyEuCAx6riwIOuCqeu2gCAo6rG07LaV66y8wr
+ fso7ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:재산세 1기 납부 (건축물·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA3LTMxfOyjvOuvvOyEuCjsgqzsl4XshozrtoQpIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:주민세(사업소분) 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 1~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA4LTMxfOuyleyduOyEuCDspJHqsITsmIjrgqkgKDEy7JuUIOqysO
+ yCsOuyleyduCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:법인세 중간예납 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:원래 기한은 8월 31일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA4LTMxfOyjvOuvvOyEuCjqsJzsnbjrtoQpIOuCqeu2gA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 8월 16~31일\n원래 기한은 8월 31일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTA5LTMwfOyerOyCsOyEuCAy6riwIOuCqeu2gCAo7Yag7KeAwrfso7
+ ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:재산세 2기 납부 (토지·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 9월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEwLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251028
+SUMMARY:부가가치세 2기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7~9월분 · 법인 (개인은 예정고지 납부)\n원래 
+ 기한은 10월 25일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTExLTMwfOyihe2VqeyGjOuTneyEuCDspJHqsITsmIjrgqkg64Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:개인사업자 · 고지서로 납부\n원래 기한은 11월
+  30일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEyLTE1fOyihe2Vqeu2gOuPmeyCsOyEuCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI1LTEyLTMxfOyekOuPmeywqOyEuCAy6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 12월 16~31일\n참고용 일정이에요. 법 
+ 개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAxLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한
+ 은 1월 10일인데\, 기한이 토·일요일이나 공휴일이면 다
+ 음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAzLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA0LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA1LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  5월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA2LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA3LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA4LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA5LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEwLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  10월 10일인데\, 기한이 토·일요일이나 공휴일이면 다
+ 음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTExLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAxLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 (매월 말일까지)\n원래 기한은 1월 3
+ 1일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로
+  옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAyLTI4fOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 (매월 말일까지)\n원래 기한은 2월 28
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAzLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA0LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA1LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 (매월 말일까지)\n원래 기한은 5월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA2LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA3LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA4LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA5LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEwLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 (매월 말일까지)\n원래 기한은 10월 3
+ 1일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로
+  옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTExLTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEyLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAxLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjtlZjrsJjquLDrtoQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:근로소득 간이지급명세서 제출 (하반기분)
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 7~12월 지급분\n원래 기한은 1월 31일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA3LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsg4HrsJjquLDrtoQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:근로소득 간이지급명세서 제출 (상반기분)
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 1~6월 지급분\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAxLTE1fOyXsOunkOygleyCsCDqsITshoztmZQg7J6Q66OMIOqzte
+ qwnA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스에서 근로자가 공제 자료를 내려받을 수
+  있어요 (보통 1월 15일 무렵)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAxLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:부가가치세 2기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 7~12월분\n원래 기한은 1월 25일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAxLTMxfOuTseuhneuptO2XiOyEuCjrqbTtl4jrtoQpIOuCqeu2gA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:등록면허세(면허분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 1월 16~31일\n원래 기한은 1월 31일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAyLTEwfOuptOyEuOyCrOyXheyekCDsgqzsl4XsnqXtmITtmansi6
+ Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:부가가치세 면세 개인사업자\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAyLTI4fOydtOyekMK367Cw64u5wrfquLDtg4Dshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:이자·배당·기타소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 지급분\n원래 기한은 2월 28일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAzLTEwfOq3vOuhnMK37Ye07KeBwrfsgqzsl4Xshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:근로·퇴직·사업소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 귀속 연말정산분 · 연말정산 환급·추징
+ 은 보통 2~3월 급여에 반영\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTAzLTMxfOuyleyduOyEuCDsi6Dqs6DCt-uCqeu2gCAoMTLsm5Qg6r
+ Kw7IKw67KV7J24KQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:법인세 신고·납부 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:성실신고확인 대상 법인은 4월 30일까지\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA0LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:부가가치세 1기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~3월분 · 법인 (개인은 예정고지 납부)\n원래 
+ 기한은 4월 25일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA0LTMwfOuyleyduCDsp4DrsKnshozrk53shLgg7Iug6rOgwrfrgq
+ nrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:법인 지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산법인\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA1LTMxfOyihe2VqeyGjOuTneyEuMK36rCc7J247KeA67Cp7IaM65
+ Od7IS4IOyLoOqzoMK364Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:종합소득세·개인지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n원래 기한은 5월 31일인데\, 기한이 토·일요일이나 
+ 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA1LTMxfOq3vOuhnMK37J6Q64WA7J6l66Ck6riIIOygleq4sCDsi6
+ Dssq0g66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n원래 기한은 5월 31일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA2LTMwfOyihe2VqeyGjOuTneyEuCDsi6Dqs6AgKOyEseyLpOyLoO
+ qzoO2ZleyduCDrjIDsg4Ep@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA2LTMwfOyekOuPmeywqOyEuCAx6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 6월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA3LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~6월분 (법인은 4~6월분)\n원래 기한은 7월 25일
+ 인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 옮
+ 겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA3LTMxfOyerOyCsOyEuCAx6riwIOuCqeu2gCAo6rG07LaV66y8wr
+ fso7ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:재산세 1기 납부 (건축물·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA3LTMxfOyjvOuvvOyEuCjsgqzsl4XshozrtoQpIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:주민세(사업소분) 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 1~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA4LTMxfOuyleyduOyEuCDspJHqsITsmIjrgqkgKDEy7JuUIOqysO
+ yCsOuyleyduCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:법인세 중간예납 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA4LTMxfOyjvOuvvOyEuCjqsJzsnbjrtoQpIOuCqeu2gA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 8월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTA5LTMwfOyerOyCsOyEuCAy6riwIOuCqeu2gCAo7Yag7KeAwrfso7
+ ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:재산세 2기 납부 (토지·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 9월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEwLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:부가가치세 2기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7~9월분 · 법인 (개인은 예정고지 납부)\n원래 
+ 기한은 10월 25일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTExLTMwfOyihe2VqeyGjOuTneyEuCDspJHqsITsmIjrgqkg64Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:개인사업자 · 고지서로 납부\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEyLTE1fOyihe2Vqeu2gOuPmeyCsOyEuCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI2LTEyLTMxfOyekOuPmeywqOyEuCAy6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 12월 16~31일\n참고용 일정이에요. 법 
+ 개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAxLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한
+ 은 1월 10일인데\, 기한이 토·일요일이나 공휴일이면 다
+ 음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAzLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA0LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  4월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA1LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA2LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA3LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  7월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA4LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA5LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEwLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  10월 10일인데\, 기한이 토·일요일이나 공휴일이면 다
+ 음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTExLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAxLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 (매월 말일까지)\n원래 기한은 1월 3
+ 1일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로
+  옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAyLTI4fOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 (매월 말일까지)\n원래 기한은 2월 28
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAzLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA0LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA1LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA2LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA3LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 (매월 말일까지)\n원래 기한은 7월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA4LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA5LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEwLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 (매월 말일까지)\n원래 기한은 10월 3
+ 1일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로
+  옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTExLTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEyLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAxLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjtlZjrsJjquLDrtoQp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:근로소득 간이지급명세서 제출 (하반기분)
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 7~12월 지급분\n원래 기한은 1월 31일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAyLTI4fOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 2월 28일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAzLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA0LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA1LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA2LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA3LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 7월 31일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA4LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA5LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEwLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 10월 31일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTExLTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEyLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAxLTE1fOyXsOunkOygleyCsCDqsITshoztmZQg7J6Q66OMIOqzte
+ qwnA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스에서 근로자가 공제 자료를 내려받을 수
+  있어요 (보통 1월 15일 무렵)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAxLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:부가가치세 2기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 7~12월분\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAxLTMxfOuTseuhneuptO2XiOyEuCjrqbTtl4jrtoQpIOuCqeu2gA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:등록면허세(면허분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 1월 16~31일\n원래 기한은 1월 31일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAyLTEwfOuptOyEuOyCrOyXheyekCDsgqzsl4XsnqXtmITtmansi6
+ Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:부가가치세 면세 개인사업자\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAyLTI4fOydtOyekMK367Cw64u5wrfquLDtg4Dshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:이자·배당·기타소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 지급분\n원래 기한은 2월 28일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAzLTEwfOq3vOuhnMK37Ye07KeBwrfsgqzsl4Xshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:근로·퇴직·사업소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 귀속 연말정산분 · 연말정산 환급·추징
+ 은 보통 2~3월 급여에 반영\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTAzLTMxfOuyleyduOyEuCDsi6Dqs6DCt-uCqeu2gCAoMTLsm5Qg6r
+ Kw7IKw67KV7J24KQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:법인세 신고·납부 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:성실신고확인 대상 법인은 4월 30일까지\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA0LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:부가가치세 1기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~3월분 · 법인 (개인은 예정고지 납부)\n원래 
+ 기한은 4월 25일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA0LTMwfOuyleyduCDsp4DrsKnshozrk53shLgg7Iug6rOgwrfrgq
+ nrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:법인 지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산법인\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA1LTMxfOyihe2VqeyGjOuTneyEuMK36rCc7J247KeA67Cp7IaM65
+ Od7IS4IOyLoOqzoMK364Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:종합소득세·개인지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA1LTMxfOq3vOuhnMK37J6Q64WA7J6l66Ck6riIIOygleq4sCDsi6
+ Dssq0g66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA2LTMwfOyihe2VqeyGjOuTneyEuCDsi6Dqs6AgKOyEseyLpOyLoO
+ qzoO2ZleyduCDrjIDsg4Ep@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA2LTMwfOyekOuPmeywqOyEuCAx6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 6월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA3LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~6월분 (법인은 4~6월분)\n원래 기한은 7월 25일
+ 인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 옮
+ 겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA3LTMxfOyerOyCsOyEuCAx6riwIOuCqeu2gCAo6rG07LaV66y8wr
+ fso7ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:재산세 1기 납부 (건축물·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 16~31일\n원래 기한은 7월 31일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA3LTMxfOyjvOuvvOyEuCjsgqzsl4XshozrtoQpIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:주민세(사업소분) 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 1~31일\n원래 기한은 7월 31일인데\,
+  기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA4LTMxfOuyleyduOyEuCDspJHqsITsmIjrgqkgKDEy7JuUIOqysO
+ yCsOuyleyduCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:법인세 중간예납 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA4LTMxfOyjvOuvvOyEuCjqsJzsnbjrtoQpIOuCqeu2gA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 8월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTA5LTMwfOyerOyCsOyEuCAy6riwIOuCqeu2gCAo7Yag7KeAwrfso7
+ ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:재산세 2기 납부 (토지·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 9월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEwLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:부가가치세 2기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7~9월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTExLTMwfOyihe2VqeyGjOuTneyEuCDspJHqsITsmIjrgqkg64Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:개인사업자 · 고지서로 납부\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEyLTE1fOyihe2Vqeu2gOuPmeyCsOyEuCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI3LTEyLTMxfOyekOuPmeywqOyEuCAy6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 12월 16~31일\n참고용 일정이에요. 법 
+ 개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAxLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAzLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA0LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA1LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA2LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  6월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA3LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA4LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA5LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  9월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEwLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTExLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281211
+DTEND;VALUE=DATE:20281212
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한
+ 은 12월 10일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAxLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAyLTI5fOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAzLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA0LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 (매월 말일까지)\n원래 기한은 4월 30
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA1LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA2LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA3LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA4LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA5LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 (매월 말일까지)\n원래 기한은 9월 30
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEwLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTExLTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEyLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 (매월 말일까지)\n원래 기한은 12월 
+ 31일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAxLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAyLTI5fOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAzLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA0LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 4월 30일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA1LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA2LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA3LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA4LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA5LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 9월 30일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEwLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTExLTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEyLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 12월 31일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAxLTE1fOyXsOunkOygleyCsCDqsITshoztmZQg7J6Q66OMIOqzte
+ qwnA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스에서 근로자가 공제 자료를 내려받을 수
+  있어요 (보통 1월 15일 무렵)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAxLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:부가가치세 2기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 7~12월분\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAxLTMxfOuTseuhneuptO2XiOyEuCjrqbTtl4jrtoQpIOuCqeu2gA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:등록면허세(면허분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 1월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAyLTEwfOuptOyEuOyCrOyXheyekCDsgqzsl4XsnqXtmITtmansi6
+ Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:부가가치세 면세 개인사업자\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAyLTI5fOydtOyekMK367Cw64u5wrfquLDtg4Dshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:이자·배당·기타소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 지급분\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAzLTEwfOq3vOuhnMK37Ye07KeBwrfsgqzsl4Xshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:근로·퇴직·사업소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 귀속 연말정산분 · 연말정산 환급·추징
+ 은 보통 2~3월 급여에 반영\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTAzLTMxfOuyleyduOyEuCDsi6Dqs6DCt-uCqeu2gCAoMTLsm5Qg6r
+ Kw7IKw67KV7J24KQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:법인세 신고·납부 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:성실신고확인 대상 법인은 4월 30일까지\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA0LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:부가가치세 1기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~3월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA0LTMwfOuyleyduCDsp4DrsKnshozrk53shLgg7Iug6rOgwrfrgq
+ nrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:법인 지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산법인\n원래 기한은 4월 30일인데\, 기한
+ 이 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했
+ 어요.\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA1LTMxfOyihe2VqeyGjOuTneyEuMK36rCc7J247KeA67Cp7IaM65
+ Od7IS4IOyLoOqzoMK364Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:종합소득세·개인지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA1LTMxfOq3vOuhnMK37J6Q64WA7J6l66Ck6riIIOygleq4sCDsi6
+ Dssq0g66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA2LTMwfOyihe2VqeyGjOuTneyEuCDsi6Dqs6AgKOyEseyLpOyLoO
+ qzoO2ZleyduCDrjIDsg4Ep@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA2LTMwfOyekOuPmeywqOyEuCAx6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 6월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA3LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~6월분 (법인은 4~6월분)\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA3LTMxfOyerOyCsOyEuCAx6riwIOuCqeu2gCAo6rG07LaV66y8wr
+ fso7ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:재산세 1기 납부 (건축물·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA3LTMxfOyjvOuvvOyEuCjsgqzsl4XshozrtoQpIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:주민세(사업소분) 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 1~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA4LTMxfOuyleyduOyEuCDspJHqsITsmIjrgqkgKDEy7JuUIOqysO
+ yCsOuyleyduCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:법인세 중간예납 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA4LTMxfOyjvOuvvOyEuCjqsJzsnbjrtoQpIOuCqeu2gA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 8월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTA5LTMwfOyerOyCsOyEuCAy6riwIOuCqeu2gCAo7Yag7KeAwrfso7
+ ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:재산세 2기 납부 (토지·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 9월 16~30일\n원래 기한은 9월 30일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEwLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281025
+DTEND;VALUE=DATE:20281026
+SUMMARY:부가가치세 2기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7~9월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTExLTMwfOyihe2VqeyGjOuTneyEuCDspJHqsITsmIjrgqkg64Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:개인사업자 · 고지서로 납부\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEyLTE1fOyihe2Vqeu2gOuPmeyCsOyEuCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI4LTEyLTMxfOyekOuPmeywqOyEuCAy6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 12월 16~31일\n원래 기한은 12월 31일인
+ 데\, 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨
+  표시했어요.\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAxLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  2월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAzLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290312
+DTEND;VALUE=DATE:20290313
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  3월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA0LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290410
+DTEND;VALUE=DATE:20290411
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA1LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA2LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290611
+DTEND;VALUE=DATE:20290612
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  6월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA3LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA4LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA5LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290910
+DTEND;VALUE=DATE:20290911
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEwLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTExLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한
+ 은 11월 10일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291210
+DTEND;VALUE=DATE:20291211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAxLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAyLTI4fOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAzLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 (매월 말일까지)\n원래 기한은 3월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA0LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA1LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA2LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 (매월 말일까지)\n원래 기한은 6월 30
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA3LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA4LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA5LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 (매월 말일까지)\n원래 기한은 9월 30
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEwLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTExLTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20291201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEyLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAxLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAyLTI4fOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAzLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 3월 31일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA0LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA1LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA2LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 6월 30일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA3LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA4LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA5LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 9월 30일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEwLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTExLTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20291201
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEyLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAxLTE1fOyXsOunkOygleyCsCDqsITshoztmZQg7J6Q66OMIOqzte
+ qwnA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스에서 근로자가 공제 자료를 내려받을 수
+  있어요 (보통 1월 15일 무렵)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAxLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290125
+DTEND;VALUE=DATE:20290126
+SUMMARY:부가가치세 2기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 7~12월분\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAxLTMxfOuTseuhneuptO2XiOyEuCjrqbTtl4jrtoQpIOuCqeu2gA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:등록면허세(면허분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 1월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAyLTEwfOuptOyEuOyCrOyXheyekCDsgqzsl4XsnqXtmITtmansi6
+ Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:부가가치세 면세 개인사업자\n원래 기한은 2월 
+ 10일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAyLTI4fOydtOyekMK367Cw64u5wrfquLDtg4Dshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:이자·배당·기타소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 지급분\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAzLTEwfOq3vOuhnMK37Ye07KeBwrfsgqzsl4Xshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290312
+DTEND;VALUE=DATE:20290313
+SUMMARY:근로·퇴직·사업소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 귀속 연말정산분 · 연말정산 환급·추징
+ 은 보통 2~3월 급여에 반영\n원래 기한은 3월 10일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTAzLTMxfOuyleyduOyEuCDsi6Dqs6DCt-uCqeu2gCAoMTLsm5Qg6r
+ Kw7IKw67KV7J24KQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:법인세 신고·납부 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:성실신고확인 대상 법인은 4월 30일까지\n원래 
+ 기한은 3월 31일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA0LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290425
+DTEND;VALUE=DATE:20290426
+SUMMARY:부가가치세 1기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~3월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA0LTMwfOuyleyduCDsp4DrsKnshozrk53shLgg7Iug6rOgwrfrgq
+ nrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:법인 지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산법인\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA1LTMxfOyihe2VqeyGjOuTneyEuMK36rCc7J247KeA67Cp7IaM65
+ Od7IS4IOyLoOqzoMK364Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:종합소득세·개인지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA1LTMxfOq3vOuhnMK37J6Q64WA7J6l66Ck6riIIOygleq4sCDsi6
+ Dssq0g66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA2LTMwfOyihe2VqeyGjOuTneyEuCDsi6Dqs6AgKOyEseyLpOyLoO
+ qzoO2ZleyduCDrjIDsg4Ep@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:원래 기한은 6월 30일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA2LTMwfOyekOuPmeywqOyEuCAx6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 6월 16~30일\n원래 기한은 6월 30일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA3LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~6월분 (법인은 4~6월분)\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA3LTMxfOyerOyCsOyEuCAx6riwIOuCqeu2gCAo6rG07LaV66y8wr
+ fso7ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:재산세 1기 납부 (건축물·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA3LTMxfOyjvOuvvOyEuCjsgqzsl4XshozrtoQpIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:주민세(사업소분) 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 1~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA4LTMxfOuyleyduOyEuCDspJHqsITsmIjrgqkgKDEy7JuUIOqysO
+ yCsOuyleyduCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:법인세 중간예납 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:참고용 일정이에요. 법 개정이나 회사 사정에 
+ 따라 다를 수 있으니 중요한 기한은 해당 기관 안내를 
+ 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA4LTMxfOyjvOuvvOyEuCjqsJzsnbjrtoQpIOuCqeu2gA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 8월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTA5LTMwfOyerOyCsOyEuCAy6riwIOuCqeu2gCAo7Yag7KeAwrfso7
+ ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:재산세 2기 납부 (토지·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 9월 16~30일\n원래 기한은 9월 30일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEwLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291025
+DTEND;VALUE=DATE:20291026
+SUMMARY:부가가치세 2기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7~9월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTExLTMwfOyihe2VqeyGjOuTneyEuCDspJHqsITsmIjrgqkg64Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20291201
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:개인사업자 · 고지서로 납부\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEyLTE1fOyihe2Vqeu2gOuPmeyCsOyEuCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291217
+DTEND;VALUE=DATE:20291218
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일\n원래 기한은 12월 15일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDI5LTEyLTMxfOyekOuPmeywqOyEuCAy6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 12월 16~31일\n참고용 일정이에요. 법 
+ 개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAxLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300110
+DTEND;VALUE=DATE:20300111
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  2월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAzLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  3월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA0LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA1LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300510
+DTEND;VALUE=DATE:20300511
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA2LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA3LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA4LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300812
+DTEND;VALUE=DATE:20300813
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한은
+  8월 10일인데\, 기한이 토·일요일이나 공휴일이면 다음
+  날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA5LTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300910
+DTEND;VALUE=DATE:20300911
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEwLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 원천세와 지방소득세(특별징수). 반
+ 기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTExLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n원래 기한
+ 은 11월 10일인데\, 기한이 토·일요일이나 공휴일이면 
+ 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEyLTEwfOybkOyynOyEuCDsi6Dqs6DCt-uCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301210
+DTEND;VALUE=DATE:20301211
+SUMMARY:원천세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 원천세와 지방소득세(특별징수). 
+ 반기 납부 승인 사업장은 1월·7월에만 내요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAxLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAyLTI4fOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAzLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 (매월 말일까지)\n원래 기한은 3월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA0LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA1LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA2LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 (매월 말일까지)\n원래 기한은 6월 30
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA3LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA4LTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 (매월 말일까지)\n원래 기한은 8월 31
+ 일인데\, 기한이 토·일요일이나 공휴일이면 다음 날로 
+ 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 회
+ 사 사정에 따라 다를 수 있으니 중요한 기한은 해당 기
+ 관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA5LTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEwLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTExLTMwfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 (매월 말일까지)\n원래 기한은 11월 
+ 30일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEyLTMxfOydvOyaqeq3vOuhnMK37IKs7JeF7IaM65OdIOqwhOydtO
+ yngOq4ieuqheyEuOyEnCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:일용근로·사업소득 간이지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 (매월 말일까지)\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAxLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAyLTI4fOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAzLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 3월 31일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA0LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA1LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA2LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 6월 30일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA3LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA4LTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 8월 31일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA5LTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEwLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTExLTMwfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n원
+ 래 기한은 11월 30일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEyLTMxfOq3vOuhnOyGjOuTnSDqsITsnbTsp4DquInrqoXshLjshJ
+ wg7KCc7LacICjsm5Trs4Qp@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:근로소득 간이지급명세서 제출 (월별)
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 지급분 · 2027년 1월 지급분부터 매월 제출
+ 로 바뀌어요 (시행 시기는 한 번 더 확인해 주세요)\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAxLTE1fOyXsOunkOygleyCsCDqsITshoztmZQg7J6Q66OMIOqzte
+ qwnA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:연말정산 간소화 자료 공개
+TRANSP:TRANSPARENT
+DESCRIPTION:홈택스에서 근로자가 공제 자료를 내려받을 수
+  있어요 (보통 1월 15일 무렵)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAxLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300125
+DTEND;VALUE=DATE:20300126
+SUMMARY:부가가치세 2기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 7~12월분\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAxLTMxfOuTseuhneuptO2XiOyEuCjrqbTtl4jrtoQpIOuCqeu2gA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:등록면허세(면허분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 1월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAyLTEwfOuptOyEuOyCrOyXheyekCDsgqzsl4XsnqXtmITtmansi6
+ Dqs6A@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:면세사업자 사업장현황신고
+TRANSP:TRANSPARENT
+DESCRIPTION:부가가치세 면세 개인사업자\n원래 기한은 2월 
+ 10일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAyLTI4fOydtOyekMK367Cw64u5wrfquLDtg4Dshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:이자·배당·기타소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 지급분\n참고용 일정이에요. 법 개정이나
+  회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAzLTEwfOq3vOuhnMK37Ye07KeBwrfsgqzsl4Xshozrk50g7KeA6r
+ iJ66qF7IS47IScIOygnOy2nA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:근로·퇴직·사업소득 지급명세서 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 귀속 연말정산분 · 연말정산 환급·추징
+ 은 보통 2~3월 급여에 반영\n원래 기한은 3월 10일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTAzLTMxfOuyleyduOyEuCDsi6Dqs6DCt-uCqeu2gCAoMTLsm5Qg6r
+ Kw7IKw67KV7J24KQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:법인세 신고·납부 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:성실신고확인 대상 법인은 4월 30일까지\n원래 
+ 기한은 3월 31일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA0LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300425
+DTEND;VALUE=DATE:20300426
+SUMMARY:부가가치세 1기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~3월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA0LTMwfOuyleyduCDsp4DrsKnshozrk53shLgg7Iug6rOgwrfrgq
+ nrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:법인 지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 결산법인\n참고용 일정이에요. 법 개정이
+ 나 회사 사정에 따라 다를 수 있으니 중요한 기한은 해
+ 당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA1LTMxfOyihe2VqeyGjOuTneyEuMK36rCc7J247KeA67Cp7IaM65
+ Od7IS4IOyLoOqzoMK364Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:종합소득세·개인지방소득세 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 귀속 · 성실신고확인 대상은 6월 30일까
+ 지\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA1LTMxfOq3vOuhnMK37J6Q64WA7J6l66Ck6riIIOygleq4sCDsi6
+ Dssq0g66eI6rCQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:근로·자녀장려금 정기 신청 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 1일부터 한 달\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA2LTMwfOyihe2VqeyGjOuTneyEuCDsi6Dqs6AgKOyEseyLpOyLoO
+ qzoO2ZleyduCDrjIDsg4Ep@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:종합소득세 신고 (성실신고확인 대상)
+TRANSP:TRANSPARENT
+DESCRIPTION:원래 기한은 6월 30일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA2LTMwfOyekOuPmeywqOyEuCAx6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:자동차세 1기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 6월 16~30일\n원래 기한은 6월 30일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA3LTI1fOu2gOqwgOqwgOy5mOyEuCAx6riwIO2ZleyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300725
+DTEND;VALUE=DATE:20300726
+SUMMARY:부가가치세 1기 확정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:1~6월분 (법인은 4~6월분)\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA3LTMxfOyerOyCsOyEuCAx6riwIOuCqeu2gCAo6rG07LaV66y8wr
+ fso7ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:재산세 1기 납부 (건축물·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 16~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA3LTMxfOyjvOuvvOyEuCjsgqzsl4XshozrtoQpIOyLoOqzoMK364
+ Kp67aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:주민세(사업소분) 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 7월 1~31일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA4LTMxfOuyleyduOyEuCDspJHqsITsmIjrgqkgKDEy7JuUIOqysO
+ yCsOuyleyduCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:법인세 중간예납 (12월 결산법인)
+TRANSP:TRANSPARENT
+DESCRIPTION:원래 기한은 8월 31일인데\, 기한이 토·일요일
+ 이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA4LTMxfOyjvOuvvOyEuCjqsJzsnbjrtoQpIOuCqeu2gA@totalca
+ lendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:주민세(개인분) 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 8월 16~31일\n원래 기한은 8월 31일인데\
+ , 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTA5LTMwfOyerOyCsOyEuCAy6riwIOuCqeu2gCAo7Yag7KeAwrfso7
+ ztg50gMS8yKQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:재산세 2기 납부 (토지·주택 1/2)
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 9월 16~30일\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEwLTI1fOu2gOqwgOqwgOy5mOyEuCAy6riwIOyYiOyglSDsi6Dqs6
+ DCt-uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301025
+DTEND;VALUE=DATE:20301026
+SUMMARY:부가가치세 2기 예정 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:7~9월분 · 법인 (개인은 예정고지 납부)\n참고용
+  일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTExLTMwfOyihe2VqeyGjOuTneyEuCDspJHqsITsmIjrgqkg64Kp67
+ aA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:종합소득세 중간예납 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:개인사업자 · 고지서로 납부\n원래 기한은 11월
+  30일인데\, 기한이 토·일요일이나 공휴일이면 다음 날
+ 로 옮겨 표시했어요.\n참고용 일정이에요. 법 개정이나 
+ 회사 사정에 따라 다를 수 있으니 중요한 기한은 해당 
+ 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEyLTE1fOyihe2Vqeu2gOuPmeyCsOyEuCDrgqnrtoA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301216
+DTEND;VALUE=DATE:20301217
+SUMMARY:종합부동산세 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 1~15일\n원래 기한은 12월 15일인데\, 기한이 
+ 토·일요일이나 공휴일이면 다음 날로 옮겨 표시했어요
+ .\n참고용 일정이에요. 법 개정이나 회사 사정에 따라 
+ 다를 수 있으니 중요한 기한은 해당 기관 안내를 함께 
+ 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXRheDoyMDMwLTEyLTMxfOyekOuPmeywqOyEuCAy6riwIOuCqeu2gA@totalcalend
+ ar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:자동차세 2기 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:지방세 · 12월 16~31일\n참고용 일정이에요. 법 
+ 개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2892 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 인사·노무 일정
+X-WR-CALDESC:4대보험 납부·신고\, 연말정산\, 보수총액 신
+ 고\, 연차 사용 촉진\, 최저임금\, 법정 의무교육 · Total 
+ Calendar가 만든 참고용 달력 (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDMtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDQtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDUtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 5월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDYtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDctMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDgtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 8월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDktMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTAtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 2월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDMtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 3월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDQtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDUtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDYtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 6월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDctMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250716
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDgtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 8월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDktMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTAtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 11월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDEtMDF87IOI7ZW0IOy1nOyggOyehOq4iCDsoIHsmqk@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:새해 최저임금 적용
+TRANSP:TRANSPARENT
+DESCRIPTION:급여 기준표·계약서의 시급을 확인해요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDEtMTV87Jew66eQ7KCV7IKwIOyLnOyekQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:연말정산 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:간소화 자료 공개 → 근로자 공제 자료 제출 →
+  2월 급여 정산이 흔한 순서예요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDEtMzF87J6l7JWg7J24IOqzoOyaqeu2gOuLtOq4iCDsi6Dqs6DCt-
+ uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:장애인 고용부담금 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년분 · 상시근로자 100명 이상 사업주\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDMtMTB86re866Gc7IaM65OdIOyngOq4ieuqheyEuOyEnCDsoJzstp
+ wgKOyXsOunkOygleyCsCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:근로소득 지급명세서 제출 (연말정산)
+TRANSP:TRANSPARENT
+DESCRIPTION:세무서 제출 마감\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDMtMTV86rOg7JqpwrfsgrDsnqzrs7Ttl5gg67O07IiY7LSd7JWhIO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:고용·산재보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2024년 보수 · 건설업 등 자진신고 사업장은 3월
+  31일까지\n원래 기한은 3월 15일인데\, 기한이 토·일요
+ 일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDQtMTB86rG06rCV67O07ZeYIOygleyCsOu2hCDrsJjsmIE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:건강보험 정산분 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수 정산 보험료가 4월분(4월 급여)부
+ 터 반영돼요\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDQtMzB86rOg7Jqp7ZiV7YOcIOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:고용형태 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 300명 이상 · 3월 31일 기준 현황\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDctMDF87Jew7LCoIOyCrOyaqSDstInsp4QgMeywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250711
+SUMMARY:연차 사용 촉진 1차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 1일 기준 연차라면 7월 1~10일 사이에 남은 
+ 연차를 알리고 사용 계획을 받아요\n참고용 일정이에요
+ . 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한
+  기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDctMTB86rWt66-87Jew6riIIOq4sOykgOyGjOuTneyblOyVoSDrs4
+ Dqsr0g67CY7JiB@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:국민연금 기준소득월액 변경 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:7월분 보험료부터 새 기준이 적용돼요\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMDgtMDV864uk7J2MIO2VtCDstZzsoIDsnoTquIgg6rOg7Iuc@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250805
+DTEND;VALUE=DATE:20250806
+SUMMARY:다음 해 최저임금 고시
+TRANSP:TRANSPARENT
+DESCRIPTION:고용노동부 장관 고시 기한\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTAtMzF87Jew7LCoIOyCrOyaqSDstInsp4QgMuywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:연차 사용 촉진 2차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:남은 연차의 사용 시기를 정해 알려 줘요 (만료
+  2개월 전까지)\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTItMDF867KV7KCVIOydmOustOq1kOycoSDsl7DrgrQg7JmE66OMIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:법정 의무교육 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:직장 내 성희롱 예방·직장 내 장애인 인식 개
+ 선·개인정보 보호·퇴직연금 교육은 연 1회 이상\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjUtMTItMzF87Ye07KeB7Jew6riIKERDKSDrtoDri7TquIgg64Kp7J6FIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:퇴직연금(DC) 부담금 납입 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:연 1회 이상 납입\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 1월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDMtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDQtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDUtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 5월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDYtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDctMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDgtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDktMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTAtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 10월 10일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 2월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDMtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 3월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDQtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDUtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDYtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDctMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDgtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 8월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDktMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTAtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 11월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDEtMDF87IOI7ZW0IOy1nOyggOyehOq4iCDsoIHsmqk@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:새해 최저임금 적용
+TRANSP:TRANSPARENT
+DESCRIPTION:급여 기준표·계약서의 시급을 확인해요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDEtMTV87Jew66eQ7KCV7IKwIOyLnOyekQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:연말정산 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:간소화 자료 공개 → 근로자 공제 자료 제출 →
+  2월 급여 정산이 흔한 순서예요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDEtMzF87J6l7JWg7J24IOqzoOyaqeu2gOuLtOq4iCDsi6Dqs6DCt-
+ uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:장애인 고용부담금 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년분 · 상시근로자 100명 이상 사업주\n원래 
+ 기한은 1월 31일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDMtMTB86re866Gc7IaM65OdIOyngOq4ieuqheyEuOyEnCDsoJzstp
+ wgKOyXsOunkOygleyCsCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:근로소득 지급명세서 제출 (연말정산)
+TRANSP:TRANSPARENT
+DESCRIPTION:세무서 제출 마감\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDMtMTV86rOg7JqpwrfsgrDsnqzrs7Ttl5gg67O07IiY7LSd7JWhIO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:고용·산재보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2025년 보수 · 건설업 등 자진신고 사업장은 3월
+  31일까지\n원래 기한은 3월 15일인데\, 기한이 토·일요
+ 일이나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDQtMTB86rG06rCV67O07ZeYIOygleyCsOu2hCDrsJjsmIE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:건강보험 정산분 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수 정산 보험료가 4월분(4월 급여)부
+ 터 반영돼요\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDQtMzB86rOg7Jqp7ZiV7YOcIOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:고용형태 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 300명 이상 · 3월 31일 기준 현황\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDctMDF87Jew7LCoIOyCrOyaqSDstInsp4QgMeywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260711
+SUMMARY:연차 사용 촉진 1차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 1일 기준 연차라면 7월 1~10일 사이에 남은 
+ 연차를 알리고 사용 계획을 받아요\n참고용 일정이에요
+ . 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한
+  기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDctMTB86rWt66-87Jew6riIIOq4sOykgOyGjOuTneyblOyVoSDrs4
+ Dqsr0g67CY7JiB@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:국민연금 기준소득월액 변경 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:7월분 보험료부터 새 기준이 적용돼요\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMDgtMDV864uk7J2MIO2VtCDstZzsoIDsnoTquIgg6rOg7Iuc@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:다음 해 최저임금 고시
+TRANSP:TRANSPARENT
+DESCRIPTION:고용노동부 장관 고시 기한\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTAtMzF87Jew7LCoIOyCrOyaqSDstInsp4QgMuywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:연차 사용 촉진 2차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:남은 연차의 사용 시기를 정해 알려 줘요 (만료
+  2개월 전까지)\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTItMDF867KV7KCVIOydmOustOq1kOycoSDsl7DrgrQg7JmE66OMIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:법정 의무교육 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:직장 내 성희롱 예방·직장 내 장애인 인식 개
+ 선·개인정보 보호·퇴직연금 교육은 연 1회 이상\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjYtMTItMzF87Ye07KeB7Jew6riIKERDKSDrtoDri7TquIgg64Kp7J6FIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:퇴직연금(DC) 부담금 납입 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:연 1회 이상 납입\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 1월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDMtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDQtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 4월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDUtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDYtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDctMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 7월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDgtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDktMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTAtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 10월 10일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDMtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDQtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDUtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 5월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDYtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDctMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDgtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 8월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDktMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 9월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTAtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDEtMDF87IOI7ZW0IOy1nOyggOyehOq4iCDsoIHsmqk@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:새해 최저임금 적용
+TRANSP:TRANSPARENT
+DESCRIPTION:급여 기준표·계약서의 시급을 확인해요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDEtMTV87Jew66eQ7KCV7IKwIOyLnOyekQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:연말정산 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:간소화 자료 공개 → 근로자 공제 자료 제출 →
+  2월 급여 정산이 흔한 순서예요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDEtMzF87J6l7JWg7J24IOqzoOyaqeu2gOuLtOq4iCDsi6Dqs6DCt-
+ uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:장애인 고용부담금 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년분 · 상시근로자 100명 이상 사업주\n원래 
+ 기한은 1월 31일인데\, 기한이 토·일요일이나 공휴일이
+ 면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 법
+  개정이나 회사 사정에 따라 다를 수 있으니 중요한 기
+ 한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDMtMTB86re866Gc7IaM65OdIOyngOq4ieuqheyEuOyEnCDsoJzstp
+ wgKOyXsOunkOygleyCsCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:근로소득 지급명세서 제출 (연말정산)
+TRANSP:TRANSPARENT
+DESCRIPTION:세무서 제출 마감\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDMtMTV86rOg7JqpwrfsgrDsnqzrs7Ttl5gg67O07IiY7LSd7JWhIO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:고용·산재보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2026년 보수 · 건설업 등 자진신고 사업장은 3월
+  31일까지\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDQtMTB86rG06rCV67O07ZeYIOygleyCsOu2hCDrsJjsmIE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:건강보험 정산분 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수 정산 보험료가 4월분(4월 급여)부
+ 터 반영돼요\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDQtMzB86rOg7Jqp7ZiV7YOcIOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:고용형태 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 300명 이상 · 3월 31일 기준 현황\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDctMDF87Jew7LCoIOyCrOyaqSDstInsp4QgMeywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270711
+SUMMARY:연차 사용 촉진 1차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 1일 기준 연차라면 7월 1~10일 사이에 남은 
+ 연차를 알리고 사용 계획을 받아요\n참고용 일정이에요
+ . 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한
+  기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDctMTB86rWt66-87Jew6riIIOq4sOykgOyGjOuTneyblOyVoSDrs4
+ Dqsr0g67CY7JiB@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:국민연금 기준소득월액 변경 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:7월분 보험료부터 새 기준이 적용돼요\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMDgtMDV864uk7J2MIO2VtCDstZzsoIDsnoTquIgg6rOg7Iuc@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:다음 해 최저임금 고시
+TRANSP:TRANSPARENT
+DESCRIPTION:고용노동부 장관 고시 기한\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTAtMzF87Jew7LCoIOyCrOyaqSDstInsp4QgMuywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:연차 사용 촉진 2차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:남은 연차의 사용 시기를 정해 알려 줘요 (만료
+  2개월 전까지)\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTItMDF867KV7KCVIOydmOustOq1kOycoSDsl7DrgrQg7JmE66OMIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:법정 의무교육 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:직장 내 성희롱 예방·직장 내 장애인 인식 개
+ 선·개인정보 보호·퇴직연금 교육은 연 1회 이상\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjctMTItMzF87Ye07KeB7Jew6riIKERDKSDrtoDri7TquIgg64Kp7J6FIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:퇴직연금(DC) 부담금 납입 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:연 1회 이상 납입\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDMtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDQtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDUtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDYtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 6월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDctMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDgtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280811
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDktMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 9월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTAtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281011
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281211
+DTEND;VALUE=DATE:20281212
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 12월 10일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 1월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDMtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDQtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 4월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDUtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDYtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDctMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 7월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDgtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280816
+DTEND;VALUE=DATE:20280817
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 8월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDktMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTAtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 10월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281215
+DTEND;VALUE=DATE:20281216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDEtMDF87IOI7ZW0IOy1nOyggOyehOq4iCDsoIHsmqk@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:새해 최저임금 적용
+TRANSP:TRANSPARENT
+DESCRIPTION:급여 기준표·계약서의 시급을 확인해요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDEtMTV87Jew66eQ7KCV7IKwIOyLnOyekQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:연말정산 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:간소화 자료 공개 → 근로자 공제 자료 제출 →
+  2월 급여 정산이 흔한 순서예요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDEtMzF87J6l7JWg7J24IOqzoOyaqeu2gOuLtOq4iCDsi6Dqs6DCt-
+ uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:장애인 고용부담금 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년분 · 상시근로자 100명 이상 사업주\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDMtMTB86re866Gc7IaM65OdIOyngOq4ieuqheyEuOyEnCDsoJzstp
+ wgKOyXsOunkOygleyCsCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:근로소득 지급명세서 제출 (연말정산)
+TRANSP:TRANSPARENT
+DESCRIPTION:세무서 제출 마감\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDMtMTV86rOg7JqpwrfsgrDsnqzrs7Ttl5gg67O07IiY7LSd7JWhIO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:고용·산재보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2027년 보수 · 건설업 등 자진신고 사업장은 3월
+  31일까지\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDQtMTB86rG06rCV67O07ZeYIOygleyCsOu2hCDrsJjsmIE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:건강보험 정산분 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수 정산 보험료가 4월분(4월 급여)부
+ 터 반영돼요\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDQtMzB86rOg7Jqp7ZiV7YOcIOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:고용형태 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 300명 이상 · 3월 31일 기준 현황\n원
+ 래 기한은 4월 30일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDctMDF87Jew7LCoIOyCrOyaqSDstInsp4QgMeywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280711
+SUMMARY:연차 사용 촉진 1차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 1일 기준 연차라면 7월 1~10일 사이에 남은 
+ 연차를 알리고 사용 계획을 받아요\n참고용 일정이에요
+ . 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한
+  기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDctMTB86rWt66-87Jew6riIIOq4sOykgOyGjOuTneyblOyVoSDrs4
+ Dqsr0g67CY7JiB@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:국민연금 기준소득월액 변경 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:7월분 보험료부터 새 기준이 적용돼요\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMDgtMDV864uk7J2MIO2VtCDstZzsoIDsnoTquIgg6rOg7Iuc@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280806
+SUMMARY:다음 해 최저임금 고시
+TRANSP:TRANSPARENT
+DESCRIPTION:고용노동부 장관 고시 기한\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTAtMzF87Jew7LCoIOyCrOyaqSDstInsp4QgMuywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:연차 사용 촉진 2차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:남은 연차의 사용 시기를 정해 알려 줘요 (만료
+  2개월 전까지)\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTItMDF867KV7KCVIOydmOustOq1kOycoSDsl7DrgrQg7JmE66OMIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:법정 의무교육 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:직장 내 성희롱 예방·직장 내 장애인 인식 개
+ 선·개인정보 보호·퇴직연금 교육은 연 1회 이상\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjgtMTItMzF87Ye07KeB7Jew6riIKERDKSDrtoDri7TquIgg64Kp7J6FIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:퇴직연금(DC) 부담금 납입 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:연 1회 이상 납입\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 2월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDMtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290312
+DTEND;VALUE=DATE:20290313
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 3월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDQtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290410
+DTEND;VALUE=DATE:20290411
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDUtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDYtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290611
+DTEND;VALUE=DATE:20290612
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 6월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDctMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDgtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDktMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290910
+DTEND;VALUE=DATE:20290911
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTAtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291010
+DTEND;VALUE=DATE:20291011
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 11월 10일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291210
+DTEND;VALUE=DATE:20291211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDMtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDQtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 4월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDUtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDYtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDctMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290716
+DTEND;VALUE=DATE:20290717
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 7월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDgtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290816
+DTEND;VALUE=DATE:20290817
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 8월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDktMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 9월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTAtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291217
+DTEND;VALUE=DATE:20291218
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 12월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDEtMDF87IOI7ZW0IOy1nOyggOyehOq4iCDsoIHsmqk@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:새해 최저임금 적용
+TRANSP:TRANSPARENT
+DESCRIPTION:급여 기준표·계약서의 시급을 확인해요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDEtMTV87Jew66eQ7KCV7IKwIOyLnOyekQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:연말정산 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:간소화 자료 공개 → 근로자 공제 자료 제출 →
+  2월 급여 정산이 흔한 순서예요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDEtMzF87J6l7JWg7J24IOqzoOyaqeu2gOuLtOq4iCDsi6Dqs6DCt-
+ uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:장애인 고용부담금 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년분 · 상시근로자 100명 이상 사업주\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDMtMTB86re866Gc7IaM65OdIOyngOq4ieuqheyEuOyEnCDsoJzstp
+ wgKOyXsOunkOygleyCsCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290312
+DTEND;VALUE=DATE:20290313
+SUMMARY:근로소득 지급명세서 제출 (연말정산)
+TRANSP:TRANSPARENT
+DESCRIPTION:세무서 제출 마감\n원래 기한은 3월 10일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDMtMTV86rOg7JqpwrfsgrDsnqzrs7Ttl5gg67O07IiY7LSd7JWhIO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:고용·산재보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2028년 보수 · 건설업 등 자진신고 사업장은 3월
+  31일까지\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDQtMTB86rG06rCV67O07ZeYIOygleyCsOu2hCDrsJjsmIE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290410
+DTEND;VALUE=DATE:20290411
+SUMMARY:건강보험 정산분 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수 정산 보험료가 4월분(4월 급여)부
+ 터 반영돼요\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDQtMzB86rOg7Jqp7ZiV7YOcIOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:고용형태 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 300명 이상 · 3월 31일 기준 현황\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDctMDF87Jew7LCoIOyCrOyaqSDstInsp4QgMeywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290701
+DTEND;VALUE=DATE:20290711
+SUMMARY:연차 사용 촉진 1차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 1일 기준 연차라면 7월 1~10일 사이에 남은 
+ 연차를 알리고 사용 계획을 받아요\n참고용 일정이에요
+ . 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한
+  기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDctMTB86rWt66-87Jew6riIIOq4sOykgOyGjOuTneyblOyVoSDrs4
+ Dqsr0g67CY7JiB@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:국민연금 기준소득월액 변경 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:7월분 보험료부터 새 기준이 적용돼요\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMDgtMDV864uk7J2MIO2VtCDstZzsoIDsnoTquIgg6rOg7Iuc@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290805
+DTEND;VALUE=DATE:20290806
+SUMMARY:다음 해 최저임금 고시
+TRANSP:TRANSPARENT
+DESCRIPTION:고용노동부 장관 고시 기한\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTAtMzF87Jew7LCoIOyCrOyaqSDstInsp4QgMuywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:연차 사용 촉진 2차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:남은 연차의 사용 시기를 정해 알려 줘요 (만료
+  2개월 전까지)\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTItMDF867KV7KCVIOydmOustOq1kOycoSDsl7DrgrQg7JmE66OMIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291201
+DTEND;VALUE=DATE:20291202
+SUMMARY:법정 의무교육 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:직장 내 성희롱 예방·직장 내 장애인 인식 개
+ 선·개인정보 보호·퇴직연금 교육은 연 1회 이상\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMjktMTItMzF87Ye07KeB7Jew6riIKERDKSDrtoDri7TquIgg64Kp7J6FIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:퇴직연금(DC) 부담금 납입 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:연 1회 이상 납입\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300110
+DTEND;VALUE=DATE:20300111
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 2월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDMtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 3월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDQtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDUtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300510
+DTEND;VALUE=DATE:20300511
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDYtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDctMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDgtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300812
+DTEND;VALUE=DATE:20300813
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 8월 10일인데\, 기한이 토·일요일이나 공휴일
+ 이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDktMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300910
+DTEND;VALUE=DATE:20300911
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTAtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301010
+DTEND;VALUE=DATE:20301011
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTEtMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n원
+ 래 기한은 11월 10일인데\, 기한이 토·일요일이나 공휴
+ 일이면 다음 날로 옮겨 표시했어요.\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTItMTB8NOuMgOuztO2XmOujjCDrgqnrtoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301210
+DTEND;VALUE=DATE:20301211
+SUMMARY:4대보험료 납부
+TRANSP:TRANSPARENT
+DESCRIPTION:전월분 국민연금·건강·고용·산재보험료\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:12월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDMtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDQtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:3월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDUtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:4월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDYtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:5월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 6월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDctMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300715
+DTEND;VALUE=DATE:20300716
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDgtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300816
+DTEND;VALUE=DATE:20300817
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:7월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 8월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDktMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:8월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 9월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTAtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:9월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTEtMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:10월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n참고용 일정이에요. 법 개정이나 회사 사정에 따
+ 라 다를 수 있으니 중요한 기한은 해당 기관 안내를 함
+ 께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTItMTV87J287Jqp6re866Gc7J6QIOq3vOuhnOuCtOyaqe2ZleyduO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301216
+DTEND;VALUE=DATE:20301217
+SUMMARY:일용근로자 근로내용확인신고
+TRANSP:TRANSPARENT
+DESCRIPTION:11월 일용근로분 (고용·산재보험\, 다음 달 15일
+ 까지)\n원래 기한은 12월 15일인데\, 기한이 토·일요일이
+ 나 공휴일이면 다음 날로 옮겨 표시했어요.\n참고용 일
+ 정이에요. 법 개정이나 회사 사정에 따라 다를 수 있으
+ 니 중요한 기한은 해당 기관 안내를 함께 확인해 주세
+ 요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDEtMDF87IOI7ZW0IOy1nOyggOyehOq4iCDsoIHsmqk@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:새해 최저임금 적용
+TRANSP:TRANSPARENT
+DESCRIPTION:급여 기준표·계약서의 시급을 확인해요\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDEtMTV87Jew66eQ7KCV7IKwIOyLnOyekQ@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:연말정산 시작
+TRANSP:TRANSPARENT
+DESCRIPTION:간소화 자료 공개 → 근로자 공제 자료 제출 →
+  2월 급여 정산이 흔한 순서예요\n참고용 일정이에요. 
+ 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한 
+ 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDEtMzF87J6l7JWg7J24IOqzoOyaqeu2gOuLtOq4iCDsi6Dqs6DCt-
+ uCqeu2gA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:장애인 고용부담금 신고·납부
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년분 · 상시근로자 100명 이상 사업주\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDMtMTB86re866Gc7IaM65OdIOyngOq4ieuqheyEuOyEnCDsoJzstp
+ wgKOyXsOunkOygleyCsCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:근로소득 지급명세서 제출 (연말정산)
+TRANSP:TRANSPARENT
+DESCRIPTION:세무서 제출 마감\n원래 기한은 3월 10일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDMtMTV86rOg7JqpwrfsgrDsnqzrs7Ttl5gg67O07IiY7LSd7JWhIO
+ yLoOqzoA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:고용·산재보험 보수총액 신고
+TRANSP:TRANSPARENT
+DESCRIPTION:2029년 보수 · 건설업 등 자진신고 사업장은 3월
+  31일까지\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDQtMTB86rG06rCV67O07ZeYIOygleyCsOu2hCDrsJjsmIE@totalc
+ alendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300410
+DTEND;VALUE=DATE:20300411
+SUMMARY:건강보험 정산분 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:전년도 보수 정산 보험료가 4월분(4월 급여)부
+ 터 반영돼요\n참고용 일정이에요. 법 개정이나 회사 사
+ 정에 따라 다를 수 있으니 중요한 기한은 해당 기관 안
+ 내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDQtMzB86rOg7Jqp7ZiV7YOcIOqzteyLnCDrp4jqsJA@totalcalen
+ dar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:고용형태 공시 마감
+TRANSP:TRANSPARENT
+DESCRIPTION:상시근로자 300명 이상 · 3월 31일 기준 현황\n참
+ 고용 일정이에요. 법 개정이나 회사 사정에 따라 다를 
+ 수 있으니 중요한 기한은 해당 기관 안내를 함께 확인
+ 해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDctMDF87Jew7LCoIOyCrOyaqSDstInsp4QgMeywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300711
+SUMMARY:연차 사용 촉진 1차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:1월 1일 기준 연차라면 7월 1~10일 사이에 남은 
+ 연차를 알리고 사용 계획을 받아요\n참고용 일정이에요
+ . 법 개정이나 회사 사정에 따라 다를 수 있으니 중요한
+  기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDctMTB86rWt66-87Jew6riIIOq4sOykgOyGjOuTneyblOyVoSDrs4
+ Dqsr0g67CY7JiB@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:국민연금 기준소득월액 변경 반영
+TRANSP:TRANSPARENT
+DESCRIPTION:7월분 보험료부터 새 기준이 적용돼요\n참고용 
+ 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 있
+ 으니 중요한 기한은 해당 기관 안내를 함께 확인해 주
+ 세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMDgtMDV864uk7J2MIO2VtCDstZzsoIDsnoTquIgg6rOg7Iuc@total
+ calendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300805
+DTEND;VALUE=DATE:20300806
+SUMMARY:다음 해 최저임금 고시
+TRANSP:TRANSPARENT
+DESCRIPTION:고용노동부 장관 고시 기한\n참고용 일정이에
+ 요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중요
+ 한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTAtMzF87Jew7LCoIOyCrOyaqSDstInsp4QgMuywqCAo7ZqM6rOE7J
+ ew64-EIOq4sOykgCk@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:연차 사용 촉진 2차 (회계연도 기준)
+TRANSP:TRANSPARENT
+DESCRIPTION:남은 연차의 사용 시기를 정해 알려 줘요 (만료
+  2개월 전까지)\n참고용 일정이에요. 법 개정이나 회사 
+ 사정에 따라 다를 수 있으니 중요한 기한은 해당 기관 
+ 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTItMDF867KV7KCVIOydmOustOq1kOycoSDsl7DrgrQg7JmE66OMIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301201
+DTEND;VALUE=DATE:20301202
+SUMMARY:법정 의무교육 연내 완료 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:직장 내 성희롱 예방·직장 내 장애인 인식 개
+ 선·개인정보 보호·퇴직연금 교육은 연 1회 이상\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLWhyOjIwMzAtMTItMzF87Ye07KeB7Jew6riIKERDKSDrtoDri7TquIgg64Kp7J6FIO
+ 2ZleyduA@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:퇴직연금(DC) 부담금 납입 확인
+TRANSP:TRANSPARENT
+DESCRIPTION:연 1회 이상 납입\n참고용 일정이에요. 법 개정
+ 이나 회사 사정에 따라 다를 수 있으니 중요한 기한은 
+ 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,533 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Total Calendar//Preset calendars//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Total Calendar · 공공·예산 일정
+X-WR-CALDESC:국가 예산 편성·제출·의결\, 정기국회\, 결산\
+ , 공공기관 경영평가 · Total Calendar가 만든 참고용 달력 
+ (kkumanix.github.io/total-calendar)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTAzLTMxfOuLpOydjCDtlbQg7JiI7IKw7JWIIO2OuOyEsSDsp4
+ Dsuagg7Ya167O0@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:다음 해 예산안 편성 지침 통보
+TRANSP:TRANSPARENT
+DESCRIPTION:기획재정부 → 각 중앙관서 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTA1LTMxfOyYiOyCsOyalOq1rOyEnCDsoJzstpwgwrcg6rWt6r
+ CA6rKw7IKw67O06rOg7IScIOq1re2ajCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:예산요구서 제출 · 국가결산보고서 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:각 중앙관서 → 기획재정부 / 정부 → 국회 (국
+ 가재정법)\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTA2LTIwfOqzteqzteq4sOq0gCDqsr3smIHsi6TsoIEg7Y-J6r
+ CAIOqysOqzvCDrsJztkZw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:공공기관 경영실적 평가 결과 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 20일까지 (공공기관운영법)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTA5LTAxfOygleq4sOq1re2ajCDqsJztmow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:정기국회 개회
+TRANSP:TRANSPARENT
+DESCRIPTION:100일 회기 (국회법)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTA5LTAyfOygleu2gCDsmIjsgrDslYgg6rWt7ZqMIOygnOy2nA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+SUMMARY:정부 예산안 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 120일 전까지 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTEwLTAxfOq1reygleqwkOyCrCDsi5zspow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:국정감사 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 10월 중 · 국회가 해마다 기간을 정해요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI1LTEyLTAyfOuLpOydjCDtlbQg7JiI7IKw7JWIIOq1re2ajCDsnZ
+ jqsrAg6riw7ZWc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:다음 해 예산안 국회 의결 기한
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 30일 전까지 (헌법)\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTAzLTMxfOuLpOydjCDtlbQg7JiI7IKw7JWIIO2OuOyEsSDsp4
+ Dsuagg7Ya167O0@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:다음 해 예산안 편성 지침 통보
+TRANSP:TRANSPARENT
+DESCRIPTION:기획재정부 → 각 중앙관서 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTA1LTMxfOyYiOyCsOyalOq1rOyEnCDsoJzstpwgwrcg6rWt6r
+ CA6rKw7IKw67O06rOg7IScIOq1re2ajCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:예산요구서 제출 · 국가결산보고서 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:각 중앙관서 → 기획재정부 / 정부 → 국회 (국
+ 가재정법)\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTA2LTIwfOqzteqzteq4sOq0gCDqsr3smIHsi6TsoIEg7Y-J6r
+ CAIOqysOqzvCDrsJztkZw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:공공기관 경영실적 평가 결과 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 20일까지 (공공기관운영법)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTA5LTAxfOygleq4sOq1re2ajCDqsJztmow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:정기국회 개회
+TRANSP:TRANSPARENT
+DESCRIPTION:100일 회기 (국회법)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTA5LTAyfOygleu2gCDsmIjsgrDslYgg6rWt7ZqMIOygnOy2nA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:정부 예산안 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 120일 전까지 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTEwLTAxfOq1reygleqwkOyCrCDsi5zspow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:국정감사 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 10월 중 · 국회가 해마다 기간을 정해요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI2LTEyLTAyfOuLpOydjCDtlbQg7JiI7IKw7JWIIOq1re2ajCDsnZ
+ jqsrAg6riw7ZWc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:다음 해 예산안 국회 의결 기한
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 30일 전까지 (헌법)\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTAzLTMxfOuLpOydjCDtlbQg7JiI7IKw7JWIIO2OuOyEsSDsp4
+ Dsuagg7Ya167O0@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:다음 해 예산안 편성 지침 통보
+TRANSP:TRANSPARENT
+DESCRIPTION:기획재정부 → 각 중앙관서 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTA1LTMxfOyYiOyCsOyalOq1rOyEnCDsoJzstpwgwrcg6rWt6r
+ CA6rKw7IKw67O06rOg7IScIOq1re2ajCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:예산요구서 제출 · 국가결산보고서 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:각 중앙관서 → 기획재정부 / 정부 → 국회 (국
+ 가재정법)\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTA2LTIwfOqzteqzteq4sOq0gCDqsr3smIHsi6TsoIEg7Y-J6r
+ CAIOqysOqzvCDrsJztkZw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:공공기관 경영실적 평가 결과 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 20일까지 (공공기관운영법)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTA5LTAxfOygleq4sOq1re2ajCDqsJztmow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:정기국회 개회
+TRANSP:TRANSPARENT
+DESCRIPTION:100일 회기 (국회법)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTA5LTAyfOygleu2gCDsmIjsgrDslYgg6rWt7ZqMIOygnOy2nA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:정부 예산안 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 120일 전까지 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTEwLTAxfOq1reygleqwkOyCrCDsi5zspow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:국정감사 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 10월 중 · 국회가 해마다 기간을 정해요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI3LTEyLTAyfOuLpOydjCDtlbQg7JiI7IKw7JWIIOq1re2ajCDsnZ
+ jqsrAg6riw7ZWc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:다음 해 예산안 국회 의결 기한
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 30일 전까지 (헌법)\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTAzLTMxfOuLpOydjCDtlbQg7JiI7IKw7JWIIO2OuOyEsSDsp4
+ Dsuagg7Ya167O0@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:다음 해 예산안 편성 지침 통보
+TRANSP:TRANSPARENT
+DESCRIPTION:기획재정부 → 각 중앙관서 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTA1LTMxfOyYiOyCsOyalOq1rOyEnCDsoJzstpwgwrcg6rWt6r
+ CA6rKw7IKw67O06rOg7IScIOq1re2ajCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:예산요구서 제출 · 국가결산보고서 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:각 중앙관서 → 기획재정부 / 정부 → 국회 (국
+ 가재정법)\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTA2LTIwfOqzteqzteq4sOq0gCDqsr3smIHsi6TsoIEg7Y-J6r
+ CAIOqysOqzvCDrsJztkZw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:공공기관 경영실적 평가 결과 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 20일까지 (공공기관운영법)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTA5LTAxfOygleq4sOq1re2ajCDqsJztmow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280901
+DTEND;VALUE=DATE:20280902
+SUMMARY:정기국회 개회
+TRANSP:TRANSPARENT
+DESCRIPTION:100일 회기 (국회법)\n참고용 일정이에요. 법 개
+ 정이나 회사 사정에 따라 다를 수 있으니 중요한 기한
+ 은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTA5LTAyfOygleu2gCDsmIjsgrDslYgg6rWt7ZqMIOygnOy2nA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20280902
+DTEND;VALUE=DATE:20280903
+SUMMARY:정부 예산안 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 120일 전까지 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTEwLTAxfOq1reygleqwkOyCrCDsi5zspow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:국정감사 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 10월 중 · 국회가 해마다 기간을 정해요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI4LTEyLTAyfOuLpOydjCDtlbQg7JiI7IKw7JWIIOq1re2ajCDsnZ
+ jqsrAg6riw7ZWc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20281202
+DTEND;VALUE=DATE:20281203
+SUMMARY:다음 해 예산안 국회 의결 기한
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 30일 전까지 (헌법)\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTAzLTMxfOuLpOydjCDtlbQg7JiI7IKw7JWIIO2OuOyEsSDsp4
+ Dsuagg7Ya167O0@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:다음 해 예산안 편성 지침 통보
+TRANSP:TRANSPARENT
+DESCRIPTION:기획재정부 → 각 중앙관서 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTA1LTMxfOyYiOyCsOyalOq1rOyEnCDsoJzstpwgwrcg6rWt6r
+ CA6rKw7IKw67O06rOg7IScIOq1re2ajCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:예산요구서 제출 · 국가결산보고서 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:각 중앙관서 → 기획재정부 / 정부 → 국회 (국
+ 가재정법)\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTA2LTIwfOqzteqzteq4sOq0gCDqsr3smIHsi6TsoIEg7Y-J6r
+ CAIOqysOqzvCDrsJztkZw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290620
+DTEND;VALUE=DATE:20290621
+SUMMARY:공공기관 경영실적 평가 결과 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 20일까지 (공공기관운영법)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTA5LTAxfOygleq4sOq1re2ajCDqsJztmow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+SUMMARY:정기국회 개회
+TRANSP:TRANSPARENT
+DESCRIPTION:100일 회기 (국회법)\n원래 기한은 9월 1일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTA5LTAyfOygleu2gCDsmIjsgrDslYgg6rWt7ZqMIOygnOy2nA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20290902
+DTEND;VALUE=DATE:20290903
+SUMMARY:정부 예산안 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 120일 전까지 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTEwLTAxfOq1reygleqwkOyCrCDsi5zspow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:국정감사 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 10월 중 · 국회가 해마다 기간을 정해요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDI5LTEyLTAyfOuLpOydjCDtlbQg7JiI7IKw7JWIIOq1re2ajCDsnZ
+ jqsrAg6riw7ZWc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20291202
+DTEND;VALUE=DATE:20291203
+SUMMARY:다음 해 예산안 국회 의결 기한
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 30일 전까지 (헌법)\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTAzLTMxfOuLpOydjCDtlbQg7JiI7IKw7JWIIO2OuOyEsSDsp4
+ Dsuagg7Ya167O0@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300331
+DTEND;VALUE=DATE:20300401
+SUMMARY:다음 해 예산안 편성 지침 통보
+TRANSP:TRANSPARENT
+DESCRIPTION:기획재정부 → 각 중앙관서 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTA1LTMxfOyYiOyCsOyalOq1rOyEnCDsoJzstpwgwrcg6rWt6r
+ CA6rKw7IKw67O06rOg7IScIOq1re2ajCDsoJzstpw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:예산요구서 제출 · 국가결산보고서 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:각 중앙관서 → 기획재정부 / 정부 → 국회 (국
+ 가재정법)\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTA2LTIwfOqzteqzteq4sOq0gCDqsr3smIHsi6TsoIEg7Y-J6r
+ CAIOqysOqzvCDrsJztkZw@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300620
+DTEND;VALUE=DATE:20300621
+SUMMARY:공공기관 경영실적 평가 결과 발표
+TRANSP:TRANSPARENT
+DESCRIPTION:6월 20일까지 (공공기관운영법)\n참고용 일정이
+ 에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 중
+ 요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTA5LTAxfOygleq4sOq1re2ajCDqsJztmow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:정기국회 개회
+TRANSP:TRANSPARENT
+DESCRIPTION:100일 회기 (국회법)\n원래 기한은 9월 1일인데\, 
+ 기한이 토·일요일이나 공휴일이면 다음 날로 옮겨 표
+ 시했어요.\n참고용 일정이에요. 법 개정이나 회사 사정
+ 에 따라 다를 수 있으니 중요한 기한은 해당 기관 안내
+ 를 함께 확인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTA5LTAyfOygleu2gCDsmIjsgrDslYgg6rWt7ZqMIOygnOy2nA
+ @totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:정부 예산안 국회 제출
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 120일 전까지 (국가재정법)\n참고
+ 용 일정이에요. 법 개정이나 회사 사정에 따라 다를 수 
+ 있으니 중요한 기한은 해당 기관 안내를 함께 확인해 
+ 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTEwLTAxfOq1reygleqwkOyCrCDsi5zspow@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301001
+DTEND;VALUE=DATE:20301002
+SUMMARY:국정감사 시즌
+TRANSP:TRANSPARENT
+DESCRIPTION:보통 10월 중 · 국회가 해마다 기간을 정해요\n
+ 참고용 일정이에요. 법 개정이나 회사 사정에 따라 다
+ 를 수 있으니 중요한 기한은 해당 기관 안내를 함께 확
+ 인해 주세요.
+END:VEVENT
+BEGIN:VEVENT
+UID:am9iLXB1YmxpYzoyMDMwLTEyLTAyfOuLpOydjCDtlbQg7JiI7IKw7JWIIOq1re2ajCDsnZ
+ jqsrAg6riw7ZWc@totalcalendar
+DTSTAMP:20261118T054647Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:다음 해 예산안 국회 의결 기한
+TRANSP:TRANSPARENT
+DESCRIPTION:회계연도 시작 30일 전까지 (헌법)\n참고용 일정
+ 이에요. 법 개정이나 회사 사정에 따라 다를 수 있으니 
+ 중요한 기한은 해당 기관 안내를 함께 확인해 주세요.
+END:VEVENT
+END:VCALENDAR
