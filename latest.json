@@ -1,8 +1,8 @@
 {
-  "version": "1.9.51",
-  "date": "2026-11-17",
-  "notes": "- 설정 탭 줄이기: 보이는 화면은 기본 설정, 백업은 계정 안으로\n- 설정 창 색 고정 (스킨을 바꿔도 밝게/어둡게 그대로)\n- 캘린더 스킨 화면 정리\n- 파일(.ics)에서 일정 가져오기\n- 응원 친구가 오늘 일정·날짜·날씨에 맞춰 말해요\n- 자동 동기화 끄기 추가",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.51.zip",
-  "sha256": "866e90a127be252c135b8fd2b411af1c5720dddfb4d078d6d5716ca4ab77ed1b",
-  "size": 27451992
+  "version": "1.9.52",
+  "date": "2026-11-18",
+  "notes": "- 더 넣을 수 있는 달력: 캘린더 연결 아래에서 체크만 하면 날짜가 채워져요\n- 업무 일정: 세무 · 인사·노무 · 경영·회계·공시 · 건설\n- 기념일·24절기, 다른 나라 공휴일 12개국",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.52.zip",
+  "sha256": "2865f12cc9ae3df295aa3eadada31e2fd0e30c666a0b97feaa1d635cfd3a683e",
+  "size": 27468138
 }
