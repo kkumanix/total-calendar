@@ -1,8 +1,8 @@
 {
-  "version": "1.9.54",
+  "version": "1.9.55",
   "date": "2026-11-18",
-  "notes": "- Google 캘린더 계정 연결(읽기·쓰기) 시험 시작",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.54.zip",
-  "sha256": "357472742dcb1ee6f99b6510963c829ad20d13d796498ddc551a8837e26a28fc",
-  "size": 27476880
+  "notes": "- Google 캘린더 계정 연결(읽기·쓰기) 시험 시작\n- 연결한 Google 캘린더를 새 일정 저장 위치로 바로 고를 수 있어요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.55.zip",
+  "sha256": "34987344fe314439c8399c0157ec3e655f6fd39844cf9c675dd77732c30be0cd",
+  "size": 27476994
 }
