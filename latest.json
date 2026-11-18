@@ -1,8 +1,8 @@
 {
-  "version": "1.9.56",
+  "version": "1.9.57",
   "date": "2026-11-18",
-  "notes": "- 토탈캘린더에 저장하면 연결한 Google·Outlook·네이버에도 같이 들어가고, 고치거나 지우면 같이 바뀌어요\n- 연결한 Google 캘린더를 저장 위치로 고를 수 있어요",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.56.zip",
-  "sha256": "0c5feb4a36e1ccf46e1698454575039a51bd9b3b0539dcdc9061b19dfd32ac8c",
-  "size": 27480172
+  "notes": "- 24절기·기념일·업무 일정 같은 달력을 Google 캘린더에도 보이게 (설정 > 캘린더 연결)\n- 토탈캘린더에 저장하면 연결한 캘린더에도 같이 들어가요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.57.zip",
+  "sha256": "91165c41a82217557b4a67528c0a1813a3dba4cb2ee95f03c10c06378bdd43b4",
+  "size": 27482262
 }
