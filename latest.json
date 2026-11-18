@@ -1,8 +1,8 @@
 {
-  "version": "1.9.53",
+  "version": "1.9.54",
   "date": "2026-11-18",
-  "notes": "- 더 넣을 수 있는 달력 8가지 추가: 개인사업자 세무, 안전보건, IT·정보보호, 공공·예산\n- 생활·관심사: 생활 세금, 금융·증시, 쇼핑·마케팅 대목, 입시·학사",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.53.zip",
-  "sha256": "6259b6c05d2aef94d59ca7ca462e3a0ba1da255494b39ba5b18555f82e2658f0",
-  "size": 27476699
+  "notes": "- Google 캘린더 계정 연결(읽기·쓰기) 시험 시작",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.54.zip",
+  "sha256": "357472742dcb1ee6f99b6510963c829ad20d13d796498ddc551a8837e26a28fc",
+  "size": 27476880
 }
