@@ -1,8 +1,8 @@
 {
-  "version": "1.9.52",
+  "version": "1.9.53",
   "date": "2026-11-18",
-  "notes": "- 더 넣을 수 있는 달력: 캘린더 연결 아래에서 체크만 하면 날짜가 채워져요\n- 업무 일정: 세무 · 인사·노무 · 경영·회계·공시 · 건설\n- 기념일·24절기, 다른 나라 공휴일 12개국",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.52.zip",
-  "sha256": "2865f12cc9ae3df295aa3eadada31e2fd0e30c666a0b97feaa1d635cfd3a683e",
-  "size": 27468138
+  "notes": "- 더 넣을 수 있는 달력 8가지 추가: 개인사업자 세무, 안전보건, IT·정보보호, 공공·예산\n- 생활·관심사: 생활 세금, 금융·증시, 쇼핑·마케팅 대목, 입시·학사",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/DeskCal-app-1.9.53.zip",
+  "sha256": "6259b6c05d2aef94d59ca7ca462e3a0ba1da255494b39ba5b18555f82e2658f0",
+  "size": 27476699
 }
