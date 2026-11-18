@@ -1,9 +1,9 @@
 {
-  "version": "3.1.21",
+  "version": "3.1.22",
   "minNative": 22,
   "date": "2026-11-18",
-  "notes": "토탈캘린더에 저장하면 연결한 Google·Outlook·네이버에도 같이 들어가고, 고치거나 지우면 같이 바뀌어요 · 휴대폰 Google 로그인(새 APK 필요)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.21.zip",
-  "sha256": "5a1fc992de69fd951fcc1bcd747ccf5011737b609176bc257ca9bee1c73c3ed4",
-  "size": 951808
+  "notes": "24절기·기념일·업무 일정 같은 달력을 Google 캘린더에도 보이게 할 수 있어요 (설정 > 캘린더 연결)",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.22.zip",
+  "sha256": "16dfb54b1dbfbd03183fc937ee91aed26606d80da9e5ac47c00f6290d2dd5e9b",
+  "size": 955270
 }
