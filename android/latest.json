@@ -1,9 +1,9 @@
 {
-  "version": "3.1.18",
+  "version": "3.1.19",
   "minNative": 22,
-  "date": "2026-11-17",
-  "notes": "설정 탭 줄이기 · 설정 창 색 고정 · 파일(.ics)에서 일정 가져오기 · 응원 친구가 오늘 일정·날씨에 맞춰 말해요 · 자동 동기화 끄기",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.18.zip",
-  "sha256": "6ed56f3d51eee3ad8928d3d3cf77957b91395deb8e569f2e33cc80775df1afeb",
-  "size": 904342
+  "date": "2026-11-18",
+  "notes": "더 넣을 수 있는 달력: 세무·인사·경영·건설 업무 일정, 기념일·24절기, 다른 나라 공휴일을 체크만 하면 넣어 줘요",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.19.zip",
+  "sha256": "4a053e8eb466afd4494080412f8e0c3374f48726f958a54674fd62ee53e11534",
+  "size": 926397
 }
