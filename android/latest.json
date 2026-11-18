@@ -1,9 +1,9 @@
 {
-  "version": "3.1.22",
+  "version": "3.1.23",
   "minNative": 22,
   "date": "2026-11-18",
-  "notes": "24절기·기념일·업무 일정 같은 달력을 Google 캘린더에도 보이게 할 수 있어요 (설정 > 캘린더 연결)",
-  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.22.zip",
-  "sha256": "16dfb54b1dbfbd03183fc937ee91aed26606d80da9e5ac47c00f6290d2dd5e9b",
-  "size": 955270
+  "notes": "Google에 추가한 달력을 설정에서 바로 뺄 수 있어요 · 공휴일은 버튼 한 번으로 Google에 추가",
+  "url": "https://raw.githubusercontent.com/kkumanix/total-calendar/main/android/TotalCalendar-web-3.1.23.zip",
+  "sha256": "3a0a4d7e840c1c505fa7224ee044de671117280e797a037deb795a547729ee77",
+  "size": 958141
 }
